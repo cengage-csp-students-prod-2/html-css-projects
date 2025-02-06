@@ -1,0 +1,1 @@
+**Task #04:** Set the `border-collapse` and `padding` properties for the `table`, `tr`, `th`, and `td` selectors

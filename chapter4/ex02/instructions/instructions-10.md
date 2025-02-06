@@ -1,0 +1,1 @@
+**Task #10:** Add the `link` class selector to the anchor elements in the *contact.html* file

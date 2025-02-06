@@ -1,0 +1,1 @@
+**Task #14:** Add the `table` elements with the correct format to the *rentals.html* file

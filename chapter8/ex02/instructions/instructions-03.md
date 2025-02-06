@@ -1,0 +1,1 @@
+**Task #03:** Insert the the `partner` and `desktop` selectors

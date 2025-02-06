@@ -1,0 +1,1 @@
+**Task #06:** Add styles to the `th`, `tr`, and `td` selectors
