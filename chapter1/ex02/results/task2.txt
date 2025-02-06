@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Add the `lang` attribute to the starting `html` tag and specify the language as 'English' as follows: `<html lang="en">
 Reason: None
-Timestamp: 2025-02-06 12:47:39.352305
+Timestamp: 2025-02-06 12:50:33.334726
