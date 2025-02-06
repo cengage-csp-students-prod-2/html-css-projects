@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Add the `charset` attribute to the `meta` tag and specify the character set as 'utf-8' as follows: `<meta charset="utf-8">`
 Reason: None
-Timestamp: 2025-02-06 12:50:33.335901
+Timestamp: 2025-02-06 12:51:47.330634
