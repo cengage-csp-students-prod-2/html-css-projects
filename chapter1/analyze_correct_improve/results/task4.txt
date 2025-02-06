@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Correct the issues with the `title` and `meta` tags.
 Reason: None
-Timestamp: 2025-02-06 12:12:32.416821
+Timestamp: 2025-02-06 12:14:21.373182
 
 Status: PASSED!
 Check: 2
 Test: Add the `charset` attribute to the `meta` tag and specify the character set as 'utf-8' as follows: `<meta charset="utf-8">`
 Reason: None
-Timestamp: 2025-02-06 12:12:32.417456
+Timestamp: 2025-02-06 12:14:21.373849
 
 Status: PASSED!
 Check: 3
 Test: Ensure there is only one `meta` tag in the `head` tag.
 Reason: None
-Timestamp: 2025-02-06 12:12:32.418199
+Timestamp: 2025-02-06 12:14:21.374609
