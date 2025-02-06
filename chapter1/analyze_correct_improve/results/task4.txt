@@ -2,19 +2,22 @@
 Status: FAILED!
 Check: 1
 Test: Correct the issues with the `title` and `meta` tags.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'text'
-Error : AttributeError - 'NoneType' object has no attribute 'text'
-Timestamp: 2025-02-06 12:01:44.077663
+Reason: Assertion failed: '' != 'Chapter 1, Analyze'
++ Chapter 1, Analyze
 
-Status: FAILED!
+Error : AssertionError - '' != 'Chapter 1, Analyze'
++ Chapter 1, Analyze
+
+Timestamp: 2025-02-06 12:03:27.491765
+
+Status: PASSED!
 Check: 2
 Test: Add the `charset` attribute to the `meta` tag and specify the character set as 'utf-8' as follows: `<meta charset="utf-8">`
-Reason: KeyError occurred: 'charset'
-Error : KeyError - 'charset'
-Timestamp: 2025-02-06 12:01:44.078412
+Reason: None
+Timestamp: 2025-02-06 12:03:27.492595
 
 Status: PASSED!
 Check: 3
 Test: Ensure there is only one `meta` tag in the `head` tag.
 Reason: None
-Timestamp: 2025-02-06 12:01:44.078893
+Timestamp: 2025-02-06 12:03:27.493272
