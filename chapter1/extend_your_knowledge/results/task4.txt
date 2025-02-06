@@ -1,0 +1,17 @@
+
+Status: FAILED!
+Check: 1
+Test: Set the text for the `title` element.
+Reason: Assertion failed: 'Ch 1 Extend Your Knowledge' != 'CH 1 Extend Your Knowledge'
+- Ch 1 Extend Your Knowledge
+?  ^
++ CH 1 Extend Your Knowledge
+?  ^
+
+Error : AssertionError - 'Ch 1 Extend Your Knowledge' != 'CH 1 Extend Your Knowledge'
+- Ch 1 Extend Your Knowledge
+?  ^
++ CH 1 Extend Your Knowledge
+?  ^
+
+Timestamp: 2025-02-06 11:40:11.207415
