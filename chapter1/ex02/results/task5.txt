@@ -1,11 +1,10 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the `body` element, nest a paragraph element that includes the following text: 'Wild Rescues Website Outline'
 
 Below the first paragraph element, add another paragraph element that includes the text, 'Completed by:' followed by your name. 
 
 Below the second paragraph, add two blank lines.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'text'
-Error : AttributeError - 'NoneType' object has no attribute 'text'
-Timestamp: 2025-02-06 12:42:14.955923
+Reason: None
+Timestamp: 2025-02-06 12:47:39.355160
