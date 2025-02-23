@@ -4,11 +4,11 @@ Check: 1
 Test: Nest the first paragraph element within the footer element
 Reason: Assertion failed: Expected 1 p element within the footer element
 Error : AssertionError - Expected 1 p element within the footer element
-Timestamp: 2025-02-23 08:17:20.330919
+Timestamp: 2025-02-23 08:18:40.976902
 
 Status: FAILED!
 Check: 2
 Test: Nest the second paragraph element within the footer element
 Reason: Assertion failed: Expected 2 p elements within the footer element
 Error : AssertionError - Expected 2 p elements within the footer element
-Timestamp: 2025-02-23 08:17:20.331901
+Timestamp: 2025-02-23 08:18:40.977547
