@@ -4,25 +4,25 @@ Check: 1
 Test: Nest the header element within the body element
 Reason: Assertion failed: No header element found in the file
 Error : AssertionError - No header element found in the file
-Timestamp: 2025-02-23 21:36:45.113438
+Timestamp: 2025-02-23 21:41:41.471771
 
 Status: FAILED!
 Check: 2
 Test: Nest the nav element within the body element
 Reason: Assertion failed: No nav element found in the file
 Error : AssertionError - No nav element found in the file
-Timestamp: 2025-02-23 21:36:45.114022
+Timestamp: 2025-02-23 21:41:41.472143
 
 Status: FAILED!
 Check: 3
 Test: Nest the main element within the body element
 Reason: Assertion failed: No main element found in the file
 Error : AssertionError - No main element found in the file
-Timestamp: 2025-02-23 21:36:45.114564
+Timestamp: 2025-02-23 21:41:41.472502
 
 Status: FAILED!
 Check: 4
 Test: Nest the footer element within the body element
 Reason: Assertion failed: No footer element found in the file
 Error : AssertionError - No footer element found in the file
-Timestamp: 2025-02-23 21:36:45.115275
+Timestamp: 2025-02-23 21:41:41.472842
