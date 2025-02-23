@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the `lang` attribute to the starting `html` tag and specify the language as English
-Reason: Assertion failed: No html element found
-Error : AssertionError - No html element found
-Timestamp: 2025-02-23 08:26:05.200369
+Reason: None
+Timestamp: 2025-02-23 08:27:47.788975
