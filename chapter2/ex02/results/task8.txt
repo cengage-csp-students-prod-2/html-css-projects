@@ -4,46 +4,46 @@ Check: 1
 Test: Nest the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.440300
+Timestamp: 2025-02-23 22:06:10.283046
 
 Status: FAILED!
 Check: 2
 Test: Add the content: Home &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.441269
+Timestamp: 2025-02-23 22:06:10.284053
 
 Status: FAILED!
 Check: 3
 Test: Add the content: About Us &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.442283
+Timestamp: 2025-02-23 22:06:10.284697
 
 Status: FAILED!
 Check: 4
 Test: Add the content: Partnership &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.443280
+Timestamp: 2025-02-23 22:06:10.285303
 
 Status: FAILED!
 Check: 5
 Test: Add the content: Gallery &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.444375
+Timestamp: 2025-02-23 22:06:10.286023
 
 Status: FAILED!
 Check: 6
 Test: Add the content: FAQs &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.445179
+Timestamp: 2025-02-23 22:06:10.286583
 
 Status: FAILED!
 Check: 7
 Test: Add the content: Contact to the paragraph element within the nav element
 Reason: Assertion failed: No p element found in the nav element
 Error : AssertionError - No p element found in the nav element
-Timestamp: 2025-02-23 21:49:02.446028
+Timestamp: 2025-02-23 22:06:10.287152
