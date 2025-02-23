@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the copyright symbol before the word, Copyright, located within a paragraph element nested within the footer element
+Reason: Assertion failed: No copyright symbol found
+Error : AssertionError - No copyright symbol found
+Timestamp: 2025-02-23 09:42:32.480211
