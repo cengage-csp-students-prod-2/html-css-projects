@@ -4,11 +4,11 @@ Check: 1
 Test: Wrap all paragraph elements within one article element
 Reason: Assertion failed: Article element not found
 Error : AssertionError - Article element not found
-Timestamp: 2025-02-23 08:56:41.638547
+Timestamp: 2025-02-23 08:59:22.068387
 
 Status: FAILED!
 Check: 2
 Test: Change the first paragraph element to an h2
 Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
 Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-02-23 08:56:41.639278
+Timestamp: 2025-02-23 08:59:22.069636
