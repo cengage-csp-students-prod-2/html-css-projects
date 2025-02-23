@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 1
+Test: Nest the paragraph element within the nav element
+Reason: Assertion failed: No nav element found
+Error : AssertionError - No nav element found
+Timestamp: 2025-02-23 08:07:59.901657
+
+Status: FAILED!
+Check: 2
+Test: Check the text of the paragraph element
+Reason: Assertion failed: No nav element found
+Error : AssertionError - No nav element found
+Timestamp: 2025-02-23 08:07:59.902034
+
+Status: FAILED!
+Check: 3
+Test: Check the HTML content of the paragraph element
+Reason: Assertion failed: No nav element found
+Error : AssertionError - No nav element found
+Timestamp: 2025-02-23 08:07:59.902396

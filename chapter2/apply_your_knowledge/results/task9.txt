@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Nest the first paragraph element within the footer element
+Reason: Assertion failed: No footer element found
+Error : AssertionError - No footer element found
+Timestamp: 2025-02-23 08:07:59.902890
+
+Status: FAILED!
+Check: 2
+Test: Nest the second paragraph element within the footer element
+Reason: Assertion failed: No footer element found
+Error : AssertionError - No footer element found
+Timestamp: 2025-02-23 08:07:59.903288
