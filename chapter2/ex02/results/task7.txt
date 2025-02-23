@@ -1,14 +1,13 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Nest an h1 element with the content: **&#128062; Wild Rescues** within the header element
-Reason: Assertion failed: No header element found in the file
-Error : AssertionError - No header element found in the file
-Timestamp: 2025-02-23 21:42:41.159074
+Reason: None
+Timestamp: 2025-02-23 21:46:08.139444
 
 Status: FAILED!
 Check: 2
 Test: Add an h3 element with the content: **Rescue. Rehabilitate. Release.** within the header element
-Reason: Assertion failed: No header element found in the file
-Error : AssertionError - No header element found in the file
-Timestamp: 2025-02-23 21:42:41.159486
+Reason: Assertion failed: No h3 element found in the header element
+Error : AssertionError - No h3 element found in the header element
+Timestamp: 2025-02-23 21:46:08.140455
