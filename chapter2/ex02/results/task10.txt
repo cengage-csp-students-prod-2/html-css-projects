@@ -4,10 +4,10 @@ Check: 1
 Test: Nest the paragraph elements within the footer element
 Reason: Assertion failed: First p element does not have the correct content
 Error : AssertionError - First p element does not have the correct content
-Timestamp: 2025-02-23 22:43:35.885772
+Timestamp: 2025-02-23 22:47:15.957715
 
 Status: PASSED!
 Check: 2
 Test: Nest the paragraph elements within the footer element
 Reason: None
-Timestamp: 2025-02-23 22:43:35.886594
+Timestamp: 2025-02-23 22:47:15.959097
