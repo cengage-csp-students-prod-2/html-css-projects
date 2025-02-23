@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Add the `DOCTYPE` to the *template.html* file
 Reason: None
-Timestamp: 2025-02-23 08:29:16.471290
+Timestamp: 2025-02-23 08:31:08.857627
 
 Status: PASSED!
 Check: 2
 Test: Create a title element with the text 'Web Design'
 Reason: None
-Timestamp: 2025-02-23 08:29:16.472148
+Timestamp: 2025-02-23 08:31:08.858453
 
 Status: PASSED!
 Check: 3
 Test: Create a meta element with the charset attribute set to 'UTF-8'
 Reason: None
-Timestamp: 2025-02-23 08:29:16.472813
+Timestamp: 2025-02-23 08:31:08.859111
 
 Status: PASSED!
 Check: 4
 Test: Create a body element
 Reason: None
-Timestamp: 2025-02-23 08:29:16.473383
+Timestamp: 2025-02-23 08:31:08.859948
