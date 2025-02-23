@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the `lang` attribute to the starting `html` tag and specify the language as **English**
-Reason: Assertion failed: Expected lang attribute value of 'en' in the html tag, found en>
-Error : AssertionError - Expected lang attribute value of 'en' in the html tag, found en>
-Timestamp: 2025-02-23 21:41:41.470671
+Reason: None
+Timestamp: 2025-02-23 21:42:41.156258
