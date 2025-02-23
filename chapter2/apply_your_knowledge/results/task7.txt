@@ -4,11 +4,11 @@ Check: 1
 Test: Nest the heading element within the header element
 Reason: Assertion failed: No header element found
 Error : AssertionError - No header element found
-Timestamp: 2025-02-23 08:09:15.832112
+Timestamp: 2025-02-23 08:12:04.377908
 
 Status: FAILED!
 Check: 2
 Test: Check the text of the heading element
 Reason: Assertion failed: No header element found
 Error : AssertionError - No header element found
-Timestamp: 2025-02-23 08:09:15.832740
+Timestamp: 2025-02-23 08:12:04.378943
