@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Change the nested paragraph element to an h1 element in the header element
-Reason: Assertion failed: The h1 element does not contain the same text as the paragraph element, "Correcting Errors"
-Error : AssertionError - The h1 element does not contain the same text as the paragraph element, "Correcting Errors"
-Timestamp: 2025-02-23 09:59:49.617849
+Reason: Assertion failed: No header element found
+Error : AssertionError - No header element found
+Timestamp: 2025-02-23 10:02:17.576049
