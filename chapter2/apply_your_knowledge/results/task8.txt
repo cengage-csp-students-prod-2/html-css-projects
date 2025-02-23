@@ -2,20 +2,20 @@
 Status: FAILED!
 Check: 1
 Test: Nest the paragraph element within the nav element
-Reason: Assertion failed: No nav element found
-Error : AssertionError - No nav element found
-Timestamp: 2025-02-23 08:12:04.379731
+Reason: Assertion failed: No p element found
+Error : AssertionError - No p element found
+Timestamp: 2025-02-23 08:17:20.327770
 
 Status: FAILED!
 Check: 2
 Test: Check the text of the paragraph element
-Reason: Assertion failed: No nav element found
-Error : AssertionError - No nav element found
-Timestamp: 2025-02-23 08:12:04.380503
+Reason: Assertion failed: No p element found
+Error : AssertionError - No p element found
+Timestamp: 2025-02-23 08:17:20.328729
 
 Status: FAILED!
 Check: 3
 Test: Check the HTML content of the paragraph element
-Reason: Assertion failed: No nav element found
-Error : AssertionError - No nav element found
-Timestamp: 2025-02-23 08:12:04.381200
+Reason: Assertion failed: No p element found
+Error : AssertionError - No p element found
+Timestamp: 2025-02-23 08:17:20.329651
