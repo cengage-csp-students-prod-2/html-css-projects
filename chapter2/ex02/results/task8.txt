@@ -1,0 +1,49 @@
+
+Status: FAILED!
+Check: 1
+Test: Nest the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.116867
+
+Status: FAILED!
+Check: 2
+Test: Add the content: Home &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.117486
+
+Status: FAILED!
+Check: 3
+Test: Add the content: About Us &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.118003
+
+Status: FAILED!
+Check: 4
+Test: Add the content: Partnership &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.118584
+
+Status: FAILED!
+Check: 5
+Test: Add the content: Gallery &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.119144
+
+Status: FAILED!
+Check: 6
+Test: Add the content: FAQs &nbsp; &#9672; &nbsp; to the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.119677
+
+Status: FAILED!
+Check: 7
+Test: Add the content: Contact to the paragraph element within the nav element
+Reason: Assertion failed: No nav element found in the file
+Error : AssertionError - No nav element found in the file
+Timestamp: 2025-02-23 21:36:45.120196
