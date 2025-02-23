@@ -3,38 +3,37 @@ Status: PASSED!
 Check: 1
 Test: Validate the HTML file
 Reason: None
-Timestamp: 2025-02-23 19:23:09.124440
+Timestamp: 2025-02-23 19:46:47.996118
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Check the language attribute
-Reason: Assertion failed: 
-Error : AssertionError - 
-Timestamp: 2025-02-23 19:23:09.124608
+Reason: None
+Timestamp: 2025-02-23 19:46:47.996333
 
 Status: FAILED!
 Check: 3
 Test: Check the character set
 Reason: Assertion failed: 
 Error : AssertionError - 
-Timestamp: 2025-02-23 19:23:09.124840
+Timestamp: 2025-02-23 19:46:47.996449
 
 Status: FAILED!
 Check: 4
 Test: Check for spelling errors
 Reason: Assertion failed: 
 Error : AssertionError - 
-Timestamp: 2025-02-23 19:23:09.124988
+Timestamp: 2025-02-23 19:46:47.996705
 
 Status: FAILED!
 Check: 5
 Test: Check for spelling errors
 Reason: Assertion failed: 
 Error : AssertionError - 
-Timestamp: 2025-02-23 19:23:09.125116
+Timestamp: 2025-02-23 19:46:47.996889
 
 Status: PASSED!
 Check: 6
 Test: Check for closing body tag
 Reason: None
-Timestamp: 2025-02-23 19:23:09.125237
+Timestamp: 2025-02-23 19:46:47.997074
