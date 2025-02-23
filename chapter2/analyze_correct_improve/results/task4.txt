@@ -1,6 +1,0 @@
-
-Status: PASSED!
-Check: 1
-Test: Add two nonbreaking spaces after Home, Link 1, and Link 2 in the nav element
-Reason: None
-Timestamp: 2025-02-23 10:32:11.764373
