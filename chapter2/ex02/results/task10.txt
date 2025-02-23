@@ -4,11 +4,11 @@ Check: 1
 Test: Nest the paragraph elements within the footer element
 Reason: Assertion failed: Incorrect number of p elements found in the footer element, expected 2 found 0
 Error : AssertionError - Incorrect number of p elements found in the footer element, expected 2 found 0
-Timestamp: 2025-02-23 21:46:08.127839
+Timestamp: 2025-02-23 21:48:23.717409
 
 Status: FAILED!
 Check: 2
 Test: Nest the paragraph elements within the footer element
 Reason: Assertion failed: Incorrect number of p elements found in the footer element, expected 2 found 0
 Error : AssertionError - Incorrect number of p elements found in the footer element, expected 2 found 0
-Timestamp: 2025-02-23 21:46:08.128878
+Timestamp: 2025-02-23 21:48:23.718090
