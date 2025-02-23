@@ -4,4 +4,4 @@ Check: 1
 Test: Add a black small square to the beginning of each sentence in the article element
 Reason: AttributeError occurred: 'NoneType' object has no attribute 'get_text'
 Error : AttributeError - 'NoneType' object has no attribute 'get_text'
-Timestamp: 2025-02-23 09:05:47.634938
+Timestamp: 2025-02-23 09:08:16.434144
