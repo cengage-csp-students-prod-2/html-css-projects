@@ -6,7 +6,7 @@ You have already created a responsive design website for a dog grooming business
 1. Open your _groom_ folder and create a new subfolder named **media**. Move the provided media files from the _resources_ folder into your _groom/media_ folder by typing the following command into the terminal:
 
 ```
-mv ./resources/filename.type ./groom/media/
+mv ./resources/* ./groom/media/
 ```
 
 2. Open the _index.html_ file and add a `video` element at the end of the `welcome` `div`. Include the controls attribute and a poster attribute that uses the image file of your choice.

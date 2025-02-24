@@ -4,7 +4,7 @@ Add an `id` attribute with a value **contact** to the `div` element within the `
 ```html
 <h2>Contact us today to schedule your first lesson.</h2>
 <p>Phone Number: (814) 555-9228</p>
-<p>Email: <a href=”mailto:lessons@strikeachord.net”>lessons@ strikeachord.net</a></p>       
+<p>Email: <a href="mailto:lessons@strikeachord.net">lessons@strikeachord.net</a></p>       
 <p>We are located at: 1122 Music Lane, Chicago, IL 60007</p>
 ```
  
