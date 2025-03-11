@@ -1,1 +1,1 @@
-**Task #02:** Add **your name** (firstname lastname), **today's date** (MM/DD/YYYY), and **file name** to the *styles.css* file
+**Task #02:** Create and link the *styles.css* file to the HTML files

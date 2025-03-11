@@ -1,1 +1,1 @@
-**Task #06:** Create the style rules for the `main`, `main p`, `main h3`, `main ul` selectors
+**Task #06:** Create the style rules for the `nav`, `nav ul`, `nav li`, and `nav li a` selectors

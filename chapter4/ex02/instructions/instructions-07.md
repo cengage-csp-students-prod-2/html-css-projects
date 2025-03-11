@@ -1,1 +1,1 @@
-**Task #07:** Create the style rules for the `.link`, `.action`, and `#contact` selectors
+**Task #07:** Create the style rules for the `main`, `main p`, `main h3`, `main ul` selectors

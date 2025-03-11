@@ -1,2 +1,9 @@
 ## Task 03
-Add a blank line after the comment then add a new comment with the text  **CSS Reset**, followed by a CSS reset style rule that sets the `margin`, `padding`, and `borders` to **zero** for the following selectors: `body`, `header`, `nav`, `main`, `footer`, `img`, `h1`, `h3`. 
+In your *styles.css* file, add one multiline comment that includes your name as the author, the current date, and the file name, like so: 
+```css
+ /*  
+Author: Student Name 
+File Name: styles.css
+Date: MM/DD/YYYY
+*/
+```

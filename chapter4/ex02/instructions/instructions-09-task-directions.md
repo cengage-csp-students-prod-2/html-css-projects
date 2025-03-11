@@ -1,14 +1,5 @@
 ## Task 09
-Include a blank line between each style rule. Validate *styles.css* and correct any errors.
-
-In the *index.html* file, complete the following:
-1. Remove the two heading elements (`h1` and `h3`) within the header element. 
-2. Nest an image element within the header and wrap the image within an anchor element that links to *index.html* file.
-- Specify the image source as  **images/baby-hawk.jpg**  
-- Set `alt` text value of **rescued baby hawk**
-3.  Remove the height and width attributes from the baby raccoons image (`img`) element.
-
-Make the same changes to the *about.html*, *contact.html*, and *template.html* files.
-
- 
+Add a blank line after the `contact` `id` style rule, add a comment with the text **Style rules for footer content**,  and then create the following style rules for the `footer` and `footer a` selectors.
+* Create a style rule for the `footer` selector that aligns text **center**, sets a font size value of **0.85em**, sets a background color value of **#2a1f14**, sets a font color value of **#f6eee4**, and sets top and bottom `padding` values to **1%** and right and left padding values to **0%**.
+* Create a style rule for `footer a` that sets the font color value to **#f3e6d8** and removes the text decoration.
  

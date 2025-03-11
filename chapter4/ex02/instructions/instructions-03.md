@@ -1,1 +1,1 @@
-**Task #03:** Set the CSS reset styles for the `body`, `header`, `nav`, `main`, `footer`, `img`, `h1`, `h3`
+**Task #03:** Add **your name** (firstname lastname), **today's date** (MM/DD/YYYY), and **file name** to the *styles.css* file

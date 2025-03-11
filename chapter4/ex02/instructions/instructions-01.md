@@ -1,1 +1,1 @@
-**Task #01:** Create and link the *styles.css* file to the HTML files
+**Task #01:** Move the image files to the */images* directory

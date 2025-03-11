@@ -1,1 +1,1 @@
-**Task #08:** Create the style rules for the `footer` and the `footer a` selectors
+**Task #08:** Create the style rules for the `.link`, `.action`, and `#contact` selectors

@@ -1,11 +1,6 @@
 ## Task 07
-Add a blank line after the `main` content style rules, add a comment with the text **Style rules for class and id selectors** and then create the style rules for the `.link`, `.action`, and `#contact` selectors:
-
-* Create a style rule for the class selector `link` that sets the font color to **#4d3319**, removes the text decoration, sets the font weight value to **bold**, and sets the font style value to **italic**.
-* Create a style rule for the class selector `action` that sets the font size to **1.75em**, sets the font weight value to **bold**, and aligns text **center**. 
-* Create a style rule for the `id` selector `contact` that aligns text center. 
-
-In the *about.html* file, within the `#info` `div` element, complete the following:
-1. Add a class attribute with the value of `link` to the anchor element with the text *"National Wildlife Rehabilitators Association."*.
-2. Remove the height and width attributes from the tortoise image (`img`) element.
-3. Add a class attribute with the value of `action` to the paragraph element where the text is *"Did you find an injured or orphaned animal? Contact us to see if we can help."*.
+Add a blank line after the `nav li a` style rule, add a comment with the text **Style rules for main content**,  and then create the following style rules for the `main`, `main p`, `main h3`, `main ul`:
+* Create a style rule for the `main` selector that sets the `padding` value to **2%** and a font family with values **Verdana, Arial, sans-serif**.
+* Create a style rule for `main p` that sets the font size value to **1.25em**. 
+* Create a style rule for `main h3` that sets the top padding value to **2%**. 
+* Create a style rule for `main ul` that sets the list style type value to **square**.

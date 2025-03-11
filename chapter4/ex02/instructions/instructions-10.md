@@ -1,1 +1,1 @@
-**Task #10:** Add the `link` class selector to the anchor elements in the *contact.html* file
+**Task #10:** Add an image to each HTML file
