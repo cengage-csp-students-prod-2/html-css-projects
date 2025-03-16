@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Changed the first paragraph element within the `div` with the **template** `id` to an **h3** element
-Reason: Assertion failed: No `div` element found with an `id` attribute value of 'template'
-Error : AssertionError - No `div` element found with an `id` attribute value of 'template'
-Timestamp: 2025-03-16 12:55:37.372527
+Reason: Assertion failed: Expected first element to be a `h3` element but got p
+Error : AssertionError - Expected first element to be a `h3` element but got p
+Timestamp: 2025-03-16 12:59:22.017005
