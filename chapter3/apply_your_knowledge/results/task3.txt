@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Added a relative link to the text, **Home**, that links to *index.html*
-Reason: Assertion failed: No `a` element found with the text 'Home'
-Error : AssertionError - No `a` element found with the text 'Home'
-Timestamp: 2025-03-16 13:43:03.352808
+Reason: None
+Timestamp: 2025-03-16 13:48:33.030248
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Added a relative link to the text, **Learn HTML**, that links to *html.html*
-Reason: Assertion failed: No `a` element found with the text 'Learn HTML'
-Error : AssertionError - No `a` element found with the text 'Learn HTML'
-Timestamp: 2025-03-16 13:43:03.354584
+Reason: None
+Timestamp: 2025-03-16 13:48:33.032497
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Added a relative link to the text, **Learn CSS**, that links to *css.html*
-Reason: Assertion failed: No `a` element found with the text 'Learn CSS'
-Error : AssertionError - No `a` element found with the text 'Learn CSS'
-Timestamp: 2025-03-16 13:43:03.356132
+Reason: None
+Timestamp: 2025-03-16 13:48:33.034371
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Added a relative link to the text, **Learn JavaScript**, that links to *js.html*
-Reason: Assertion failed: No `a` element found with the text 'Learn JavaScript'
-Error : AssertionError - No `a` element found with the text 'Learn JavaScript'
-Timestamp: 2025-03-16 13:43:03.357693
+Reason: None
+Timestamp: 2025-03-16 13:48:33.035828
