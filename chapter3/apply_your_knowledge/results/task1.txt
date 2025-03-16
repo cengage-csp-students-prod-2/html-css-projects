@@ -1,25 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Update the comment with **the file name**
-Reason: Unable to find 'File Name: index.html' in the program.
-Error : str - AssertionError
-Timestamp: 2025-03-16 12:35:37.520438
+Reason: 'File Name: index.html' was found in the program output.None
+Timestamp: 2025-03-16 12:36:50.004815
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-03-16 12:35:37.521144
+Timestamp: 2025-03-16 12:36:50.005297
 
 Status: PASSED!
 Check: 4
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-03-16 12:35:37.521968
+Timestamp: 2025-03-16 12:36:50.006187
 
 Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-03-16 12:35:37.522102
+Timestamp: 2025-03-16 12:36:50.006327
