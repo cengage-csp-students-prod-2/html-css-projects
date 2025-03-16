@@ -4,53 +4,53 @@ Check: 2
 Test: Update the comment with **the file name**
 Reason: Unable to find 'File Name: css.html' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-16 13:09:56.564091
+Timestamp: 2025-03-16 13:12:01.000239
 
 Status: FAILED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
 Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-16 13:09:56.564332
+Timestamp: 2025-03-16 13:12:01.000594
 
 Status: FAILED!
 Check: 4
 Test: Add the same image from *Task 2*
 Reason: Assertion failed: No `img` element found
 Error : AssertionError - No `img` element found
-Timestamp: 2025-03-16 13:09:56.565219
+Timestamp: 2025-03-16 13:12:01.002070
 
 Status: FAILED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
 Reason: Assertion failed: Expected 2 `a` elements within the `nav` element but got 0
 Error : AssertionError - Expected 2 `a` elements within the `nav` element but got 0
-Timestamp: 2025-03-16 13:09:56.566227
+Timestamp: 2025-03-16 13:12:01.003916
 
 Status: FAILED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: Unable to find '<p>Student Name: firstname lastname</p>' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-16 13:09:56.566776
+Timestamp: 2025-03-16 13:12:01.004814
 
 Status: FAILED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: Unable to find 'Student Name: firstname lastname' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-16 13:09:56.566982
+Timestamp: 2025-03-16 13:12:01.005120
 
 Status: FAILED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: Unable to find '<p>Student Name: firstname lastname</p>' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-16 13:09:56.575550
+Timestamp: 2025-03-16 13:12:01.037003
 
 Status: FAILED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: Unable to find '<p>Student Name: firstname lastname</p>' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-16 13:09:56.578390
+Timestamp: 2025-03-16 13:12:01.039856
