@@ -2,27 +2,27 @@
 Status: FAILED!
 Check: 1
 Test: Add an image element to insert the baby-raccoons.jpg picture.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
-Error : AttributeError - 'NoneType' object has no attribute 'find_next'
-Timestamp: 2025-03-17 12:35:52.589991
+Reason: Assertion failed: Can't find the image element below the h2 element.
+Error : AssertionError - Can't find the image element below the h2 element.
+Timestamp: 2025-03-17 12:36:37.084694
 
 Status: FAILED!
 Check: 2
 Test: Add the alt text, hands holding three baby raccoons, to the image element.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
-Error : AttributeError - 'NoneType' object has no attribute 'find_next'
-Timestamp: 2025-03-17 12:35:52.591728
+Reason: Assertion failed: Can't find the image element below the h2 element.
+Error : AssertionError - Can't find the image element below the h2 element.
+Timestamp: 2025-03-17 12:36:37.086031
 
 Status: FAILED!
 Check: 3
 Test: Add the height attribute of 330px to the image element.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
-Error : AttributeError - 'NoneType' object has no attribute 'find_next'
-Timestamp: 2025-03-17 12:35:52.593217
+Reason: Assertion failed: Can't find the image element below the h2 element.
+Error : AssertionError - Can't find the image element below the h2 element.
+Timestamp: 2025-03-17 12:36:37.087200
 
 Status: FAILED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
-Error : AttributeError - 'NoneType' object has no attribute 'find_next'
-Timestamp: 2025-03-17 12:35:52.594837
+Reason: Assertion failed: Can't find the image element below the h2 element.
+Error : AssertionError - Can't find the image element below the h2 element.
+Timestamp: 2025-03-17 12:36:37.088367
