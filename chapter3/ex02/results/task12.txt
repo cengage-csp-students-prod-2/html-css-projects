@@ -4,46 +4,46 @@ Check: 1
 Test: Add an id attribute with a value of info to the div element within the main element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.070818
+Timestamp: 2025-03-17 12:44:01.850874
 
 Status: FAILED!
 Check: 2
 Test: Add an h2 element with the text content, About Us, to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.070987
+Timestamp: 2025-03-17 12:44:01.851021
 
 Status: FAILED!
 Check: 3
 Test: Add a paragraph element with the specified text content to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.071103
+Timestamp: 2025-03-17 12:44:01.851152
 
 Status: FAILED!
 Check: 4
 Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.071215
+Timestamp: 2025-03-17 12:44:01.851271
 
 Status: FAILED!
 Check: 5
 Test: Add an image element to the div element with the specified attributes.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.071346
+Timestamp: 2025-03-17 12:44:01.851381
 
 Status: FAILED!
 Check: 6
 Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.071456
+Timestamp: 2025-03-17 12:44:01.851490
 
 Status: FAILED!
 Check: 7
 Test: Add an unordered list with the specified list items to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 12:36:37.071564
+Timestamp: 2025-03-17 12:44:01.851599

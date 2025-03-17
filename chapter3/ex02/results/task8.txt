@@ -2,27 +2,19 @@
 Status: FAILED!
 Check: 1
 Test: Add an image element to insert the baby-raccoons.jpg picture.
-Reason: Assertion failed: Can't find the image element below the h2 element.
-Error : AssertionError - Can't find the image element below the h2 element.
-Timestamp: 2025-03-17 12:36:37.084694
+Reason: IndexError occurred: list index out of range
+Error : IndexError - list index out of range
+Timestamp: 2025-03-17 12:44:01.865641
 
 Status: FAILED!
 Check: 2
 Test: Add the alt text, hands holding three baby raccoons, to the image element.
-Reason: Assertion failed: Can't find the image element below the h2 element.
-Error : AssertionError - Can't find the image element below the h2 element.
-Timestamp: 2025-03-17 12:36:37.086031
+Reason: Assertion failed: Image element should have an alt attribute value of hands holding three baby raccoons.
+Error : AssertionError - Image element should have an alt attribute value of hands holding three baby raccoons.
+Timestamp: 2025-03-17 12:44:01.867660
 
-Status: FAILED!
-Check: 3
-Test: Add the height attribute of 330px to the image element.
-Reason: Assertion failed: Can't find the image element below the h2 element.
-Error : AssertionError - Can't find the image element below the h2 element.
-Timestamp: 2025-03-17 12:36:37.087200
-
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
-Reason: Assertion failed: Can't find the image element below the h2 element.
-Error : AssertionError - Can't find the image element below the h2 element.
-Timestamp: 2025-03-17 12:36:37.088367
+Reason: None
+Timestamp: 2025-03-17 12:44:01.871960
