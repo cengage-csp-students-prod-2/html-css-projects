@@ -4,11 +4,11 @@ Check: 1
 Test: Add an email link to the email address within the footer element of template.html.
 Reason: Assertion failed: Can't find the email address within the footer element.
 Error : AssertionError - Can't find the email address within the footer element.
-Timestamp: 2025-03-17 11:38:49.661884
+Timestamp: 2025-03-17 11:40:49.941823
 
 Status: FAILED!
 Check: 2
 Test: Add an email link to the email address within the footer element of index.html.
 Reason: Assertion failed: Can't find the email address within the footer element.
 Error : AssertionError - Can't find the email address within the footer element.
-Timestamp: 2025-03-17 11:38:49.662720
+Timestamp: 2025-03-17 11:40:49.942813
