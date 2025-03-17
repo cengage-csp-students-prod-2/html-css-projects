@@ -3,11 +3,11 @@ Status: PASSED!
 Check: 1
 Test: Added a `div` element with an `id` attribute value of **semantic**
 Reason: None
-Timestamp: 2025-03-17 11:19:43.531607
+Timestamp: 2025-03-17 11:21:48.224466
 
 Status: FAILED!
 Check: 2
 Test: Closed the `div` after the paragraph element with the content
 Reason: Assertion failed: Expected last paragraph in the div 'Visit W3Schools.com to learn more about HTML semantic elements.', found 'W3Schools.com to learn more about HTML semantic elements.'
 Error : AssertionError - Expected last paragraph in the div 'Visit W3Schools.com to learn more about HTML semantic elements.', found 'W3Schools.com to learn more about HTML semantic elements.'
-Timestamp: 2025-03-17 11:19:43.533133
+Timestamp: 2025-03-17 11:21:48.225940
