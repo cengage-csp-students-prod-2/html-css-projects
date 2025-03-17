@@ -2,48 +2,48 @@
 Status: FAILED!
 Check: 1
 Test: Add an id attribute with a value of info to the div element within the main element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.638530
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2025-03-17 23:53:07.330030
 
 Status: FAILED!
 Check: 2
 Test: Add an h2 element with the text content, About Us, to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.638742
+Reason: Assertion failed: Can't find the h2 element.
+Error : AssertionError - Can't find the h2 element.
+Timestamp: 2025-03-17 23:53:07.331059
 
 Status: FAILED!
 Check: 3
 Test: Add a paragraph element with the specified text content to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.638942
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2025-03-17 23:53:07.332068
 
 Status: FAILED!
 Check: 4
 Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.639123
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2025-03-17 23:53:07.333194
 
 Status: FAILED!
 Check: 5
 Test: Add an image element to the div element with the specified attributes.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.639294
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2025-03-17 23:53:07.334188
 
 Status: FAILED!
 Check: 6
 Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.639465
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2025-03-17 23:53:07.335184
 
 Status: FAILED!
 Check: 7
 Test: Add an unordered list with the specified list items to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.639639
+Reason: Assertion failed: Can't find the div element with an id of info.
+Error : AssertionError - Can't find the div element with an id of info.
+Timestamp: 2025-03-17 23:53:07.336188

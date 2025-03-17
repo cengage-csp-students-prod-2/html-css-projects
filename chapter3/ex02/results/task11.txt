@@ -1,7 +1,20 @@
 
 Status: FAILED!
+Check: 1
+Test: Update filename in multiline comment for about.html.
+Reason: Unable to find 'File Name: about.html' in the program.
+Error : str - AssertionError
+Timestamp: 2025-03-17 23:53:07.327572
+
+Status: PASSED!
+Check: 2
+Test: Update date in multiline comment for about.html.
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2025-03-17 23:53:07.327913
+
+Status: FAILED!
 Check: 3
 Test: Update the text in the title element to About Us.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2025-03-17 23:48:29.638300
+Reason: Assertion failed: Title element should have text of 'Wild Rescues: About Us'.
+Error : AssertionError - Title element should have text of 'Wild Rescues: About Us'.
+Timestamp: 2025-03-17 23:53:07.328863
