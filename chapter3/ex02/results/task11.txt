@@ -1,20 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update filename in multiline comment for about.html.
-Reason: Unable to find 'File Name: about.html' in the program.
-Error : str - AssertionError
-Timestamp: 2025-03-17 23:53:07.327572
+Reason: 'File Name: about.html' was found in the program output.None
+Timestamp: 2025-03-17 23:54:55.953445
 
 Status: PASSED!
 Check: 2
 Test: Update date in multiline comment for about.html.
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-03-17 23:53:07.327913
-
-Status: FAILED!
-Check: 3
-Test: Update the text in the title element to About Us.
-Reason: Assertion failed: Title element should have text of 'Wild Rescues: About Us'.
-Error : AssertionError - Title element should have text of 'Wild Rescues: About Us'.
-Timestamp: 2025-03-17 23:53:07.328863
+Timestamp: 2025-03-17 23:54:55.953752
