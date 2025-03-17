@@ -1,1 +1,1 @@
-**Task #07:** The table is contains the correct content and is styled correctly.
+**Task #07:** Add styles to the `th`, `tr`, and `td` selectors

@@ -1,1 +1,1 @@
-**Task #03:** Style the `table`
+**Task #03:** Add **your name**, the **file name**, and **today's date** to the *styles.css* file

@@ -1,6 +1,2 @@
 ## Task 06
-Create a style rule for `th` and `td` selectors that sets a `border` with the values **1px solid #7188bb**.
-
-Create a style rule for `td` that center-aligns its text.
-
-Create a style rule for `tr` that sets the background color to **#d3e788** for odd rows.
+ Create a style rule for the `caption` element that sets the `font-size` to **2em**, `padding` to **2%**, and `margin-top` to **2%**.

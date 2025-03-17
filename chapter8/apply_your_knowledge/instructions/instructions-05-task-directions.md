@@ -1,2 +1,2 @@
 ## Task 05
- Create a style rule for the `caption` element that sets the `font-size` to **2em**, `padding` to **2%**, and `margin-top` to **2%**.
+Create a style rule for `table`, `tr`, `th`, and `td` selectors that collapses the `border` and sets the `padding` to **2%**.
