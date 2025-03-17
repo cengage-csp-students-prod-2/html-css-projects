@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Add a paragraph element with the text content, Meet our latest rescues, Fizz, Bandit, and Mohawk. These three little guys were found abandoned near a home.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-17 12:30:51.258269
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
+Error : AttributeError - 'NoneType' object has no attribute 'find_next'
+Timestamp: 2025-03-17 12:34:26.162252

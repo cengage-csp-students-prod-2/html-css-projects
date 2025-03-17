@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Nest an h2 element with the content, Our Latest Rescue: Baby Raccoons, inside the latest div.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-17 12:30:51.252307
+Reason: Assertion failed: Can't find the h2 element inside the div element with an id attribute value of latest.
+Error : AssertionError - Can't find the h2 element inside the div element with an id attribute value of latest.
+Timestamp: 2025-03-17 12:34:26.148140

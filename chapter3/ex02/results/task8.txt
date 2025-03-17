@@ -2,27 +2,27 @@
 Status: FAILED!
 Check: 1
 Test: Add an image element to insert the baby-raccoons.jpg picture.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-17 12:30:51.253479
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
+Error : AttributeError - 'NoneType' object has no attribute 'find_next'
+Timestamp: 2025-03-17 12:34:26.150399
 
 Status: FAILED!
 Check: 2
 Test: Add the alt text, hands holding three baby raccoons, to the image element.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-17 12:30:51.254758
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
+Error : AttributeError - 'NoneType' object has no attribute 'find_next'
+Timestamp: 2025-03-17 12:34:26.153682
 
 Status: FAILED!
 Check: 3
 Test: Add the height attribute of 330px to the image element.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-17 12:30:51.255892
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
+Error : AttributeError - 'NoneType' object has no attribute 'find_next'
+Timestamp: 2025-03-17 12:34:26.156335
 
 Status: FAILED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-17 12:30:51.257003
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_next'
+Error : AttributeError - 'NoneType' object has no attribute 'find_next'
+Timestamp: 2025-03-17 12:34:26.159446
