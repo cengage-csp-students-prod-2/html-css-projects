@@ -1,0 +1,41 @@
+
+Status: PASSED!
+Check: 1
+Test: add a hyperlink to the text, **Home**, that opens *index.html* in the `nav` element.
+Reason: None
+Timestamp: 2025-03-17 11:38:49.649817
+
+Status: FAILED!
+Check: 2
+Test: add a hyperlink to the text, **About Us**, that opens *about.html* in the `nav` element.
+Reason: Assertion failed: Hyperlink to the text, **About Us**, should open *about.html*.
+Error : AssertionError - Hyperlink to the text, **About Us**, should open *about.html*.
+Timestamp: 2025-03-17 11:38:49.650954
+
+Status: FAILED!
+Check: 3
+Test: add a hyperlink to the text, **Partnership**, that opens *partnership.html* in the `nav` element.
+Reason: Assertion failed: Hyperlink to the text, **Partnership**, should open *partnership.html*.
+Error : AssertionError - Hyperlink to the text, **Partnership**, should open *partnership.html*.
+Timestamp: 2025-03-17 11:38:49.651998
+
+Status: FAILED!
+Check: 4
+Test: add a hyperlink to the text, **Gallery**, that opens *gallery.html* in the `nav` element.
+Reason: Assertion failed: Hyperlink to the text, **Gallery**, should open *gallery.html*.
+Error : AssertionError - Hyperlink to the text, **Gallery**, should open *gallery.html*.
+Timestamp: 2025-03-17 11:38:49.652997
+
+Status: FAILED!
+Check: 5
+Test: add a hyperlink to the text, **FAQs**, that opens *faqs.html* in the `nav` element.
+Reason: Assertion failed: Hyperlink to the text, **FAQs**, should open *faqs.html*.
+Error : AssertionError - Hyperlink to the text, **FAQs**, should open *faqs.html*.
+Timestamp: 2025-03-17 11:38:49.654084
+
+Status: FAILED!
+Check: 6
+Test: add a hyperlink to the text, **Contact**, that opens *contact.html* in the `nav` element.
+Reason: Assertion failed: Hyperlink to the text, **Contact**, should open *contact.html*.
+Error : AssertionError - Hyperlink to the text, **Contact**, should open *contact.html*.
+Timestamp: 2025-03-17 11:38:49.655057
