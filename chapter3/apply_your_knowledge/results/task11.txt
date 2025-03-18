@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Added an absolute link to the text, **W3Schools.com**, that links to 'https://www.w3schools.com/html/html5_semantic_elements.asp' in the last paragraph element
-Reason: None
-Timestamp: 2025-03-18 06:38:33.379515
+Reason: Assertion failed: No `a` element found within the last `p` element
+Error : AssertionError - No `a` element found within the last `p` element
+Timestamp: 2025-03-18 06:45:46.952821
