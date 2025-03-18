@@ -4,32 +4,32 @@ Check: 1
 Test: Add an id attribute with a value of contact to the div element within the main element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2025-03-18 00:44:18.500010
+Timestamp: 2025-03-18 00:45:25.365076
 
 Status: FAILED!
 Check: 2
 Test: Add an h2 element with the text 'You can reach us at:' to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2025-03-18 00:44:18.500218
+Timestamp: 2025-03-18 00:45:25.365241
 
 Status: FAILED!
 Check: 3
 Test: Add a paragraph element with the text 'Office: (814) 555-8989' to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2025-03-18 00:44:18.500373
+Timestamp: 2025-03-18 00:45:25.365357
 
 Status: FAILED!
 Check: 4
 Test: Add a paragraph element with the text 'Email: <a href="mailto:contact@wildrescues .net">contact@wildrescues.net</a>' to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2025-03-18 00:44:18.500514
+Timestamp: 2025-03-18 00:45:25.365466
 
 Status: FAILED!
 Check: 5
 Test: Add a paragraph element with the text 'Address: <a href="https://goo.gl/maps/BTJzjc2tALd4RDWA8" target="_blank">8989 Rescue Drive, Ocala, FL 34471</a>' to the div element.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2025-03-18 00:44:18.500658
+Timestamp: 2025-03-18 00:45:25.365574
