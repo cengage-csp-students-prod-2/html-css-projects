@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Changed the first paragraph element within the `div` with the **semantic** `id` to an **h3** element
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-18 06:24:35.783151
+Reason: Assertion failed: No `h3` element found within the `div` element
+Error : AssertionError - No `h3` element found within the `div` element
+Timestamp: 2025-03-18 06:27:30.625264

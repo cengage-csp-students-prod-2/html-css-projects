@@ -1,14 +1,13 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Added a `div` element with an `id` attribute value of **semantic**
-Reason: Assertion failed: No `div` element found with an `id` attribute value of 'semantic'
-Error : AssertionError - No `div` element found with an `id` attribute value of 'semantic'
-Timestamp: 2025-03-18 06:24:37.073015
+Reason: None
+Timestamp: 2025-03-18 06:27:52.558744
 
 Status: FAILED!
 Check: 2
 Test: Closed the `div` after the paragraph element with the content
-Reason: Assertion failed: No `div` element found with an `id` attribute value of 'semantic'
-Error : AssertionError - No `div` element found with an `id` attribute value of 'semantic'
-Timestamp: 2025-03-18 06:24:37.074584
+Reason: IndexError occurred: list index out of range
+Error : IndexError - list index out of range
+Timestamp: 2025-03-18 06:27:52.560216
