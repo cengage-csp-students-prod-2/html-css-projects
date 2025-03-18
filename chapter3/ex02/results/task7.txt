@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Nest an h2 element with the content, Our Latest Rescue: Baby Raccoons, inside the latest div.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.991529
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
+Error : AttributeError - 'NoneType' object has no attribute 'find'
+Timestamp: 2025-03-18 01:56:31.475628

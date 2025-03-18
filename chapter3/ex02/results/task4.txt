@@ -1,12 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add an email link to the email address within the footer element of template.html.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.979755
+Reason: Assertion failed: Can't find the email address within the footer element.
+Error : AssertionError - Can't find the email address within the footer element.
+Timestamp: 2025-03-18 01:56:31.471434
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Add an email link to the email address within the footer element of index.html.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.981693
+Reason: Assertion failed: Can't find the email address within the footer element.
+Error : AssertionError - Can't find the email address within the footer element.
+Timestamp: 2025-03-18 01:56:31.472246

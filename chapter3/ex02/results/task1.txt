@@ -1,36 +1,42 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: add a hyperlink to the text, **Home**, that opens *index.html* in the `nav` element.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.920199
+Reason: Assertion failed: Can't find the hyperlink to the text, **Home**.
+Error : AssertionError - Can't find the hyperlink to the text, **Home**.
+Timestamp: 2025-03-18 01:56:31.427496
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: add a hyperlink to the text, **About Us**, that opens *about.html* in the `nav` element.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.922081
+Reason: Assertion failed: Can't find the hyperlink to the text, **About Us**.
+Error : AssertionError - Can't find the hyperlink to the text, **About Us**.
+Timestamp: 2025-03-18 01:56:31.429165
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: add a hyperlink to the text, **Partnership**, that opens *partnership.html* in the `nav` element.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.923752
+Reason: Assertion failed: Can't find the hyperlink to the text, **Partnership**.
+Error : AssertionError - Can't find the hyperlink to the text, **Partnership**.
+Timestamp: 2025-03-18 01:56:31.430474
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: add a hyperlink to the text, **Gallery**, that opens *gallery.html* in the `nav` element.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.925404
+Reason: Assertion failed: Can't find the hyperlink to the text, **Gallery**.
+Error : AssertionError - Can't find the hyperlink to the text, **Gallery**.
+Timestamp: 2025-03-18 01:56:31.431707
 
-Status: PASSED!
+Status: FAILED!
 Check: 5
 Test: add a hyperlink to the text, **FAQs**, that opens *faqs.html* in the `nav` element.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.927325
+Reason: Assertion failed: Can't find the hyperlink to the text, **FAQs**.
+Error : AssertionError - Can't find the hyperlink to the text, **FAQs**.
+Timestamp: 2025-03-18 01:56:31.432828
 
-Status: PASSED!
+Status: FAILED!
 Check: 6
 Test: add a hyperlink to the text, **Contact**, that opens *contact.html* in the `nav` element.
-Reason: None
-Timestamp: 2025-03-18 01:53:45.929077
+Reason: Assertion failed: Can't find the hyperlink to the text, **Contact**.
+Error : AssertionError - Can't find the hyperlink to the text, **Contact**.
+Timestamp: 2025-03-18 01:56:31.433967
