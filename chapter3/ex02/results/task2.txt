@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Update the nav element to match the template.html file.
-Reason: None
-Timestamp: 2025-03-18 02:01:17.475500
+Reason: Assertion failed: nav element in index.html does not match the nav element in template.html file.
+Error : AssertionError - nav element in index.html does not match the nav element in template.html file.
+Timestamp: 2025-03-18 02:05:27.035460
