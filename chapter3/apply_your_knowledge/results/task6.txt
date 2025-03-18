@@ -2,13 +2,12 @@
 Status: FAILED!
 Check: 1
 Test: Changed the remaining paragraph elements within the `div` with the id **template** to list items `<li></li>`
-Reason: Assertion failed: Expected 7 list items within the `div` element but found 8
-Error : AssertionError - Expected 7 list items within the `div` element but found 8
-Timestamp: 2025-03-18 05:30:07.483345
+Reason: Assertion failed: Expected 7 list items within the `div` element but found 13
+Error : AssertionError - Expected 7 list items within the `div` element but found 13
+Timestamp: 2025-03-18 05:33:40.884686
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Wrapped and nested list items within an ordered list `<ol></ol>`
-Reason: Assertion failed: Expected 7 list items within the `ol` element but found 8
-Error : AssertionError - Expected 7 list items within the `ol` element but found 8
-Timestamp: 2025-03-18 05:30:07.484783
+Reason: None
+Timestamp: 2025-03-18 05:33:40.886468
