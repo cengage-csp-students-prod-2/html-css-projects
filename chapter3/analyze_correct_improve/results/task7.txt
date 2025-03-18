@@ -4,95 +4,95 @@ Check: 1
 Test: Link the text, W3C, to   https://www.w3.org/
 Reason: Assertion failed: No link text, W3C, found.
 Error : AssertionError - No link text, W3C, found.
-Timestamp: 2025-03-18 03:55:09.172911
+Timestamp: 2025-03-18 03:57:35.683337
 
 Status: FAILED!
 Check: 10
 Test: Link the text, Image Compressor, to an online image compressor of your choice opens up in a new tab.
 Reason: Assertion failed: No link text, Image Compressor, found.
 Error : AssertionError - No link text, Image Compressor, found.
-Timestamp: 2025-03-18 03:55:09.173542
+Timestamp: 2025-03-18 03:57:35.684170
 
 Status: FAILED!
 Check: 11
 Test: Link the text, HTML Validator, to W3C’s HTML validator
 Reason: Assertion failed: No link text, HTML Validator, found.
 Error : AssertionError - No link text, HTML Validator, found.
-Timestamp: 2025-03-18 03:55:09.174162
+Timestamp: 2025-03-18 03:57:35.684809
 
 Status: FAILED!
 Check: 12
 Test: Link the text, HTML Validator, to W3C’s HTML validator opens up in a new tab.
 Reason: Assertion failed: No link text, HTML Validator, found.
 Error : AssertionError - No link text, HTML Validator, found.
-Timestamp: 2025-03-18 03:55:09.174758
+Timestamp: 2025-03-18 03:57:35.685421
 
 Status: FAILED!
 Check: 13
 Test: Link the text, Emmet, to   https://emmet.io/
 Reason: Assertion failed: No link text, Emmet, found.
 Error : AssertionError - No link text, Emmet, found.
-Timestamp: 2025-03-18 03:55:09.175368
+Timestamp: 2025-03-18 03:57:35.686050
 
 Status: FAILED!
 Check: 14
 Test: Link the text, Emmet, to   https://emmet.io/ opens up in a new tab.
 Reason: Assertion failed: No link text, Emmet, found.
 Error : AssertionError - No link text, Emmet, found.
-Timestamp: 2025-03-18 03:55:09.175979
+Timestamp: 2025-03-18 03:57:35.686653
 
 Status: FAILED!
 Check: 2
 Test: Link the text, W3C, to   https://www.w3.org/ opens up in a new tab.
 Reason: Assertion failed: No link text, W3C, found.
 Error : AssertionError - No link text, W3C, found.
-Timestamp: 2025-03-18 03:55:09.176704
+Timestamp: 2025-03-18 03:57:35.687449
 
 Status: FAILED!
 Check: 3
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/
 Reason: Assertion failed: No link text, W3 Schools, found.
 Error : AssertionError - No link text, W3 Schools, found.
-Timestamp: 2025-03-18 03:55:09.177310
+Timestamp: 2025-03-18 03:57:35.688073
 
 Status: FAILED!
 Check: 4
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/ opens up in a new tab.
 Reason: Assertion failed: No link text, W3 Schools, found.
 Error : AssertionError - No link text, W3 Schools, found.
-Timestamp: 2025-03-18 03:55:09.177921
+Timestamp: 2025-03-18 03:57:35.688672
 
 Status: FAILED!
 Check: 5
 Test: Link the text, HTML, to   https://www.html.com/
 Reason: Assertion failed: No link text, HTML, found.
 Error : AssertionError - No link text, HTML, found.
-Timestamp: 2025-03-18 03:55:09.178505
+Timestamp: 2025-03-18 03:57:35.689274
 
 Status: FAILED!
 Check: 6
 Test: Link the text, HTML, to   https://www.html.com/ opens up in a new tab.
 Reason: Assertion failed: No link text, HTML, found.
 Error : AssertionError - No link text, HTML, found.
-Timestamp: 2025-03-18 03:55:09.179112
+Timestamp: 2025-03-18 03:57:35.689890
 
 Status: FAILED!
 Check: 7
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/
 Reason: Assertion failed: No link text, Smashing Magazine, found.
 Error : AssertionError - No link text, Smashing Magazine, found.
-Timestamp: 2025-03-18 03:55:09.179702
+Timestamp: 2025-03-18 03:57:35.690487
 
 Status: FAILED!
 Check: 8
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/ opens up in a new tab.
 Reason: Assertion failed: No link text, Smashing Magazine, found.
 Error : AssertionError - No link text, Smashing Magazine, found.
-Timestamp: 2025-03-18 03:55:09.180427
+Timestamp: 2025-03-18 03:57:35.691239
 
 Status: FAILED!
 Check: 9
 Test: Link the text, Image Compressor, to an online image compressor of your choice.
 Reason: Assertion failed: No link text, Image Compressor, found.
 Error : AssertionError - No link text, Image Compressor, found.
-Timestamp: 2025-03-18 03:55:09.181041
+Timestamp: 2025-03-18 03:57:35.691850
