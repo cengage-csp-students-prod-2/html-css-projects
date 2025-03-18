@@ -4,32 +4,32 @@ Check: 2
 Test: Update the comment with **the file name**
 Reason: Unable to find 'File Name: html.html' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-18 06:02:19.315421
+Timestamp: 2025-03-18 06:05:08.234908
 
 Status: FAILED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
 Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-18 06:02:19.315760
+Timestamp: 2025-03-18 06:05:08.236925
 
 Status: FAILED!
 Check: 4
 Test: Add the same image from *Task 2*
 Reason: Assertion failed: No `img` element found
 Error : AssertionError - No `img` element found
-Timestamp: 2025-03-18 06:02:19.360508
+Timestamp: 2025-03-18 06:05:08.246486
 
 Status: FAILED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
 Reason: Assertion failed: Expected 2 `a` elements within the `nav` element but got 0
 Error : AssertionError - Expected 2 `a` elements within the `nav` element but got 0
-Timestamp: 2025-03-18 06:02:19.361648
+Timestamp: 2025-03-18 06:05:08.248369
 
 Status: FAILED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: Unable to find 'Student Name: firstname lastname' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-18 06:02:19.362020
+Timestamp: 2025-03-18 06:05:08.249025
