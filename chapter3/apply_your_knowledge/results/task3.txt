@@ -1,24 +1,28 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Added a relative link to the text, **Home**, that links to *index.html*
-Reason: None
-Timestamp: 2025-03-18 06:55:32.705192
+Reason: Assertion failed: No `nav` element found
+Error : AssertionError - No `nav` element found
+Timestamp: 2025-03-18 06:58:06.499697
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Added a relative link to the text, **Learn HTML**, that links to *html.html*
-Reason: None
-Timestamp: 2025-03-18 06:55:32.706805
+Reason: Assertion failed: No `nav` element found
+Error : AssertionError - No `nav` element found
+Timestamp: 2025-03-18 06:58:06.501245
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Added a relative link to the text, **Learn CSS**, that links to *css.html*
-Reason: None
-Timestamp: 2025-03-18 06:55:32.708357
+Reason: Assertion failed: No `nav` element found
+Error : AssertionError - No `nav` element found
+Timestamp: 2025-03-18 06:58:06.502796
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: Added a relative link to the text, **Learn JavaScript**, that links to *js.html*
-Reason: None
-Timestamp: 2025-03-18 06:55:32.709808
+Reason: Assertion failed: No `nav` element found
+Error : AssertionError - No `nav` element found
+Timestamp: 2025-03-18 06:58:06.504181
