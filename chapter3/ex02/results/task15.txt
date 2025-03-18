@@ -3,28 +3,29 @@ Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of contact to the div element within the main element.
 Reason: None
-Timestamp: 2025-03-18 01:14:38.026564
+Timestamp: 2025-03-18 01:22:41.510169
 
 Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text 'You can reach us at:' to the div element.
 Reason: None
-Timestamp: 2025-03-18 01:14:38.027687
+Timestamp: 2025-03-18 01:22:41.512129
 
 Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the text 'Office: (814) 555-8989' to the div element.
 Reason: None
-Timestamp: 2025-03-18 01:14:38.028792
+Timestamp: 2025-03-18 01:22:41.514308
 
 Status: PASSED!
 Check: 4
 Test: Add a paragraph element with the text 'Email: <a href="mailto:contact@wildrescues .net">contact@wildrescues.net</a>' to the div element.
 Reason: None
-Timestamp: 2025-03-18 01:14:38.030024
+Timestamp: 2025-03-18 01:22:41.515518
 
-Status: PASSED!
+Status: FAILED!
 Check: 5
 Test: Add a paragraph element with the text 'Address: <a href="https://goo.gl/maps/BTJzjc2tALd4RDWA8" target="_blank">8989 Rescue Drive, Ocala, FL 34471</a>' to the div element.
-Reason: None
-Timestamp: 2025-03-18 01:14:38.031102
+Reason: Assertion failed: Can't find paragraph with the text 'Address: 8989 Rescue Drive, Ocala, FL 34471'
+Error : AssertionError - Can't find paragraph with the text 'Address: 8989 Rescue Drive, Ocala, FL 34471'
+Timestamp: 2025-03-18 01:22:41.516734
