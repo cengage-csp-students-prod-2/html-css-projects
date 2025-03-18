@@ -1,28 +1,21 @@
 
 Status: FAILED!
-Check: 1
-Test: Add an image element to insert the baby-raccoons.jpg picture.
-Reason: Assertion failed: Image element should have a src attribute value of images/baby-raccoons.jpg.
-Error : AssertionError - Image element should have a src attribute value of images/baby-raccoons.jpg.
-Timestamp: 2025-03-18 03:07:25.710267
-
-Status: FAILED!
 Check: 2
 Test: Add the alt text, hands holding three baby raccoons, to the image element.
 Reason: Assertion failed: Image element should have an alt attribute value of hands holding three baby raccoons.
 Error : AssertionError - Image element should have an alt attribute value of hands holding three baby raccoons.
-Timestamp: 2025-03-18 03:07:25.711763
+Timestamp: 2025-03-18 03:12:30.974412
 
 Status: FAILED!
 Check: 3
 Test: Add the height attribute of 330px to the image element.
 Reason: Assertion failed: Image element should have a height attribute value of 330px.
 Error : AssertionError - Image element should have a height attribute value of 330px.
-Timestamp: 2025-03-18 03:07:25.713090
+Timestamp: 2025-03-18 03:12:30.975789
 
 Status: FAILED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
 Reason: Assertion failed: Image element should have a width attribute value of 500px.
 Error : AssertionError - Image element should have a width attribute value of 500px.
-Timestamp: 2025-03-18 03:07:25.714532
+Timestamp: 2025-03-18 03:12:30.977217
