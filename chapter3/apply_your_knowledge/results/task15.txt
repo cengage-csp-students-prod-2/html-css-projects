@@ -1,35 +1,30 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Update the comment with **the file name**
-Reason: Unable to find 'File Name: js.html' in the program.
-Error : str - AssertionError
-Timestamp: 2025-03-18 07:08:20.897242
+Reason: 'File Name: js.html' was found in the program output.None
+Timestamp: 2025-03-18 07:09:42.099264
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
-Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
-Error : str - AssertionError
-Timestamp: 2025-03-18 07:08:20.897607
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2025-03-18 07:09:42.099433
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the same image from *Task 2*
-Reason: Assertion failed: No `img` element found
-Error : AssertionError - No `img` element found
-Timestamp: 2025-03-18 07:08:20.898477
+Reason: None
+Timestamp: 2025-03-18 07:09:42.100580
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
-Reason: Assertion failed: Expected 4 `a` elements within the `nav` element, found 0
-Error : AssertionError - Expected 4 `a` elements within the `nav` element, found 0
-Timestamp: 2025-03-18 07:08:20.899454
+Reason: None
+Timestamp: 2025-03-18 07:09:42.101548
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
-Reason: Unable to find 'Student Name: firstname lastname' in the program.
-Error : str - AssertionError
-Timestamp: 2025-03-18 07:08:20.899867
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2025-03-18 07:09:42.101809
