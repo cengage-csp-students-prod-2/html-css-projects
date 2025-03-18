@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add the missing `alt` attribute to the image element.
-Reason: KeyError occurred: 'alt'
-Error : KeyError - 'alt'
-Timestamp: 2025-03-18 04:02:17.884844
+Reason: None
+Timestamp: 2025-03-18 04:09:17.044899
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add the missing `height` attribute to the image element.
-Reason: KeyError occurred: 'height'
-Error : KeyError - 'height'
-Timestamp: 2025-03-18 04:02:17.886268
+Reason: None
+Timestamp: 2025-03-18 04:09:17.046333
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the missing `width` attribute to the image element.
-Reason: KeyError occurred: 'width'
-Error : KeyError - 'width'
-Timestamp: 2025-03-18 04:02:17.887631
+Reason: None
+Timestamp: 2025-03-18 04:09:17.047659
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Correct the image element with the correct value for the source attribute.
-Reason: Assertion failed: Expected src attribute to be 'images/hand-writing-html5.jpg' but got html5
-Error : AssertionError - Expected src attribute to be 'images/hand-writing-html5.jpg' but got html5
-Timestamp: 2025-03-18 04:02:17.889045
+Reason: None
+Timestamp: 2025-03-18 04:09:17.049011
