@@ -4,23 +4,23 @@ Check: 1
 Test: In the `main` element, nest all content within a `div` element that has an `id` attribute value of **resources**.
 Reason: Assertion failed: Could not find the div element within the main element.
 Error : AssertionError - Could not find the div element within the main element.
-Timestamp: 2025-03-18 04:09:17.050460
+Timestamp: 2025-03-18 04:11:51.602943
 
 Status: FAILED!
 Check: 2
 Test: Wrap the content within the `div` element with an `id` attribute value of **resources** within a `div` element.
 Reason: Assertion failed: Could not find the div element within the main element.
 Error : AssertionError - Could not find the div element within the main element.
-Timestamp: 2025-03-18 04:09:17.051902
+Timestamp: 2025-03-18 04:11:51.604096
 
 Status: PASSED!
 Check: 3
 Test: Insert a blank line after the starting `div` tag
 Reason: None
-Timestamp: 2025-03-18 04:09:17.052157
+Timestamp: 2025-03-18 04:11:51.604269
 
 Status: PASSED!
 Check: 4
 Test: Insert a blank line above the closing `div` tag.
 Reason: None
-Timestamp: 2025-03-18 04:09:17.052308
+Timestamp: 2025-03-18 04:11:51.604375

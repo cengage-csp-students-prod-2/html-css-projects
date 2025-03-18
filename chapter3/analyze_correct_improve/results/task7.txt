@@ -1,98 +1,85 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Link the text, W3C, to   https://www.w3.org/
-Reason: Assertion failed: No link text, W3C, found.
-Error : AssertionError - No link text, W3C, found.
-Timestamp: 2025-03-18 04:09:17.053674
+Reason: None
+Timestamp: 2025-03-18 04:11:51.605384
 
-Status: FAILED!
+Status: PASSED!
 Check: 10
 Test: Link the text, Image Compressor, to an online image compressor of your choice opens up in a new tab.
-Reason: Assertion failed: No link text, Image Compressor, found.
-Error : AssertionError - No link text, Image Compressor, found.
-Timestamp: 2025-03-18 04:09:17.055115
+Reason: None
+Timestamp: 2025-03-18 04:11:51.606568
 
-Status: FAILED!
+Status: PASSED!
 Check: 11
 Test: Link the text, HTML Validator, to W3C’s HTML validator
-Reason: Assertion failed: No link text, HTML Validator, found.
-Error : AssertionError - No link text, HTML Validator, found.
-Timestamp: 2025-03-18 04:09:17.056907
+Reason: None
+Timestamp: 2025-03-18 04:11:51.607556
 
-Status: FAILED!
+Status: PASSED!
 Check: 12
 Test: Link the text, HTML Validator, to W3C’s HTML validator opens up in a new tab.
-Reason: Assertion failed: No link text, HTML Validator, found.
-Error : AssertionError - No link text, HTML Validator, found.
-Timestamp: 2025-03-18 04:09:17.058335
+Reason: None
+Timestamp: 2025-03-18 04:11:51.608549
 
-Status: FAILED!
+Status: PASSED!
 Check: 13
 Test: Link the text, Emmet, to   https://emmet.io/
-Reason: Assertion failed: No link text, Emmet, found.
-Error : AssertionError - No link text, Emmet, found.
-Timestamp: 2025-03-18 04:09:17.059603
+Reason: None
+Timestamp: 2025-03-18 04:11:51.609554
 
-Status: FAILED!
+Status: PASSED!
 Check: 14
 Test: Link the text, Emmet, to   https://emmet.io/ opens up in a new tab.
-Reason: Assertion failed: No link text, Emmet, found.
-Error : AssertionError - No link text, Emmet, found.
-Timestamp: 2025-03-18 04:09:17.060866
+Reason: None
+Timestamp: 2025-03-18 04:11:51.610688
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Link the text, W3C, to   https://www.w3.org/ opens up in a new tab.
-Reason: Assertion failed: No link text, W3C, found.
-Error : AssertionError - No link text, W3C, found.
-Timestamp: 2025-03-18 04:09:17.062323
+Reason: None
+Timestamp: 2025-03-18 04:11:51.611670
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/
-Reason: Assertion failed: No link text, W3 Schools, found.
-Error : AssertionError - No link text, W3 Schools, found.
-Timestamp: 2025-03-18 04:09:17.063675
+Reason: None
+Timestamp: 2025-03-18 04:11:51.612645
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/ opens up in a new tab.
-Reason: Assertion failed: No link text, W3 Schools, found.
-Error : AssertionError - No link text, W3 Schools, found.
-Timestamp: 2025-03-18 04:09:17.065077
+Reason: None
+Timestamp: 2025-03-18 04:11:51.613625
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Link the text, HTML, to   https://www.html.com/
-Reason: Assertion failed: No link text, HTML, found.
-Error : AssertionError - No link text, HTML, found.
-Timestamp: 2025-03-18 04:09:17.066389
+Reason: None
+Timestamp: 2025-03-18 04:11:51.614728
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Link the text, HTML, to   https://www.html.com/ opens up in a new tab.
-Reason: Assertion failed: No link text, HTML, found.
-Error : AssertionError - No link text, HTML, found.
-Timestamp: 2025-03-18 04:09:17.067995
+Reason: None
+Timestamp: 2025-03-18 04:11:51.615709
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/
-Reason: Assertion failed: No link text, Smashing Magazine, found.
-Error : AssertionError - No link text, Smashing Magazine, found.
-Timestamp: 2025-03-18 04:09:17.069461
+Reason: None
+Timestamp: 2025-03-18 04:11:51.616687
 
-Status: FAILED!
+Status: PASSED!
 Check: 8
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/ opens up in a new tab.
-Reason: Assertion failed: No link text, Smashing Magazine, found.
-Error : AssertionError - No link text, Smashing Magazine, found.
-Timestamp: 2025-03-18 04:09:17.070890
+Reason: None
+Timestamp: 2025-03-18 04:11:51.617768
 
 Status: FAILED!
 Check: 9
 Test: Link the text, Image Compressor, to an online image compressor of your choice.
-Reason: Assertion failed: No link text, Image Compressor, found.
-Error : AssertionError - No link text, Image Compressor, found.
-Timestamp: 2025-03-18 04:09:17.072402
+Reason: Assertion failed: The link text, Image Compressor, should not link to the same website.
+Error : AssertionError - The link text, Image Compressor, should not link to the same website.
+Timestamp: 2025-03-18 04:11:51.618760
