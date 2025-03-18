@@ -3,11 +3,11 @@ Status: PASSED!
 Check: 1
 Test: Added a `div` element with an `id` attribute value of **semantic**
 Reason: None
-Timestamp: 2025-03-18 06:45:48.862498
+Timestamp: 2025-03-18 06:47:18.205917
 
 Status: FAILED!
 Check: 2
 Test: Closed the `div` after the paragraph element with the content
-Reason: Assertion failed: Expected last paragraph in the div 'Visit W3Schools.com to learn more about HTML semantic elements.', found 'Visit W3Schools to learn more about HTML semantic elements.'
-Error : AssertionError - Expected last paragraph in the div 'Visit W3Schools.com to learn more about HTML semantic elements.', found 'Visit W3Schools to learn more about HTML semantic elements.'
-Timestamp: 2025-03-18 06:45:48.863908
+Reason: IndexError occurred: list index out of range
+Error : IndexError - list index out of range
+Timestamp: 2025-03-18 06:47:18.207397
