@@ -4,25 +4,25 @@ Check: 1
 Test: Add an image element to insert the baby-raccoons.jpg picture.
 Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
 Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-18 02:06:58.858559
+Timestamp: 2025-03-18 02:09:43.913987
 
 Status: FAILED!
 Check: 2
 Test: Add the alt text, hands holding three baby raccoons, to the image element.
 Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
 Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-18 02:06:58.859674
+Timestamp: 2025-03-18 02:09:43.915128
 
 Status: FAILED!
 Check: 3
 Test: Add the height attribute of 330px to the image element.
 Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
 Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-18 02:06:58.860874
+Timestamp: 2025-03-18 02:09:43.916346
 
 Status: FAILED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
 Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
 Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-03-18 02:06:58.861959
+Timestamp: 2025-03-18 02:09:43.917462
