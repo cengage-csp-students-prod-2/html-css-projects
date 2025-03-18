@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Link the text content '8989 Rescue Drive, Ocala, FL 34471' to an online location map of Ocala, FL.
-Reason: None
-Timestamp: 2025-03-18 01:36:48.541342
+Reason: Assertion failed: Can't find the link element.
+Error : AssertionError - Can't find the link element.
+Timestamp: 2025-03-18 01:50:14.847600
