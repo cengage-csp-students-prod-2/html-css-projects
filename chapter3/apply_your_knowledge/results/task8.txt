@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Changed the paragraph element with the text, **Header**, to a description term, `<dt> </dt>`, element
-Reason: Assertion failed: No `dt` element found with the text 'Header'
-Error : AssertionError - No `dt` element found with the text 'Header'
-Timestamp: 2025-03-18 07:11:37.183434
+Reason: None
+Timestamp: 2025-03-18 07:14:13.323286
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Changed the paragraph element with the text, **Nav**, to a description term, `<dt> </dt>`, element
-Reason: Assertion failed: No `dt` element found with the text 'Nav'
-Error : AssertionError - No `dt` element found with the text 'Nav'
-Timestamp: 2025-03-18 07:11:37.185392
+Reason: None
+Timestamp: 2025-03-18 07:14:13.325275
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Changed the paragraph element with the text, **Main**, to a description term, `<dt> </dt>`, element
-Reason: Assertion failed: No `dt` element found with the text 'Main'
-Error : AssertionError - No `dt` element found with the text 'Main'
-Timestamp: 2025-03-18 07:11:37.187754
+Reason: None
+Timestamp: 2025-03-18 07:14:13.327096
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Changed the paragraph element with the text, **Footer**, to a description term, `<dt> </dt>`, element
-Reason: Assertion failed: No `dt` element found with the text 'Footer'
-Error : AssertionError - No `dt` element found with the text 'Footer'
-Timestamp: 2025-03-18 07:11:37.189730
+Reason: None
+Timestamp: 2025-03-18 07:14:13.328988

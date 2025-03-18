@@ -3,47 +3,47 @@ Status: PASSED!
 Check: 2
 Test: Update the comment with **the file name**
 Reason: 'File Name: css.html' was found in the program output.None
-Timestamp: 2025-03-18 07:11:35.657719
+Timestamp: 2025-03-18 07:14:06.917427
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-03-18 07:11:35.657889
+Timestamp: 2025-03-18 07:14:06.917622
 
 Status: PASSED!
 Check: 4
 Test: Add the same image from *Task 2*
 Reason: None
-Timestamp: 2025-03-18 07:11:35.658982
+Timestamp: 2025-03-18 07:14:06.919164
 
 Status: PASSED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
 Reason: None
-Timestamp: 2025-03-18 07:11:35.660254
+Timestamp: 2025-03-18 07:14:06.920910
 
 Status: PASSED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: '<p>Student Name: firstname lastname</p>' was found in the program output.None
-Timestamp: 2025-03-18 07:11:35.660843
+Timestamp: 2025-03-18 07:14:06.921737
 
 Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-03-18 07:11:35.660967
+Timestamp: 2025-03-18 07:14:06.921898
 
 Status: FAILED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: Unable to find '<p>Student Name: firstname lastname</p>' in the program.
 Error : str - AssertionError
-Timestamp: 2025-03-18 07:11:35.689387
+Timestamp: 2025-03-18 07:14:06.960076
 
 Status: PASSED!
 Check: 6
 Test: Add **your name** to the paragraph element within the `footer` element
 Reason: '<p>Student Name: firstname lastname</p>' was found in the program output.None
-Timestamp: 2025-03-18 07:11:35.692921
+Timestamp: 2025-03-18 07:14:06.962941
