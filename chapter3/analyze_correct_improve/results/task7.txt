@@ -3,83 +3,83 @@ Status: PASSED!
 Check: 1
 Test: Link the text, W3C, to   https://www.w3.org/
 Reason: None
-Timestamp: 2025-03-18 04:21:10.735680
+Timestamp: 2025-03-18 04:22:06.620368
 
 Status: PASSED!
 Check: 10
 Test: Link the text, Image Compressor, to an online image compressor of your choice opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.737624
+Timestamp: 2025-03-18 04:22:06.621441
 
 Status: PASSED!
 Check: 11
 Test: Link the text, HTML Validator, to W3C’s HTML validator
 Reason: None
-Timestamp: 2025-03-18 04:21:10.739534
+Timestamp: 2025-03-18 04:22:06.622494
 
 Status: PASSED!
 Check: 12
 Test: Link the text, HTML Validator, to W3C’s HTML validator opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.741544
+Timestamp: 2025-03-18 04:22:06.623524
 
 Status: PASSED!
 Check: 13
 Test: Link the text, Emmet, to   https://emmet.io/
 Reason: None
-Timestamp: 2025-03-18 04:21:10.743447
+Timestamp: 2025-03-18 04:22:06.624668
 
 Status: PASSED!
 Check: 14
 Test: Link the text, Emmet, to   https://emmet.io/ opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.745275
+Timestamp: 2025-03-18 04:22:06.625693
 
 Status: PASSED!
 Check: 2
 Test: Link the text, W3C, to   https://www.w3.org/ opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.747218
+Timestamp: 2025-03-18 04:22:06.626691
 
 Status: PASSED!
 Check: 3
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/
 Reason: None
-Timestamp: 2025-03-18 04:21:10.749125
+Timestamp: 2025-03-18 04:22:06.627789
 
 Status: PASSED!
 Check: 4
 Test: Link the text, W3 Schools, to   https://www.w3schools.com/ opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.751040
+Timestamp: 2025-03-18 04:22:06.628794
 
 Status: PASSED!
 Check: 5
 Test: Link the text, HTML, to   https://www.html.com/
 Reason: None
-Timestamp: 2025-03-18 04:21:10.752900
+Timestamp: 2025-03-18 04:22:06.629800
 
 Status: PASSED!
 Check: 6
 Test: Link the text, HTML, to   https://www.html.com/ opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.754935
+Timestamp: 2025-03-18 04:22:06.630813
 
 Status: PASSED!
 Check: 7
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/
 Reason: None
-Timestamp: 2025-03-18 04:21:10.756780
+Timestamp: 2025-03-18 04:22:06.631948
 
 Status: PASSED!
 Check: 8
 Test: Link the text, Smashing Magazine, to   https://www.smashingmagazine.com/ opens up in a new tab.
 Reason: None
-Timestamp: 2025-03-18 04:21:10.758714
+Timestamp: 2025-03-18 04:22:06.632956
 
 Status: FAILED!
 Check: 9
 Test: Link the text, Image Compressor, to an online image compressor of your choice.
 Reason: Assertion failed: The link text, Image Compressor, should not link to the same website.
 Error : AssertionError - The link text, Image Compressor, should not link to the same website.
-Timestamp: 2025-03-18 04:21:10.760752
+Timestamp: 2025-03-18 04:22:06.633967
