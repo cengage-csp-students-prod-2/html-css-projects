@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Added a `div` element with an `id` attribute value of **semantic**
 Reason: None
-Timestamp: 2025-03-18 05:16:59.826828
+Timestamp: 2025-03-18 05:18:31.188975
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Closed the `div` after the paragraph element with the content
-Reason: IndexError occurred: list index out of range
-Error : IndexError - list index out of range
-Timestamp: 2025-03-18 05:16:59.828310
+Reason: None
+Timestamp: 2025-03-18 05:18:31.190445
