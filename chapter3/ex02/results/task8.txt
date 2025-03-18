@@ -4,18 +4,10 @@ Check: 2
 Test: Add the alt text, hands holding three baby raccoons, to the image element.
 Reason: Assertion failed: Image element should have an alt attribute value of hands holding three baby raccoons.
 Error : AssertionError - Image element should have an alt attribute value of hands holding three baby raccoons.
-Timestamp: 2025-03-18 03:12:30.974412
+Timestamp: 2025-03-18 03:13:55.039449
 
-Status: FAILED!
-Check: 3
-Test: Add the height attribute of 330px to the image element.
-Reason: Assertion failed: Image element should have a height attribute value of 330px.
-Error : AssertionError - Image element should have a height attribute value of 330px.
-Timestamp: 2025-03-18 03:12:30.975789
-
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the width attribute of 500px to the image element.
-Reason: Assertion failed: Image element should have a width attribute value of 500px.
-Error : AssertionError - Image element should have a width attribute value of 500px.
-Timestamp: 2025-03-18 03:12:30.977217
+Reason: None
+Timestamp: 2025-03-18 03:13:55.041972

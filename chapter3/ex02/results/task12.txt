@@ -3,42 +3,42 @@ Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of info to the div element within the main element.
 Reason: None
-Timestamp: 2025-03-18 03:12:30.926981
+Timestamp: 2025-03-18 03:13:55.000329
 
 Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text content, About Us, to the div element.
 Reason: None
-Timestamp: 2025-03-18 03:12:30.929563
+Timestamp: 2025-03-18 03:13:55.003314
 
 Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the specified text content to the div element.
 Reason: None
-Timestamp: 2025-03-18 03:12:30.932224
+Timestamp: 2025-03-18 03:13:55.005978
 
 Status: FAILED!
 Check: 4
 Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
 Reason: Assertion failed: Can't find the p element with Wild Rescues is a member of the National Wildlife Rehabilitators Association.', as text.
 Error : AssertionError - Can't find the p element with Wild Rescues is a member of the National Wildlife Rehabilitators Association.', as text.
-Timestamp: 2025-03-18 03:12:30.934918
+Timestamp: 2025-03-18 03:13:55.008620
 
 Status: FAILED!
 Check: 5
 Test: Add an image element to the div element with the specified attributes.
 Reason: Assertion failed: Can't find the image element with an alt attribute of 'tortoise eating vegetation'.
 Error : AssertionError - Can't find the image element with an alt attribute of 'tortoise eating vegetation'.
-Timestamp: 2025-03-18 03:12:30.937810
+Timestamp: 2025-03-18 03:13:55.011678
 
 Status: PASSED!
 Check: 6
 Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
 Reason: None
-Timestamp: 2025-03-18 03:12:30.940533
+Timestamp: 2025-03-18 03:13:55.013402
 
 Status: PASSED!
 Check: 7
 Test: Add an unordered list with the specified list items to the div element.
 Reason: None
-Timestamp: 2025-03-18 03:12:30.943660
+Timestamp: 2025-03-18 03:13:55.015220
