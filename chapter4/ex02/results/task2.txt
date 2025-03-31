@@ -1,0 +1,42 @@
+
+Status: FAILED!
+Check: 1
+Test: Check if the css folder has been created
+Reason: Assertion failed: css folder not found in the rescue directory
+Error : AssertionError - css folder not found in the rescue directory
+Timestamp: 2025-03-31 17:14:58.151795
+
+Status: FAILED!
+Check: 2
+Test: Check if the styles.css file has been created
+Reason: Assertion failed: styles.css file not found in the css directory
+Error : AssertionError - styles.css file not found in the css directory
+Timestamp: 2025-03-31 17:14:58.152054
+
+Status: FAILED!
+Check: 3
+Test: Check if the link to the styles.css file has been added to the index.html file
+Reason: Assertion failed: Link to styles.css file not found in the index.html file
+Error : AssertionError - Link to styles.css file not found in the index.html file
+Timestamp: 2025-03-31 17:14:58.153420
+
+Status: FAILED!
+Check: 4
+Test: Check if the link to the styles.css file has been added to the about.html file
+Reason: Assertion failed: Link to styles.css file not found in the about.html file
+Error : AssertionError - Link to styles.css file not found in the about.html file
+Timestamp: 2025-03-31 17:14:58.155030
+
+Status: FAILED!
+Check: 5
+Test: Check if the link to the styles.css file has been added to the contact.html file
+Reason: Assertion failed: Link to styles.css file not found in the contact.html file
+Error : AssertionError - Link to styles.css file not found in the contact.html file
+Timestamp: 2025-03-31 17:14:58.156404
+
+Status: FAILED!
+Check: 6
+Test: Check if the link to the styles.css file has been added to the template.html file
+Reason: Assertion failed: Link to styles.css file not found in the template.html file
+Error : AssertionError - Link to styles.css file not found in the template.html file
+Timestamp: 2025-03-31 17:14:58.157428
