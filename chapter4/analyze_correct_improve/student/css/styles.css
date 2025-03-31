@@ -12,13 +12,15 @@
     font-size: 0.85em;
     color: #47476b;
     padding: 1% 0;
-    border-top: 3px solid #47476b;
+    border-top: 3px solid #47476b
+    clear: left;
 }body {
     padding: 2%;
     background-color: #d1d1e0;
 } main {
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
+    overflow: auto;
 } header h1 {
     text-align: center;
     font-size: 3em;
