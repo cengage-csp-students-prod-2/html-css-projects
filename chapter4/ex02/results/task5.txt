@@ -1,25 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a comment with the text Style rules for body and images
-Reason: Assertion failed: Style rules for body and images comment not found
-Error : AssertionError - Style rules for body and images comment not found
-Timestamp: 2025-03-31 17:19:00.939029
+Reason: None
+Timestamp: 2025-03-31 17:20:40.698974
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a style rule for the body selector that sets a background color value of #f6eee4
-Reason: Assertion failed: Could not find 
-body { background-color: #f6eee4; }
-Error : AssertionError - Could not find 
-body { background-color: #f6eee4; }
-Timestamp: 2025-03-31 17:19:00.939283
+Reason: None
+Timestamp: 2025-03-31 17:20:40.699305
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a style rule for the img selector that sets a max-width to 100% and displays images as a block
-Reason: Assertion failed: Could not find 
-img { max-width: 100%; display: block; }
-Error : AssertionError - Could not find 
-img { max-width: 100%; display: block; }
-Timestamp: 2025-03-31 17:19:00.939538
+Reason: None
+Timestamp: 2025-03-31 17:20:40.699618
