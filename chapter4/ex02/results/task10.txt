@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 2
 Test: Remove the two heading elements (h1 and h3) within the header element in the index.html file
 Reason: None
-Timestamp: 2025-03-31 17:36:52.395004
+Timestamp: 2025-03-31 17:41:33.460875
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Nest an image element within the header and wrap the image within an anchor element that links to the index.html file
-Reason: Assertion failed: alt attribute value of img element is not set to rescued baby hawk
-Error : AssertionError - alt attribute value of img element is not set to rescued baby hawk
-Timestamp: 2025-03-31 17:36:52.397356
+Reason: None
+Timestamp: 2025-03-31 17:41:33.462373
 
 Status: PASSED!
 Check: 4
 Test: Remove the height and width attributes from the baby raccoons image (img) element in the index.html file
 Reason: None
-Timestamp: 2025-03-31 17:36:52.399772
+Timestamp: 2025-03-31 17:41:33.463665
