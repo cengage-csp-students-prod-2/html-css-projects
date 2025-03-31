@@ -61,13 +61,11 @@ Style rules for class and id selectors
     font-style: italic;  
 }
 
-
 .action {
     font-size: 1.75em;  
     font-weight: bold; 
     text-align: center; 
 }
-
 
 #contact {
     text-align: center;  
