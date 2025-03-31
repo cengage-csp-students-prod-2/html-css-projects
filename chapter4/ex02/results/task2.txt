@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: Check if the css folder has been created
 Reason: None
-Timestamp: 2025-03-31 18:00:38.579407
+Timestamp: 2025-03-31 18:01:57.980956
 
 Status: PASSED!
 Check: 2
 Test: Check if the styles.css file has been created
 Reason: None
-Timestamp: 2025-03-31 18:00:38.579555
+Timestamp: 2025-03-31 18:01:57.981134
 
 Status: PASSED!
 Check: 3
 Test: Check if the link to the styles.css file has been added to the index.html file
 Reason: None
-Timestamp: 2025-03-31 18:00:38.581991
+Timestamp: 2025-03-31 18:01:57.983640
 
 Status: PASSED!
 Check: 4
 Test: Check if the link to the styles.css file has been added to the about.html file
 Reason: None
-Timestamp: 2025-03-31 18:00:38.584795
+Timestamp: 2025-03-31 18:01:57.986399
 
 Status: PASSED!
 Check: 5
 Test: Check if the link to the styles.css file has been added to the contact.html file
 Reason: None
-Timestamp: 2025-03-31 18:00:38.586897
+Timestamp: 2025-03-31 18:01:57.988450
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Check if the link to the styles.css file has been added to the template.html file
-Reason: Assertion failed: Link to styles.css file not found in the template.html file
-Error : AssertionError - Link to styles.css file not found in the template.html file
-Timestamp: 2025-03-31 18:00:38.588638
+Reason: None
+Timestamp: 2025-03-31 18:01:57.990326
