@@ -4,7 +4,7 @@ Check: 1
 Test: Add a comment with the text Style rules for navigation area
 Reason: Assertion failed: Style rules for navigation area comment not found
 Error : AssertionError - Style rules for navigation area comment not found
-Timestamp: 2025-03-31 09:35:30.790737
+Timestamp: 2025-03-31 09:37:25.669912
 
 Status: FAILED!
 Check: 2
@@ -13,7 +13,7 @@ Reason: Assertion failed: Could not find
 nav { background-color: #1d396d; }
 Error : AssertionError - Could not find 
 nav { background-color: #1d396d; }
-Timestamp: 2025-03-31 09:35:30.791036
+Timestamp: 2025-03-31 09:37:25.670182
 
 Status: FAILED!
 Check: 3
@@ -22,7 +22,7 @@ Reason: Assertion failed: Could not find
 nav ul { list-style-type: none; margin: 0; text-align: center; }
 Error : AssertionError - Could not find 
 nav ul { list-style-type: none; margin: 0; text-align: center; }
-Timestamp: 2025-03-31 09:35:30.791331
+Timestamp: 2025-03-31 09:37:25.670450
 
 Status: FAILED!
 Check: 4
@@ -31,7 +31,7 @@ Reason: Assertion failed: Could not find
 nav li { display: inline-block; font-size: 1.5em; font-family: Verdana, Arial, sans-serif; font-weight: bold; }
 Error : AssertionError - Could not find 
 nav li { display: inline-block; font-size: 1.5em; font-family: Verdana, Arial, sans-serif; font-weight: bold; }
-Timestamp: 2025-03-31 09:35:30.791647
+Timestamp: 2025-03-31 09:37:25.670753
 
 Status: FAILED!
 Check: 5
@@ -40,4 +40,4 @@ Reason: Assertion failed: Could not find
 nav li a { display: block; color: #e3eaf8; padding: 0.5em 2em; text-decoration: none; }
 Error : AssertionError - Could not find 
 nav li a { display: block; color: #e3eaf8; padding: 0.5em 2em; text-decoration: none; }
-Timestamp: 2025-03-31 09:35:30.791947
+Timestamp: 2025-03-31 09:37:25.671049

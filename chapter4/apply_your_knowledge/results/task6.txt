@@ -4,7 +4,7 @@ Check: 1
 Test: Add a comment with the text Style rule for body and image
 Reason: Assertion failed: Style rule for body and image comment not found
 Error : AssertionError - Style rule for body and image comment not found
-Timestamp: 2025-03-31 09:35:30.789373
+Timestamp: 2025-03-31 09:37:25.668629
 
 Status: FAILED!
 Check: 2
@@ -13,7 +13,7 @@ Reason: Assertion failed: Could not find
 body { background-color: #e3eaf8; }
 Error : AssertionError - Could not find 
 body { background-color: #e3eaf8; }
-Timestamp: 2025-03-31 09:35:30.789647
+Timestamp: 2025-03-31 09:37:25.668891
 
 Status: FAILED!
 Check: 3
@@ -22,4 +22,4 @@ Reason: Assertion failed: Could not find
 img { max-width: 100%; display: block; }
 Error : AssertionError - Could not find 
 img { max-width: 100%; display: block; }
-Timestamp: 2025-03-31 09:35:30.789905
+Timestamp: 2025-03-31 09:37:25.669134

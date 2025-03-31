@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Link element is placed after the meta element
 Reason: None
-Timestamp: 2025-03-31 09:35:30.787286
+Timestamp: 2025-03-31 09:37:25.666746
 
 Status: PASSED!
 Check: 2
 Test: Add the link element after the meta element
 Reason: None
-Timestamp: 2025-03-31 09:35:30.788645
+Timestamp: 2025-03-31 09:37:25.667933
