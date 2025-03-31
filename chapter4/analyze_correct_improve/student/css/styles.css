@@ -18,7 +18,7 @@
     padding: 2%;
     background-color: #d1d1e0;
 } main {
-    clear:left
+    clear:left;
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
     overflow: auto;
@@ -34,7 +34,11 @@
 } nav ul { margin: 0;} nav li {
     display: inline-block;
     font-size: 1.5em; font-family: Verdana, Arial, sans-serif; font-weight: bold;
-} nav li a { display: block; color: #e3eaf8; padding: 0.5em 2em; }
+} nav li a { 
+    display: block;
+    color: #e3eaf8;
+    padding: 0.5em 2em;
+    text-decoration: none;
 
 main p {
     font-size: 1.25em;
