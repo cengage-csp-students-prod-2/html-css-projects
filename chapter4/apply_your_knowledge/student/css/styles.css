@@ -4,7 +4,9 @@
     Date: 03/28/2025  
 */
 
-/*Css Reset*/
+/*
+    Css Reset
+*/
 body, header, nav, main, footer, img, h1, h3 {
     margin: 0;
     padding: 0;
