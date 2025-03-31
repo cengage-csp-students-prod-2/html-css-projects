@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Link element is placed after the meta element
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'name'
-Error : AttributeError - 'NoneType' object has no attribute 'name'
-Timestamp: 2025-03-31 09:28:16.383014
+Reason: None
+Timestamp: 2025-03-31 09:35:30.787286
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add the link element after the meta element
-Reason: Assertion failed: Link element not found
-Error : AssertionError - Link element not found
-Timestamp: 2025-03-31 09:28:16.384296
+Reason: None
+Timestamp: 2025-03-31 09:35:30.788645

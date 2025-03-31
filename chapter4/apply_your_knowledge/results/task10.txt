@@ -4,18 +4,18 @@ Check: 1
 Test: Add a comment with the text Style rules for footer content
 Reason: Assertion failed: Style rules for footer content comment not found
 Error : AssertionError - Style rules for footer content comment not found
-Timestamp: 2025-03-31 09:28:16.263335
+Timestamp: 2025-03-31 09:35:30.565246
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the footer selector that aligns text center, sets a font size value of 0.85em, sets a background color value of # 1d396d, sets a font color value of # e3eaf8, and sets top and bottom padding values to 1% and right and left padding values to 0%
 Reason: Assertion failed: The text-align property for the footer element is not set to center. The text-align property is set to start.
 Error : AssertionError - The text-align property for the footer element is not set to center. The text-align property is set to start.
-Timestamp: 2025-03-31 09:28:16.356808
+Timestamp: 2025-03-31 09:35:30.755959
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for footer p that sets the font color value to # e3eaf8 and removes the text decoration
 Reason: Assertion failed: The color property for the footer p element is not set to #e3eaf8. The color property is set to rgba(0, 0, 0, 1).
 Error : AssertionError - The color property for the footer p element is not set to #e3eaf8. The color property is set to rgba(0, 0, 0, 1).
-Timestamp: 2025-03-31 09:28:16.376591
+Timestamp: 2025-03-31 09:35:30.780644
