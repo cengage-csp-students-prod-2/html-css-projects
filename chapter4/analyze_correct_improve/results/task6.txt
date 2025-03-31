@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the style rule for the `main` selector that sets the overflow property to **auto**.
-Reason: Assertion failed: The main element does not have the overflow property set to auto. The overflow property is set to visible.
-Error : AssertionError - The main element does not have the overflow property set to auto. The overflow property is set to visible.
-Timestamp: 2025-03-31 11:22:16.817686
+Reason: None
+Timestamp: 2025-03-31 11:25:38.436371
