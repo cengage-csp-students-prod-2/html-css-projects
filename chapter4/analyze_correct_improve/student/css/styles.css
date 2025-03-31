@@ -22,6 +22,12 @@
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
     overflow: auto;
+} main a {
+        color: #47476b;       
+        text-decoration: none;  
+        font-weight: bold;      
+        font-style: italic;     
+
 } header h1 {
     text-align: center;
     font-size: 3em;
@@ -40,16 +46,9 @@
     padding: 0.5em 2em;
     text-decoration: none;
 
-main p {
+}main p {
     font-size: 1.25em;
-}
-main h3 {
+}main h3 {
     padding-top: 2%;
     font-size: 2em;
-}
-main a {
-    color: #47476b;       
-    text-decoration: none;  
-    font-weight: bold;      
-    font-style: italic;     
 }
