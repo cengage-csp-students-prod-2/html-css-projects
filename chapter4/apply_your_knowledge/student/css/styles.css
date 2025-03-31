@@ -6,10 +6,34 @@
 
 /*
     CSS Reset
-
-body, header, nav, main, footer, img, h1, h3 {
+    body, header, nav, main, footer, img, h1, h3 {
     margin: 0;
     padding: 0;
     border: 0;
 }
 */
+
+/*
+    Style rule for body and image
+    body {
+    background-color: #e3eaf8;
+}
+*/
+/* 
+    Style rule for images 
+img {
+    max-width: 100%;
+    display: block;
+}
+*/
+
+/* 
+    Style rule for header content 
+header h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: Georgia, Times, serif;
+    padding: 3%;
+    color: #101a2d;
+}
+*/    
