@@ -23,7 +23,8 @@
     font-size: 3em;
     font-family: Georgia, Times, serif;
     padding: 3%;
-    color: #47476b;
+    color: #47476b
+    text-align: center;
 } nav {
     background-color: #47476b;
 } nav ul { margin: 0;} nav li {
