@@ -4,18 +4,18 @@ Check: 1
 Test: Link the text, W3C, to https://www.w3.org/
 Reason: Assertion failed: W3C link href attribute not set to https://www.w3.org/
 Error : AssertionError - W3C link href attribute not set to https://www.w3.org/
-Timestamp: 2025-03-31 11:31:15.192551
+Timestamp: 2025-03-31 11:34:33.915340
 
 Status: FAILED!
 Check: 2
 Test: Link the text, W3Schools, to https://www.w3schools.com/
 Reason: Assertion failed: W3Schools link href attribute not set to https://www.w3schools.com/
 Error : AssertionError - W3Schools link href attribute not set to https://www.w3schools.com/
-Timestamp: 2025-03-31 11:31:15.194030
+Timestamp: 2025-03-31 11:34:33.916841
 
 Status: FAILED!
 Check: 3
 Test: Link the text, CSS Working Group, to https://www.w3.org/Style/CSS/members
 Reason: Assertion failed: CSS Working Group link href attribute not set to https://www.w3.org/Style/CSS/members
 Error : AssertionError - CSS Working Group link href attribute not set to https://www.w3.org/Style/CSS/members
-Timestamp: 2025-03-31 11:31:15.195264
+Timestamp: 2025-03-31 11:34:33.918094
