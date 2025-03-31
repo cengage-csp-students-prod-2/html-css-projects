@@ -13,11 +13,12 @@
     color: #47476b;
     padding: 1% 0;
     border-top: 3px solid #47476b
-    clear: left;
+    
 }body {
     padding: 2%;
     background-color: #d1d1e0;
 } main {
+    clear:left
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
     overflow: auto;
