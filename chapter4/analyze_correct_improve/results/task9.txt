@@ -4,11 +4,11 @@ Check: 1
 Test: Create a style rule for anchor elements within the `main` element that sets the font color value to **#47476b**, removes the underline, sets a `font-weight` value of **bold**, and sets a font style value of **italic**.
 Reason: Assertion failed: The anchor elements within the main element do not have the color property set to #47476b. The color property is set to rgba(0, 0, 238, 1).
 Error : AssertionError - The anchor elements within the main element do not have the color property set to #47476b. The color property is set to rgba(0, 0, 238, 1).
-Timestamp: 2025-03-31 11:13:14.718524
+Timestamp: 2025-03-31 11:14:58.188158
 
 Status: FAILED!
 Check: 2
 Test: Adjust the `width` value for the `cssl`, `css2`, and `css3` `id` selectors so that they appear next to each other horizontally.
 Reason: Assertion failed: The width of the css1 element is too large.
 Error : AssertionError - The width of the css1 element is too large.
-Timestamp: 2025-03-31 11:13:14.758988
+Timestamp: 2025-03-31 11:14:58.228176
