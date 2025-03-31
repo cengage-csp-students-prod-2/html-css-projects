@@ -4,11 +4,11 @@ Check: 1
 Test: Add a class attribute with a value of `external` to all anchor elements on Lines **41**, **43**, and **45**.
 Reason: Assertion failed: Add a class attribute with a value of `external` to all anchor elements on Lines **41**, **43**, and **45**.
 Error : AssertionError - Add a class attribute with a value of `external` to all anchor elements on Lines **41**, **43**, and **45**.
-Timestamp: 2025-03-31 09:37:25.660731
+Timestamp: 2025-03-31 09:38:50.260786
 
 Status: FAILED!
 Check: 2
 Test: In *index.html*, remove the `height` and `width` attributes from the *word-cloud.png* image.
 Reason: Assertion failed: Remove the height attribute from the word-cloud.png image
 Error : AssertionError - Remove the height attribute from the word-cloud.png image
-Timestamp: 2025-03-31 09:37:25.662304
+Timestamp: 2025-03-31 09:38:50.262367
