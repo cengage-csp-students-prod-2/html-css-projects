@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Add a class attribute with the value link to the email anchor element
 Reason: None
-Timestamp: 2025-03-31 17:41:33.464903
+Timestamp: 2025-03-31 17:47:11.496848
