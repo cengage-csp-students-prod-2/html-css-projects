@@ -2,20 +2,24 @@
 Status: FAILED!
 Check: 1
 Test: Add a comment with the text Style rule for body and image
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.007536
+Reason: Assertion failed: Style rule for body and image comment not found
+Error : AssertionError - Style rule for body and image comment not found
+Timestamp: 2025-03-31 09:28:16.385030
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the body selector that sets a background color value of #e3eaf8
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.007686
+Reason: Assertion failed: Could not find 
+body { background-color: #e3eaf8; }
+Error : AssertionError - Could not find 
+body { background-color: #e3eaf8; }
+Timestamp: 2025-03-31 09:28:16.385299
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for an img selector that sets a max-width to 100% and displays the images as a block
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.007801
+Reason: Assertion failed: Could not find 
+img { max-width: 100%; display: block; }
+Error : AssertionError - Could not find 
+img { max-width: 100%; display: block; }
+Timestamp: 2025-03-31 09:28:16.385537

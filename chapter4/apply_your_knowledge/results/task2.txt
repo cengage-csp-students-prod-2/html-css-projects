@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the nav element to use an unordered list
-Reason: Assertion failed: Nav element does not contain a ul element
-Error : AssertionError - Nav element does not contain a ul element
-Timestamp: 2025-03-31 09:23:49.002694
+Reason: None
+Timestamp: 2025-03-31 09:28:16.379952
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Wrap each anchor within a list item
-Reason: Assertion failed: Nav element does not contain a ul element
-Error : AssertionError - Nav element does not contain a ul element
-Timestamp: 2025-03-31 09:23:49.004065
+Reason: None
+Timestamp: 2025-03-31 09:28:16.381203

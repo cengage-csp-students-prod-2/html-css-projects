@@ -2,48 +2,60 @@
 Status: FAILED!
 Check: 1
 Test: Add a comment with the text Style rules for main content
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.009120
+Reason: Assertion failed: Style rules for main content comment not found
+Error : AssertionError - Style rules for main content comment not found
+Timestamp: 2025-03-31 09:28:16.387709
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the main selector that sets the padding value to 2%, a font family with values Geneva, Arial, sans-serif, and an overflow value of auto
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.009303
+Reason: Assertion failed: Could not find 
+main { padding: 2%; font-family: Geneva, Arial, sans-serif; overflow: auto; }
+Error : AssertionError - Could not find 
+main { padding: 2%; font-family: Geneva, Arial, sans-serif; overflow: auto; }
+Timestamp: 2025-03-31 09:28:16.388003
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for main p that sets the font size value to 1.25em
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.009425
+Reason: Assertion failed: Could not find 
+main p { font-size: 1.25em; }
+Error : AssertionError - Could not find 
+main p { font-size: 1.25em; }
+Timestamp: 2025-03-31 09:28:16.388214
 
 Status: FAILED!
 Check: 4
 Test: Create a style rule for main h3 that sets the top padding value to 2% and a font size value to 2em
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.009557
+Reason: Assertion failed: Could not find 
+main h3 { padding-top: 2%; font-size: 2em; }
+Error : AssertionError - Could not find 
+main h3 { padding-top: 2%; font-size: 2em; }
+Timestamp: 2025-03-31 09:28:16.388474
 
 Status: FAILED!
 Check: 5
 Test: Create a style rule for the id selector image that sets a width value of 45%, a float value of left, and a padding value of 1%
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.009703
+Reason: Assertion failed: Could not find 
+#image { width: 45%; float: left; padding: 1%; }
+Error : AssertionError - Could not find 
+#image { width: 45%; float: left; padding: 1%; }
+Timestamp: 2025-03-31 09:28:16.388720
 
 Status: FAILED!
 Check: 6
 Test: Create a style rule for the id selector group that sets a width value of 45% and a float value of right
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.009861
+Reason: Assertion failed: Could not find 
+#group { width: 45%; float: right; }
+Error : AssertionError - Could not find 
+#group { width: 45%; float: right; }
+Timestamp: 2025-03-31 09:28:16.388942
 
 Status: FAILED!
 Check: 7
 Test: Create a style rule for the class selector external that sets the font color to #1d396d, removes the text decoration, sets the font weight value to bold, and sets the font style value to italic
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2025-03-31 09:23:49.010205
+Reason: Assertion failed: Could not find 
+.external { color: #1d396d; text-decoration: none; font-weight: bold; font-style: italic; }
+Error : AssertionError - Could not find 
+.external { color: #1d396d; text-decoration: none; font-weight: bold; font-style: italic; }
+Timestamp: 2025-03-31 09:28:16.389215
