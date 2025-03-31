@@ -19,6 +19,7 @@
     background-color: #e3eaf8;
 }
 */
+
 /* 
     Style rule for images 
 img {
@@ -100,4 +101,20 @@ main h3 {
     font-weight: bold;
     font-style: italic;
 }    
+*/
+
+/*
+    Style rules for footer content
+    footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #1d396d;
+    color: #e3eaf8;
+    padding: 1% 0%;
+}
+
+footer p {
+    color: #e3eaf8;
+    text-decoration: none;
+}
 */
