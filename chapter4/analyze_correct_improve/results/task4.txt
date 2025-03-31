@@ -1,7 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Correct the style rule for the `h1` selector located in the `header` element to center-align its content. 
-Reason: Assertion failed: The h1 element in the header element is not center-aligned. The text-align property is set to start.
-Error : AssertionError - The h1 element in the header element is not center-aligned. The text-align property is set to start.
-Timestamp: 2025-03-31 11:17:51.791008
+Reason: None
+Timestamp: 2025-03-31 11:22:16.667731
+
+Status: PASSED!
+Check: 1
+Test: Correct the style rule for the `h1` selector located in the `header` element to center-align its content. 
+Reason: None
+Timestamp: 2025-03-31 11:22:16.667870

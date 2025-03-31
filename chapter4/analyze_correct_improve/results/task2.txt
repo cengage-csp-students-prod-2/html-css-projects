@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Link the index.html file to the style sheet located within the /css folder
 Reason: None
-Timestamp: 2025-03-31 11:17:50.436355
+Timestamp: 2025-03-31 11:22:08.518512
 
 Status: PASSED!
 Check: 2
 Test: Link tag has a rel attribute set to stylesheet
 Reason: None
-Timestamp: 2025-03-31 11:17:50.438581
+Timestamp: 2025-03-31 11:22:08.519840

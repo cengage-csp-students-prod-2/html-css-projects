@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Correct the style rule for the list item elements within the `nav` to display the list as an `inline-block`.
-Reason: Assertion failed: The list item elements within the nav element are not displayed as inline-block. The display property is set to block.
-Error : AssertionError - The list item elements within the nav element are not displayed as inline-block. The display property is set to block.
-Timestamp: 2025-03-31 11:17:51.837460
+Reason: None
+Timestamp: 2025-03-31 11:22:16.739456

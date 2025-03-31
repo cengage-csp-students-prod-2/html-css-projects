@@ -4,4 +4,4 @@ Check: 1
 Test: Remove the underline from all `nav` links using the `text-decoration` property. 
 Reason: Assertion failed: The links within the nav li element have an underline. The text-decoration property is set to underline.
 Error : AssertionError - The links within the nav li element have an underline. The text-decoration property is set to underline.
-Timestamp: 2025-03-31 11:17:51.996228
+Timestamp: 2025-03-31 11:22:16.927984
