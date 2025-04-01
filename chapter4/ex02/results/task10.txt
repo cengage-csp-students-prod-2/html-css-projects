@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 2
 Test: Remove the two heading elements (h1 and h3) within the header element in the index.html file
 Reason: None
-Timestamp: 2025-04-01 00:23:54.988667
+Timestamp: 2025-04-01 00:27:04.017707
 
 Status: PASSED!
 Check: 3
 Test: Nest an image element within the header and wrap the image within an anchor element that links to the index.html file
 Reason: None
-Timestamp: 2025-04-01 00:23:54.990091
+Timestamp: 2025-04-01 00:27:04.019179
 
 Status: PASSED!
 Check: 4
 Test: Remove the height and width attributes from the baby raccoons image (img) element in the index.html file
 Reason: None
-Timestamp: 2025-04-01 00:23:54.991386
+Timestamp: 2025-04-01 00:27:04.020501
