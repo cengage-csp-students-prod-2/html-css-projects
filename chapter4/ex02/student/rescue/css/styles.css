@@ -4,7 +4,8 @@ File Name: styles.css
 Date: 03/28/2025
 */
 
-/* CSS Reset
+/* 
+CSS Reset
 }body, header, nav, main, footer, img, h1, h3 {
     margin: 0;
     padding: 0;
@@ -12,7 +13,8 @@ Date: 03/28/2025
 }
 */
 
-/* Style rules for body and images 
+/* 
+Style rules for body and images 
 body {
     background-color: #f6eee4;
 }
@@ -23,7 +25,8 @@ body {
 }
 */
 
-/* Style rules for navigation area
+/* 
+Style rules for navigation area
 nav {
     background-color: #2a1f14;
 }
@@ -48,13 +51,13 @@ nav {
     text-decoration: none;
 }
 */
-/* Style rules for main content
+/* 
+Style rules for main content
 main {
     padding: 2%; 
     font-family: Verdana, Arial, sans-serif; 
 }
-
-/* Style rule for paragraphs inside main 
+ 
 main p {
     font-size: 1.25em; 
 }
@@ -68,7 +71,8 @@ main ul {
 }
 */
 
-/* Style rules for class and id selectors 
+/* 
+Style rules for class and id selectors 
 }.link {
     color: #4d3319;
     text-decoration: none;
@@ -87,7 +91,8 @@ main ul {
 }
 */
 
-/* Style rules for footer content 
+/* 
+Style rules for footer content 
 }footer {
     text-align: center;
     font-size: 0.85em;
