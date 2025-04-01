@@ -48,6 +48,25 @@ nav {
     text-decoration: none;
 }
 */
+/* Style rules for main content
+main {
+    padding: 2%; 
+    font-family: Verdana, Arial, sans-serif; 
+}
+
+/* Style rule for paragraphs inside main 
+main p {
+    font-size: 1.25em; 
+}
+
+main h3 {
+    padding-top: 2%; 
+}
+
+main ul {
+    list-style-type: square; 
+}
+*/
 
 /* Style rules for class and id selectors 
 }.link {
