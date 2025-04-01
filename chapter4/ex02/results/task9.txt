@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a style rule for the `footer` selector that aligns text **center**, sets a font size value of **0.85em**, sets a background color value of **#2a1f14**, sets a font color value of **#f6eee4**, and sets top and bottom `padding` values to **1%** and right and left padding values to **0%**.
-Reason: Assertion failed: Text not aligned center
-Error : AssertionError - Text not aligned center
-Timestamp: 2025-04-01 00:27:27.208982
+Reason: None
+Timestamp: 2025-04-01 00:31:16.200349
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Create a style rule for `footer a` that sets the font color value to **#f3e6d8** and removes the text decoration.
-Reason: Assertion failed: Font color not set to #f3e6d8
-Error : AssertionError - Font color not set to #f3e6d8
-Timestamp: 2025-04-01 00:27:27.229686
+Reason: None
+Timestamp: 2025-04-01 00:31:16.228215
