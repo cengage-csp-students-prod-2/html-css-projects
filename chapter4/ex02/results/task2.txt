@@ -3,34 +3,34 @@ Status: PASSED!
 Check: 1
 Test: Check if the css folder has been created
 Reason: None
-Timestamp: 2025-04-01 00:39:44.206693
+Timestamp: 2025-04-01 00:42:26.740152
 
 Status: PASSED!
 Check: 2
 Test: Check if the styles.css file has been created
 Reason: None
-Timestamp: 2025-04-01 00:39:44.206799
+Timestamp: 2025-04-01 00:42:26.740257
 
 Status: PASSED!
 Check: 3
 Test: Check if the link to the styles.css file has been added to the index.html file
 Reason: None
-Timestamp: 2025-04-01 00:39:44.208146
+Timestamp: 2025-04-01 00:42:26.741619
 
 Status: PASSED!
 Check: 4
 Test: Check if the link to the styles.css file has been added to the about.html file
 Reason: None
-Timestamp: 2025-04-01 00:39:44.209697
+Timestamp: 2025-04-01 00:42:26.743174
 
 Status: PASSED!
 Check: 5
 Test: Check if the link to the styles.css file has been added to the contact.html file
 Reason: None
-Timestamp: 2025-04-01 00:39:44.210867
+Timestamp: 2025-04-01 00:42:26.744355
 
 Status: PASSED!
 Check: 6
 Test: Check if the link to the styles.css file has been added to the template.html file
 Reason: None
-Timestamp: 2025-04-01 00:39:44.211937
+Timestamp: 2025-04-01 00:42:26.745498
