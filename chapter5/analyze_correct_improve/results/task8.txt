@@ -1,106 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the class attribute with a value of `corner` to the image element
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"img.corner"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x557e11ea3e6a <unknown>
-#1 0x557e11955640 <unknown>
-#2 0x557e119a6b5a <unknown>
-#3 0x557e119a6d51 <unknown>
-#4 0x557e119f5344 <unknown>
-#5 0x557e119cc77d <unknown>
-#6 0x557e119f27b5 <unknown>
-#7 0x557e119cc523 <unknown>
-#8 0x557e11998ef3 <unknown>
-#9 0x557e11999b51 <unknown>
-#10 0x557e11e68d2b <unknown>
-#11 0x557e11e6cc01 <unknown>
-#12 0x557e11e50512 <unknown>
-#13 0x557e11e6d774 <unknown>
-#14 0x557e11e3490f <unknown>
-#15 0x557e11e91fb8 <unknown>
-#16 0x557e11e92196 <unknown>
-#17 0x557e11ea2cb6 <unknown>
-#18 0x7f175429caa4 <unknown>
-#19 0x7f1754329c3c <unknown>
+Reason: None
+Timestamp: 2025-04-15 05:52:38.679206
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"img.corner"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x557e11ea3e6a <unknown>
-#1 0x557e11955640 <unknown>
-#2 0x557e119a6b5a <unknown>
-#3 0x557e119a6d51 <unknown>
-#4 0x557e119f5344 <unknown>
-#5 0x557e119cc77d <unknown>
-#6 0x557e119f27b5 <unknown>
-#7 0x557e119cc523 <unknown>
-#8 0x557e11998ef3 <unknown>
-#9 0x557e11999b51 <unknown>
-#10 0x557e11e68d2b <unknown>
-#11 0x557e11e6cc01 <unknown>
-#12 0x557e11e50512 <unknown>
-#13 0x557e11e6d774 <unknown>
-#14 0x557e11e3490f <unknown>
-#15 0x557e11e91fb8 <unknown>
-#16 0x557e11e92196 <unknown>
-#17 0x557e11ea2cb6 <unknown>
-#18 0x7f175429caa4 <unknown>
-#19 0x7f1754329c3c <unknown>
-
-Timestamp: 2025-04-15 05:49:25.414745
-
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a new style rule for the `corner` class selector that specifies a `border-radius` of 12px
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".corner"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x557e11ea3e6a <unknown>
-#1 0x557e11955640 <unknown>
-#2 0x557e119a6b5a <unknown>
-#3 0x557e119a6d51 <unknown>
-#4 0x557e119f5344 <unknown>
-#5 0x557e119cc77d <unknown>
-#6 0x557e119f27b5 <unknown>
-#7 0x557e119cc523 <unknown>
-#8 0x557e11998ef3 <unknown>
-#9 0x557e11999b51 <unknown>
-#10 0x557e11e68d2b <unknown>
-#11 0x557e11e6cc01 <unknown>
-#12 0x557e11e50512 <unknown>
-#13 0x557e11e6d774 <unknown>
-#14 0x557e11e3490f <unknown>
-#15 0x557e11e91fb8 <unknown>
-#16 0x557e11e92196 <unknown>
-#17 0x557e11ea2cb6 <unknown>
-#18 0x7f175429caa4 <unknown>
-#19 0x7f1754329c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".corner"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x557e11ea3e6a <unknown>
-#1 0x557e11955640 <unknown>
-#2 0x557e119a6b5a <unknown>
-#3 0x557e119a6d51 <unknown>
-#4 0x557e119f5344 <unknown>
-#5 0x557e119cc77d <unknown>
-#6 0x557e119f27b5 <unknown>
-#7 0x557e119cc523 <unknown>
-#8 0x557e11998ef3 <unknown>
-#9 0x557e11999b51 <unknown>
-#10 0x557e11e68d2b <unknown>
-#11 0x557e11e6cc01 <unknown>
-#12 0x557e11e50512 <unknown>
-#13 0x557e11e6d774 <unknown>
-#14 0x557e11e3490f <unknown>
-#15 0x557e11e91fb8 <unknown>
-#16 0x557e11e92196 <unknown>
-#17 0x557e11ea2cb6 <unknown>
-#18 0x7f175429caa4 <unknown>
-#19 0x7f1754329c3c <unknown>
-
-Timestamp: 2025-04-15 05:49:26.441739
+Reason: None
+Timestamp: 2025-04-15 05:52:38.696002
