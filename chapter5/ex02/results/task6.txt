@@ -1,0 +1,49 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the link to the google fonts in the head element of the index.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the index.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the index.html file.
+Timestamp: 2025-04-15 04:08:27.957096
+
+Status: FAILED!
+Check: 2
+Test: Add the link to the google fonts in the head element of the about.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the about.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the about.html file.
+Timestamp: 2025-04-15 04:08:27.960170
+
+Status: FAILED!
+Check: 3
+Test: Add the link to the google fonts in the head element of the contact.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the contact.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the contact.html file.
+Timestamp: 2025-04-15 04:08:27.962282
+
+Status: FAILED!
+Check: 4
+Test: Add the link to the google fonts in the head element of the template.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the template.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the template.html file.
+Timestamp: 2025-04-15 04:08:27.963722
+
+Status: FAILED!
+Check: 5
+Test: Add the style rule for the h1 selector within the mobile class in the styles.css file.
+Reason: Assertion failed: The `h1` selector within the `mobile` class does not have the `Emblema One` font-family.
+Error : AssertionError - The `h1` selector within the `mobile` class does not have the `Emblema One` font-family.
+Timestamp: 2025-04-15 04:08:27.991059
+
+Status: FAILED!
+Check: 6
+Test: Add the style rule for the h3 selector within the mobile class in the styles.css file.
+Reason: Assertion failed: The `h3` selector within the `mobile` class does not have the `Lora` font-family.
+Error : AssertionError - The `h3` selector within the `mobile` class does not have the `Lora` font-family.
+Timestamp: 2025-04-15 04:08:28.015682
+
+Status: FAILED!
+Check: 7
+Test: Add the style rule for the main selector in the styles.css file.
+Reason: Assertion failed: The `main` selector does not have the `Lora` font-family.
+Error : AssertionError - The `main` selector does not have the `Lora` font-family.
+Timestamp: 2025-04-15 04:08:28.027904

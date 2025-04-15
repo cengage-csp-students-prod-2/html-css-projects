@@ -1,0 +1,53 @@
+
+Status: FAILED!
+Check: 1
+Test: create a new style rule for the `round` class selector that specifies a `border-radius` of 6px
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".round"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56100fb47e6a <unknown>
+#1 0x56100f5f9640 <unknown>
+#2 0x56100f64ab5a <unknown>
+#3 0x56100f64ad51 <unknown>
+#4 0x56100f699344 <unknown>
+#5 0x56100f67077d <unknown>
+#6 0x56100f6967b5 <unknown>
+#7 0x56100f670523 <unknown>
+#8 0x56100f63cef3 <unknown>
+#9 0x56100f63db51 <unknown>
+#10 0x56100fb0cd2b <unknown>
+#11 0x56100fb10c01 <unknown>
+#12 0x56100faf4512 <unknown>
+#13 0x56100fb11774 <unknown>
+#14 0x56100fad890f <unknown>
+#15 0x56100fb35fb8 <unknown>
+#16 0x56100fb36196 <unknown>
+#17 0x56100fb46cb6 <unknown>
+#18 0x7fbc7209caa4 <unknown>
+#19 0x7fbc72129c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".round"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56100fb47e6a <unknown>
+#1 0x56100f5f9640 <unknown>
+#2 0x56100f64ab5a <unknown>
+#3 0x56100f64ad51 <unknown>
+#4 0x56100f699344 <unknown>
+#5 0x56100f67077d <unknown>
+#6 0x56100f6967b5 <unknown>
+#7 0x56100f670523 <unknown>
+#8 0x56100f63cef3 <unknown>
+#9 0x56100f63db51 <unknown>
+#10 0x56100fb0cd2b <unknown>
+#11 0x56100fb10c01 <unknown>
+#12 0x56100faf4512 <unknown>
+#13 0x56100fb11774 <unknown>
+#14 0x56100fad890f <unknown>
+#15 0x56100fb35fb8 <unknown>
+#16 0x56100fb36196 <unknown>
+#17 0x56100fb46cb6 <unknown>
+#18 0x7fbc7209caa4 <unknown>
+#19 0x7fbc72129c3c <unknown>
+
+Timestamp: 2025-04-15 04:08:29.146638
