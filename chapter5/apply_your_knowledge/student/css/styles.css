@@ -61,6 +61,7 @@ nav li {
     font-size: 1.5em;
     padding: 4%;
     display: inline-block;
+    font-family: 'B612', sans-serif;
 }
 
 nav li a {
@@ -71,10 +72,11 @@ nav li a {
 
 /* Style rules for main content  */
 main {
-	display: block;
-	margin: 1% 1% 15%;
-	padding: 1%;
+    display: block;
+    margin: 1% 1% 15%;
+    padding: 1%;
     font-size: 1.5em;
+    font-family: 'Crimson Pro', serif;
 }
 
 #image {
