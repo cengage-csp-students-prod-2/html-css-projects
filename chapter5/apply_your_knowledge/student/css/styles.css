@@ -16,6 +16,7 @@ body {
     background-color: #e4f1f6;
 }
 
+/* Style rule for all images */
 img {
     max-width: 100%;
     display: block;
@@ -40,18 +41,26 @@ header {
 
 /* Style rules for nav */
 nav {
-	padding: 1%;
+    padding: 1%;
     margin-bottom: 1%;
     background-color: #67afcb;
+
+    /* Sticky position compatible with modern browsers */
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0px;
+    z-index: 1000; /* Optional: keeps nav above other elements */
 }
 
 nav ul {
     text-align: center;
+    list-style-type: none;
 }
 
 nav li {
     font-size: 1.5em;
     padding: 4%;
+    display: inline-block;
 }
 
 nav li a {
