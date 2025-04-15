@@ -1,49 +1,45 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a style rule for the `tel-link` class selector that sets the `background-color` to #2a1f14,
-Reason: Assertion failed: The `background-color` of the `.tel-link` class selector is not set to `#2a1f14`.
-Error : AssertionError - The `background-color` of the `.tel-link` class selector is not set to `#2a1f14`.
-Timestamp: 2025-04-15 04:47:25.882315
+Reason: None
+Timestamp: 2025-04-15 04:50:24.103798
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `tel-link` class selector that sets the `padding` to 2%.
 Reason: Assertion failed: The `padding` of the `.tel-link` class selector is not set to `2%`.
 Error : AssertionError - The `padding` of the `.tel-link` class selector is not set to `2%`.
-Timestamp: 2025-04-15 04:47:25.928606
+Timestamp: 2025-04-15 04:50:24.142296
 
 Status: FAILED!
 Check: 3
 Test: Add a style rule for the `tel-link` class selector that sets the `width` to 80%.
 Reason: Assertion failed: The `width` of the `.tel-link` class selector is not set to `80%`.
 Error : AssertionError - The `width` of the `.tel-link` class selector is not set to `80%`.
-Timestamp: 2025-04-15 04:47:25.978251
+Timestamp: 2025-04-15 04:50:24.180463
 
 Status: FAILED!
 Check: 4
 Test: Add a style rule for the `tel-link` class selector that sets the top/bottom margins to 0 and right/left margins to auto.
 Reason: Assertion failed: The `margin` of the `.tel-link` class selector is not set to `0 auto`.
 Error : AssertionError - The `margin` of the `.tel-link` class selector is not set to `0 auto`.
-Timestamp: 2025-04-15 04:47:26.017669
+Timestamp: 2025-04-15 04:50:24.215440
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the color to #f6eee4.
-Reason: Assertion failed: The `color` of the anchor selector within the `.tel-link` class is not set to `#f6eee4`.
-Error : AssertionError - The `color` of the anchor selector within the `.tel-link` class is not set to `#f6eee4`.
-Timestamp: 2025-04-15 04:47:26.060467
+Reason: None
+Timestamp: 2025-04-15 04:50:24.253143
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Add a style rule for the anchor selector within the `tel-link` class that removes the underline.
-Reason: Assertion failed: The `text-decoration` of the anchor selector within the `.tel-link` class is not set to `none`.
-Error : AssertionError - The `text-decoration` of the anchor selector within the `.tel-link` class is not set to `none`.
-Timestamp: 2025-04-15 04:47:26.093274
+Reason: None
+Timestamp: 2025-04-15 04:50:24.282295
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the `font-weight` to bold.
-Reason: Assertion failed: The `font-weight` of the anchor selector within the `.tel-link` class is not set to `bold`.
-Error : AssertionError - The `font-weight` of the anchor selector within the `.tel-link` class is not set to `bold`.
-Timestamp: 2025-04-15 04:47:26.124879
+Reason: None
+Timestamp: 2025-04-15 04:50:24.322428
