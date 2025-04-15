@@ -1,424 +1,55 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: add a new style rule for the `btn` class
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:04.304616
+Reason: None
+Timestamp: 2025-04-15 05:35:34.428445
 
 Status: FAILED!
 Check: 2
 Test: specifies a background-color value of #375f1b
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:05.334101
+Reason: Assertion failed: Expected background-color to be #375f1b
+Error : AssertionError - Expected background-color to be #375f1b
+Timestamp: 2025-04-15 05:35:34.442421
 
 Status: FAILED!
 Check: 3
 Test: specifies a padding value of 2%
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:06.359887
+Reason: Assertion failed: Expected padding to be 2%
+Error : AssertionError - Expected padding to be 2%
+Timestamp: 2025-04-15 05:35:34.484332
 
 Status: FAILED!
 Check: 4
 Test: specifies top and bottom margin values of 2%
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:07.386178
+Reason: Assertion failed: Expected margin to be 2%
+Error : AssertionError - Expected margin to be 2%
+Timestamp: 2025-04-15 05:35:34.500805
 
 Status: FAILED!
 Check: 5
 Test: specifies left and right margin values of auto
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:08.409606
+Reason: Assertion failed: Expected margin to be auto
+Error : AssertionError - Expected margin to be auto
+Timestamp: 2025-04-15 05:35:34.510586
 
 Status: FAILED!
 Check: 6
 Test: specifies a width value of 80%
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:09.434574
+Reason: Assertion failed: Expected width to be 80%
+Error : AssertionError - Expected width to be 80%
+Timestamp: 2025-04-15 05:35:34.522082
 
 Status: FAILED!
 Check: 7
 Test: specifies text alignment of center
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:10.457865
+Reason: Assertion failed: Expected text-align to be center but got start
+Error : AssertionError - Expected text-align to be center but got start
+Timestamp: 2025-04-15 05:35:34.533429
 
 Status: FAILED!
 Check: 8
 Test: specifies a border radius of 5px
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x559965634e6a <unknown>
-#1 0x5599650e6640 <unknown>
-#2 0x559965137b5a <unknown>
-#3 0x559965137d51 <unknown>
-#4 0x559965186344 <unknown>
-#5 0x55996515d77d <unknown>
-#6 0x5599651837b5 <unknown>
-#7 0x55996515d523 <unknown>
-#8 0x559965129ef3 <unknown>
-#9 0x55996512ab51 <unknown>
-#10 0x5599655f9d2b <unknown>
-#11 0x5599655fdc01 <unknown>
-#12 0x5599655e1512 <unknown>
-#13 0x5599655fe774 <unknown>
-#14 0x5599655c590f <unknown>
-#15 0x559965622fb8 <unknown>
-#16 0x559965623196 <unknown>
-#17 0x559965633cb6 <unknown>
-#18 0x7fb0d2c9caa4 <unknown>
-#19 0x7fb0d2d29c3c <unknown>
-
-Timestamp: 2025-04-15 05:27:11.484065
+Reason: Assertion failed: Expected border-radius to be 5px but got 0px
+Error : AssertionError - Expected border-radius to be 5px but got 0px
+Timestamp: 2025-04-15 05:35:34.545207
