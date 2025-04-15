@@ -40,18 +40,25 @@ header {
 
 /* Style rules for nav */
 nav {
-	padding: 1%;
+    padding: 1%;
     margin-bottom: 1%;
     background-color: #67afcb;
+
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0px;
+    z-index: 1000; 
 }
 
 nav ul {
     text-align: center;
+    list-style-type: none;
 }
 
 nav li {
     font-size: 1.5em;
     padding: 4%;
+    display: inline-block;
 }
 
 nav li a {
