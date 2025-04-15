@@ -3,53 +3,46 @@ Status: PASSED!
 Check: 1
 Test: add a new style rule for the `btn` class
 Reason: None
-Timestamp: 2025-04-15 05:40:08.219111
+Timestamp: 2025-04-15 05:44:44.351003
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: specifies a background-color value of #375f1b
-Reason: Assertion failed: Expected background-color to be #375f1b
-Error : AssertionError - Expected background-color to be #375f1b
-Timestamp: 2025-04-15 05:40:08.238828
+Reason: None
+Timestamp: 2025-04-15 05:44:44.369622
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: specifies a padding value of 2%
-Reason: Assertion failed: Expected padding to be 2%
-Error : AssertionError - Expected padding to be 2%
-Timestamp: 2025-04-15 05:40:08.255119
+Reason: None
+Timestamp: 2025-04-15 05:44:44.384822
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: specifies top and bottom margin values of 2%
-Reason: Assertion failed: Expected margin to be 2%
-Error : AssertionError - Expected margin to be 2%
-Timestamp: 2025-04-15 05:40:08.268773
+Reason: None
+Timestamp: 2025-04-15 05:44:44.398110
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: specifies left and right margin values of auto
-Reason: Assertion failed: Expected margin to be auto
-Error : AssertionError - Expected margin to be auto
-Timestamp: 2025-04-15 05:40:08.279211
+Reason: None
+Timestamp: 2025-04-15 05:44:44.412065
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: specifies a width value of 80%
-Reason: Assertion failed: Expected width to be 80%
-Error : AssertionError - Expected width to be 80%
-Timestamp: 2025-04-15 05:40:08.291403
+Reason: None
+Timestamp: 2025-04-15 05:44:44.423897
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: specifies text alignment of center
-Reason: Assertion failed: Expected text-align to be center but got start
-Error : AssertionError - Expected text-align to be center but got start
-Timestamp: 2025-04-15 05:40:08.303924
+Reason: None
+Timestamp: 2025-04-15 05:44:44.436304
 
-Status: FAILED!
+Status: PASSED!
 Check: 8
 Test: specifies a border radius of 5px
-Reason: Assertion failed: Expected border-radius to be 5px but got 0px
-Error : AssertionError - Expected border-radius to be 5px but got 0px
-Timestamp: 2025-04-15 05:40:08.315856
+Reason: None
+Timestamp: 2025-04-15 05:44:44.448269

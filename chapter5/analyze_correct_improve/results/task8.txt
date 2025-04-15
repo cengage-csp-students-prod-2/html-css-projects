@@ -5,52 +5,52 @@ Test: Add the class attribute with a value of `corner` to the image element
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"img.corner"}
   (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56372b889e6a <unknown>
-#1 0x56372b33b640 <unknown>
-#2 0x56372b38cb5a <unknown>
-#3 0x56372b38cd51 <unknown>
-#4 0x56372b3db344 <unknown>
-#5 0x56372b3b277d <unknown>
-#6 0x56372b3d87b5 <unknown>
-#7 0x56372b3b2523 <unknown>
-#8 0x56372b37eef3 <unknown>
-#9 0x56372b37fb51 <unknown>
-#10 0x56372b84ed2b <unknown>
-#11 0x56372b852c01 <unknown>
-#12 0x56372b836512 <unknown>
-#13 0x56372b853774 <unknown>
-#14 0x56372b81a90f <unknown>
-#15 0x56372b877fb8 <unknown>
-#16 0x56372b878196 <unknown>
-#17 0x56372b888cb6 <unknown>
-#18 0x7fb43e29caa4 <unknown>
-#19 0x7fb43e329c3c <unknown>
+#0 0x564a6c8ede6a <unknown>
+#1 0x564a6c39f640 <unknown>
+#2 0x564a6c3f0b5a <unknown>
+#3 0x564a6c3f0d51 <unknown>
+#4 0x564a6c43f344 <unknown>
+#5 0x564a6c41677d <unknown>
+#6 0x564a6c43c7b5 <unknown>
+#7 0x564a6c416523 <unknown>
+#8 0x564a6c3e2ef3 <unknown>
+#9 0x564a6c3e3b51 <unknown>
+#10 0x564a6c8b2d2b <unknown>
+#11 0x564a6c8b6c01 <unknown>
+#12 0x564a6c89a512 <unknown>
+#13 0x564a6c8b7774 <unknown>
+#14 0x564a6c87e90f <unknown>
+#15 0x564a6c8dbfb8 <unknown>
+#16 0x564a6c8dc196 <unknown>
+#17 0x564a6c8eccb6 <unknown>
+#18 0x7f42c189caa4 <unknown>
+#19 0x7f42c1929c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"img.corner"}
   (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56372b889e6a <unknown>
-#1 0x56372b33b640 <unknown>
-#2 0x56372b38cb5a <unknown>
-#3 0x56372b38cd51 <unknown>
-#4 0x56372b3db344 <unknown>
-#5 0x56372b3b277d <unknown>
-#6 0x56372b3d87b5 <unknown>
-#7 0x56372b3b2523 <unknown>
-#8 0x56372b37eef3 <unknown>
-#9 0x56372b37fb51 <unknown>
-#10 0x56372b84ed2b <unknown>
-#11 0x56372b852c01 <unknown>
-#12 0x56372b836512 <unknown>
-#13 0x56372b853774 <unknown>
-#14 0x56372b81a90f <unknown>
-#15 0x56372b877fb8 <unknown>
-#16 0x56372b878196 <unknown>
-#17 0x56372b888cb6 <unknown>
-#18 0x7fb43e29caa4 <unknown>
-#19 0x7fb43e329c3c <unknown>
+#0 0x564a6c8ede6a <unknown>
+#1 0x564a6c39f640 <unknown>
+#2 0x564a6c3f0b5a <unknown>
+#3 0x564a6c3f0d51 <unknown>
+#4 0x564a6c43f344 <unknown>
+#5 0x564a6c41677d <unknown>
+#6 0x564a6c43c7b5 <unknown>
+#7 0x564a6c416523 <unknown>
+#8 0x564a6c3e2ef3 <unknown>
+#9 0x564a6c3e3b51 <unknown>
+#10 0x564a6c8b2d2b <unknown>
+#11 0x564a6c8b6c01 <unknown>
+#12 0x564a6c89a512 <unknown>
+#13 0x564a6c8b7774 <unknown>
+#14 0x564a6c87e90f <unknown>
+#15 0x564a6c8dbfb8 <unknown>
+#16 0x564a6c8dc196 <unknown>
+#17 0x564a6c8eccb6 <unknown>
+#18 0x7f42c189caa4 <unknown>
+#19 0x7f42c1929c3c <unknown>
 
-Timestamp: 2025-04-15 05:40:09.469553
+Timestamp: 2025-04-15 05:44:45.592210
 
 Status: FAILED!
 Check: 2
@@ -58,49 +58,49 @@ Test: Add a new style rule for the `corner` class selector that specifies a `bor
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".corner"}
   (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56372b889e6a <unknown>
-#1 0x56372b33b640 <unknown>
-#2 0x56372b38cb5a <unknown>
-#3 0x56372b38cd51 <unknown>
-#4 0x56372b3db344 <unknown>
-#5 0x56372b3b277d <unknown>
-#6 0x56372b3d87b5 <unknown>
-#7 0x56372b3b2523 <unknown>
-#8 0x56372b37eef3 <unknown>
-#9 0x56372b37fb51 <unknown>
-#10 0x56372b84ed2b <unknown>
-#11 0x56372b852c01 <unknown>
-#12 0x56372b836512 <unknown>
-#13 0x56372b853774 <unknown>
-#14 0x56372b81a90f <unknown>
-#15 0x56372b877fb8 <unknown>
-#16 0x56372b878196 <unknown>
-#17 0x56372b888cb6 <unknown>
-#18 0x7fb43e29caa4 <unknown>
-#19 0x7fb43e329c3c <unknown>
+#0 0x564a6c8ede6a <unknown>
+#1 0x564a6c39f640 <unknown>
+#2 0x564a6c3f0b5a <unknown>
+#3 0x564a6c3f0d51 <unknown>
+#4 0x564a6c43f344 <unknown>
+#5 0x564a6c41677d <unknown>
+#6 0x564a6c43c7b5 <unknown>
+#7 0x564a6c416523 <unknown>
+#8 0x564a6c3e2ef3 <unknown>
+#9 0x564a6c3e3b51 <unknown>
+#10 0x564a6c8b2d2b <unknown>
+#11 0x564a6c8b6c01 <unknown>
+#12 0x564a6c89a512 <unknown>
+#13 0x564a6c8b7774 <unknown>
+#14 0x564a6c87e90f <unknown>
+#15 0x564a6c8dbfb8 <unknown>
+#16 0x564a6c8dc196 <unknown>
+#17 0x564a6c8eccb6 <unknown>
+#18 0x7f42c189caa4 <unknown>
+#19 0x7f42c1929c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".corner"}
   (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56372b889e6a <unknown>
-#1 0x56372b33b640 <unknown>
-#2 0x56372b38cb5a <unknown>
-#3 0x56372b38cd51 <unknown>
-#4 0x56372b3db344 <unknown>
-#5 0x56372b3b277d <unknown>
-#6 0x56372b3d87b5 <unknown>
-#7 0x56372b3b2523 <unknown>
-#8 0x56372b37eef3 <unknown>
-#9 0x56372b37fb51 <unknown>
-#10 0x56372b84ed2b <unknown>
-#11 0x56372b852c01 <unknown>
-#12 0x56372b836512 <unknown>
-#13 0x56372b853774 <unknown>
-#14 0x56372b81a90f <unknown>
-#15 0x56372b877fb8 <unknown>
-#16 0x56372b878196 <unknown>
-#17 0x56372b888cb6 <unknown>
-#18 0x7fb43e29caa4 <unknown>
-#19 0x7fb43e329c3c <unknown>
+#0 0x564a6c8ede6a <unknown>
+#1 0x564a6c39f640 <unknown>
+#2 0x564a6c3f0b5a <unknown>
+#3 0x564a6c3f0d51 <unknown>
+#4 0x564a6c43f344 <unknown>
+#5 0x564a6c41677d <unknown>
+#6 0x564a6c43c7b5 <unknown>
+#7 0x564a6c416523 <unknown>
+#8 0x564a6c3e2ef3 <unknown>
+#9 0x564a6c3e3b51 <unknown>
+#10 0x564a6c8b2d2b <unknown>
+#11 0x564a6c8b6c01 <unknown>
+#12 0x564a6c89a512 <unknown>
+#13 0x564a6c8b7774 <unknown>
+#14 0x564a6c87e90f <unknown>
+#15 0x564a6c8dbfb8 <unknown>
+#16 0x564a6c8dc196 <unknown>
+#17 0x564a6c8eccb6 <unknown>
+#18 0x7f42c189caa4 <unknown>
+#19 0x7f42c1929c3c <unknown>
 
-Timestamp: 2025-04-15 05:40:10.500582
+Timestamp: 2025-04-15 05:44:46.621118
