@@ -3,369 +3,369 @@ Status: FAILED!
 Check: 1
 Test: Add a style rule for the `tel-link` class selector that sets the `background-color` to #2a1f14,
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:07.300295
+Timestamp: 2025-04-15 04:28:46.842709
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `tel-link` class selector that sets the `padding` to 2%.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:08.353844
+Timestamp: 2025-04-15 04:28:47.898456
 
 Status: FAILED!
 Check: 3
 Test: Add a style rule for the `tel-link` class selector that sets the `width` to 80%.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:09.410408
+Timestamp: 2025-04-15 04:28:48.952309
 
 Status: FAILED!
 Check: 4
 Test: Add a style rule for the `tel-link` class selector that sets the top/bottom margins to 0 and right/left margins to auto.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:10.459106
+Timestamp: 2025-04-15 04:28:50.006548
 
 Status: FAILED!
 Check: 5
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the color to #f6eee4.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:11.535143
+Timestamp: 2025-04-15 04:28:51.061033
 
 Status: FAILED!
 Check: 6
 Test: Add a style rule for the anchor selector within the `tel-link` class that removes the underline.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:12.589532
+Timestamp: 2025-04-15 04:28:52.111229
 
 Status: FAILED!
 Check: 7
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the `font-weight` to bold.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55593539fd0a <unknown>
-#1 0x555934e505f0 <unknown>
-#2 0x555934ea1a33 <unknown>
-#3 0x555934ea1c21 <unknown>
-#4 0x555934ef0274 <unknown>
-#5 0x555934ec768d <unknown>
-#6 0x555934eed660 <unknown>
-#7 0x555934ec7433 <unknown>
-#8 0x555934e93ea3 <unknown>
-#9 0x555934e94b01 <unknown>
-#10 0x555935364b5b <unknown>
-#11 0x555935368a41 <unknown>
-#12 0x55593534bc52 <unknown>
-#13 0x5559353695b4 <unknown>
-#14 0x55593532ff0f <unknown>
-#15 0x55593538ddb8 <unknown>
-#16 0x55593538df96 <unknown>
-#17 0x55593539eb56 <unknown>
-#18 0x7fae0d89caa4 <unknown>
-#19 0x7fae0d929c3c <unknown>
+#0 0x560eb7366e6a <unknown>
+#1 0x560eb6e18640 <unknown>
+#2 0x560eb6e69b5a <unknown>
+#3 0x560eb6e69d51 <unknown>
+#4 0x560eb6eb8344 <unknown>
+#5 0x560eb6e8f77d <unknown>
+#6 0x560eb6eb57b5 <unknown>
+#7 0x560eb6e8f523 <unknown>
+#8 0x560eb6e5bef3 <unknown>
+#9 0x560eb6e5cb51 <unknown>
+#10 0x560eb732bd2b <unknown>
+#11 0x560eb732fc01 <unknown>
+#12 0x560eb7313512 <unknown>
+#13 0x560eb7330774 <unknown>
+#14 0x560eb72f790f <unknown>
+#15 0x560eb7354fb8 <unknown>
+#16 0x560eb7355196 <unknown>
+#17 0x560eb7365cb6 <unknown>
+#18 0x7fd48929caa4 <unknown>
+#19 0x7fd489329c3c <unknown>
 
-Timestamp: 2025-04-15 04:26:13.651031
+Timestamp: 2025-04-15 04:28:53.159397
