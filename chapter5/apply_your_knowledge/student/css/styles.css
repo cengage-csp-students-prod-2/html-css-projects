@@ -44,7 +44,7 @@ nav {
     margin-bottom: 1%;
     background-color: #67afcb;
 
-    position: -webkit-sticky; /* For Safari */
+    position: -webkit-sticky; 
     position: sticky;
     top: 0px;
     z-index: 1000; 
