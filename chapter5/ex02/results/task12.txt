@@ -3,43 +3,43 @@ Status: PASSED!
 Check: 1
 Test: Add a style rule for the `tel-link` class selector that sets the `background-color` to #2a1f14,
 Reason: None
-Timestamp: 2025-04-15 04:50:24.103798
+Timestamp: 2025-04-15 04:51:17.844913
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `tel-link` class selector that sets the `padding` to 2%.
 Reason: Assertion failed: The `padding` of the `.tel-link` class selector is not set to `2%`.
 Error : AssertionError - The `padding` of the `.tel-link` class selector is not set to `2%`.
-Timestamp: 2025-04-15 04:50:24.142296
+Timestamp: 2025-04-15 04:51:17.894888
 
 Status: FAILED!
 Check: 3
 Test: Add a style rule for the `tel-link` class selector that sets the `width` to 80%.
 Reason: Assertion failed: The `width` of the `.tel-link` class selector is not set to `80%`.
 Error : AssertionError - The `width` of the `.tel-link` class selector is not set to `80%`.
-Timestamp: 2025-04-15 04:50:24.180463
+Timestamp: 2025-04-15 04:51:17.938245
 
 Status: FAILED!
 Check: 4
 Test: Add a style rule for the `tel-link` class selector that sets the top/bottom margins to 0 and right/left margins to auto.
 Reason: Assertion failed: The `margin` of the `.tel-link` class selector is not set to `0 auto`.
 Error : AssertionError - The `margin` of the `.tel-link` class selector is not set to `0 auto`.
-Timestamp: 2025-04-15 04:50:24.215440
+Timestamp: 2025-04-15 04:51:17.977952
 
 Status: PASSED!
 Check: 5
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the color to #f6eee4.
 Reason: None
-Timestamp: 2025-04-15 04:50:24.253143
+Timestamp: 2025-04-15 04:51:18.021207
 
 Status: PASSED!
 Check: 6
 Test: Add a style rule for the anchor selector within the `tel-link` class that removes the underline.
 Reason: None
-Timestamp: 2025-04-15 04:50:24.282295
+Timestamp: 2025-04-15 04:51:18.059241
 
 Status: PASSED!
 Check: 7
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the `font-weight` to bold.
 Reason: None
-Timestamp: 2025-04-15 04:50:24.322428
+Timestamp: 2025-04-15 04:51:18.100996
