@@ -79,6 +79,10 @@ main {
     font-family: 'Crimson Pro', serif;
 }
 
+.corner {
+    border-radius: 12px;
+}
+
 #image {
     margin-bottom: 1%;
 }
