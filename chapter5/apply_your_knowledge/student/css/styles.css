@@ -21,6 +21,14 @@ img {
     display: block;
 }
 
+/*Style rules for mobile viewport*/
+
+
+/*Style rule to hide tablet-desk class*/
+.tablet-desk {
+    display: none;
+}
+
 /* Style rule for header */
 header {
 	font-family: Verdana, Arial, sans-serif;
