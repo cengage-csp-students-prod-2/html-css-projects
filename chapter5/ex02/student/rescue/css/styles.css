@@ -29,6 +29,11 @@ img {
     text-align: center;
 }
 
+/* Style rules to hide tab-desk class */
+.tab-desk {
+    display: none;
+}
+
 .mobile h1 {
     font-family: 'Emblema One', cursive;
 }
