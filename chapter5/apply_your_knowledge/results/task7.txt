@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Copy and paste the `link` element provided by Google Fonts within the `head`element in the *index.html* file
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the index.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the index.html file.
+Timestamp: 2025-04-15 01:50:52.368457
