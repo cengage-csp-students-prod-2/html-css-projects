@@ -93,6 +93,13 @@ main p {
     border-radius: 5px;
 }
 
+.btn a {
+    color #ebf7e3;
+    text-decoration: none;
+    font-size: 1.25em;
+    display: block;
+}
+
 /* Hide tab-desk class */
 .tab-desk {
     display: none;
