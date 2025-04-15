@@ -21,6 +21,20 @@ img {
     display: block;
 }
 
+/* Style rules for mobile viewport */
+nav ul {
+    text-align: center;
+    list-style-type: none; /* Removes bullet markers */
+}
+
+nav li {
+    font-size: 1em;
+    font-family: Geneva, Arial, sans-serif;
+    font-weight: bold;
+    padding: 3%;
+    display: inline-block; /* Displays items inline */
+}
+
 /* Style rules for header content */
 header h1 {
     text-align: center;
@@ -62,6 +76,11 @@ main {
 
 main p {
     font-size: 1.25em;
+}
+
+/* Hide tab-desk class */
+.tab-desk {
+    display: none;
 }
 
 /* Style rules for footer content */
