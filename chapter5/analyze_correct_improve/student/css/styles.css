@@ -100,6 +100,10 @@ main p {
     display: block;
 }
 
+.corner {
+    border-radius: 12px;
+}
+
 /* Hide tab-desk class */
 .tab-desk {
     display: none;
