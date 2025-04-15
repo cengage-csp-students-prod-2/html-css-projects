@@ -2,370 +2,48 @@
 Status: FAILED!
 Check: 1
 Test: Add a style rule for the `tel-link` class selector that sets the `background-color` to #2a1f14,
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:06.131557
+Reason: Assertion failed: The `background-color` of the `.tel-link` class selector is not set to `#2a1f14`.
+Error : AssertionError - The `background-color` of the `.tel-link` class selector is not set to `#2a1f14`.
+Timestamp: 2025-04-15 04:44:37.538279
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `tel-link` class selector that sets the `padding` to 2%.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:07.181561
+Reason: Assertion failed: The `padding` of the `.tel-link` class selector is not set to `2%`.
+Error : AssertionError - The `padding` of the `.tel-link` class selector is not set to `2%`.
+Timestamp: 2025-04-15 04:44:37.593647
 
 Status: FAILED!
 Check: 3
 Test: Add a style rule for the `tel-link` class selector that sets the `width` to 80%.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:08.239300
+Reason: Assertion failed: The `width` of the `.tel-link` class selector is not set to `80%`.
+Error : AssertionError - The `width` of the `.tel-link` class selector is not set to `80%`.
+Timestamp: 2025-04-15 04:44:37.648613
 
 Status: FAILED!
 Check: 4
 Test: Add a style rule for the `tel-link` class selector that sets the top/bottom margins to 0 and right/left margins to auto.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:09.311752
+Reason: Assertion failed: The `margin` of the `.tel-link` class selector is not set to `0 auto`.
+Error : AssertionError - The `margin` of the `.tel-link` class selector is not set to `0 auto`.
+Timestamp: 2025-04-15 04:44:37.698065
 
 Status: FAILED!
 Check: 5
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the color to #f6eee4.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:10.361440
+Reason: Assertion failed: The `color` of the anchor selector within the `.tel-link` class is not set to `#f6eee4`.
+Error : AssertionError - The `color` of the anchor selector within the `.tel-link` class is not set to `#f6eee4`.
+Timestamp: 2025-04-15 04:44:37.745130
 
 Status: FAILED!
 Check: 6
 Test: Add a style rule for the anchor selector within the `tel-link` class that removes the underline.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:11.409883
+Reason: Assertion failed: The `text-decoration` of the anchor selector within the `.tel-link` class is not set to `none`.
+Error : AssertionError - The `text-decoration` of the anchor selector within the `.tel-link` class is not set to `none`.
+Timestamp: 2025-04-15 04:44:37.790005
 
 Status: FAILED!
 Check: 7
 Test: Add a style rule for the anchor selector within the `tel-link` class that sets the `font-weight` to bold.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55b8cb0c4e6a <unknown>
-#1 0x55b8cab76640 <unknown>
-#2 0x55b8cabc7b5a <unknown>
-#3 0x55b8cabc7d51 <unknown>
-#4 0x55b8cac16344 <unknown>
-#5 0x55b8cabed77d <unknown>
-#6 0x55b8cac137b5 <unknown>
-#7 0x55b8cabed523 <unknown>
-#8 0x55b8cabb9ef3 <unknown>
-#9 0x55b8cabbab51 <unknown>
-#10 0x55b8cb089d2b <unknown>
-#11 0x55b8cb08dc01 <unknown>
-#12 0x55b8cb071512 <unknown>
-#13 0x55b8cb08e774 <unknown>
-#14 0x55b8cb05590f <unknown>
-#15 0x55b8cb0b2fb8 <unknown>
-#16 0x55b8cb0b3196 <unknown>
-#17 0x55b8cb0c3cb6 <unknown>
-#18 0x7f1439c9caa4 <unknown>
-#19 0x7f1439d29c3c <unknown>
-
-Timestamp: 2025-04-15 04:31:12.463025
+Reason: Assertion failed: The `font-weight` of the anchor selector within the `.tel-link` class is not set to `bold`.
+Error : AssertionError - The `font-weight` of the anchor selector within the `.tel-link` class is not set to `bold`.
+Timestamp: 2025-04-15 04:44:37.830281
