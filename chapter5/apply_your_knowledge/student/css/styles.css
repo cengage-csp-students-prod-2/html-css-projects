@@ -16,6 +16,11 @@ body {
 	background-color: #e4f1f6;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 /* Style rule for header */
 header {
 	font-family: Verdana, Arial, sans-serif;
