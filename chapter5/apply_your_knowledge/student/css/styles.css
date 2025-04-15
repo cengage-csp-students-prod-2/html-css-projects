@@ -81,6 +81,8 @@ main {
 
 .corner {
     border-radius: 12px;
+    max-width: 100%;
+    display: block;
 }
 
 #image {
