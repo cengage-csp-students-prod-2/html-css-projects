@@ -1,14 +1,7 @@
 
 Status: FAILED!
-Check: 1
-Test: You have added the class attribute with the value tablet-desktop to the examples div
-Reason: TypeError occurred: argument of type 'NoneType' is not iterable
-Error : TypeError - argument of type 'NoneType' is not iterable
-Timestamp: 2025-04-15 05:02:41.625243
-
-Status: FAILED!
 Check: 2
 Test: You have added a new style rule that hides the tablet-desktop class
 Reason: Assertion failed: The style rule for the tablet-desktop class is missing.
 Error : AssertionError - The style rule for the tablet-desktop class is missing.
-Timestamp: 2025-04-15 05:02:41.625442
+Timestamp: 2025-04-15 05:23:34.591385
