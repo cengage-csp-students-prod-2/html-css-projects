@@ -115,6 +115,31 @@ main ul {
     margin-left: 10%;
 }
 
+/* Style rules for #contact */
+#contact {
+    text-align: center;
+}
+
+/* Style rules for tel-link class */
+.tel-link {
+    background-color: #2a1f14;
+    padding: 2%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Style rules for anchor element within tel-link class */
+.tel-link a {
+    color: #f6eee4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Style rules to hide tab-desk class */
+.tab-desk {
+    display: none;
+}
+
 /* Style rules for footer content */
 footer {
     text-align: center;
