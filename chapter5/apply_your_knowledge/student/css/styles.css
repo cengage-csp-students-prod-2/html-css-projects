@@ -16,11 +16,10 @@ body {
 	background-color: #e4f1f6;
 }
 
-img {
+image {
     max-width: 100%;
     display: block;
 }
-
 
 /*Style rules for mobile viewport*\
 
