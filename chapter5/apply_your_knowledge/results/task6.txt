@@ -1,7 +1,0 @@
-
-Status: FAILED!
-Check: 1
-Test: Create a style rule for the `corner` class that specifies a border radius of **12px**.
-Reason: Assertion failed: The `border-radius` property is not set to `12px` for the `corner` class.
-Error : AssertionError - The `border-radius` property is not set to `12px` for the `corner` class.
-Timestamp: 2025-04-15 02:45:31.588317
