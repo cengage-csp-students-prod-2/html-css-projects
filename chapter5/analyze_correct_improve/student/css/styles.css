@@ -27,6 +27,12 @@ nav ul {
     list-style-type: none; /* Removes bullet markers */
 }
 
+/* Style rules for mobile viewport */
+
+.tablet-desktop {
+    display: none;
+}
+
 nav li {
     font-size: 1em;
     font-family: Geneva, Arial, sans-serif;
