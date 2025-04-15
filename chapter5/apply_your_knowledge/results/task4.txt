@@ -4,7 +4,7 @@ Check: 1
 Test: add a comment with the text, **Style rules for mobile viewport**
 Reason: Assertion failed: The comment with the text, 'Style rules for mobile viewport' is missing from the styles.css file.
 Error : AssertionError - The comment with the text, 'Style rules for mobile viewport' is missing from the styles.css file.
-Timestamp: 2025-04-15 01:50:50.173980
+Timestamp: 2025-04-15 01:51:50.984783
 
 Status: FAILED!
 Check: 2
@@ -12,49 +12,49 @@ Test: Add two blank lines after the `img` style rule
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tablet-desk"}
   (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55aafbf08e6a <unknown>
-#1 0x55aafb9ba640 <unknown>
-#2 0x55aafba0bb5a <unknown>
-#3 0x55aafba0bd51 <unknown>
-#4 0x55aafba5a344 <unknown>
-#5 0x55aafba3177d <unknown>
-#6 0x55aafba577b5 <unknown>
-#7 0x55aafba31523 <unknown>
-#8 0x55aafb9fdef3 <unknown>
-#9 0x55aafb9feb51 <unknown>
-#10 0x55aafbecdd2b <unknown>
-#11 0x55aafbed1c01 <unknown>
-#12 0x55aafbeb5512 <unknown>
-#13 0x55aafbed2774 <unknown>
-#14 0x55aafbe9990f <unknown>
-#15 0x55aafbef6fb8 <unknown>
-#16 0x55aafbef7196 <unknown>
-#17 0x55aafbf07cb6 <unknown>
-#18 0x7fc17229caa4 <unknown>
-#19 0x7fc172329c3c <unknown>
+#0 0x55b0d86a6e6a <unknown>
+#1 0x55b0d8158640 <unknown>
+#2 0x55b0d81a9b5a <unknown>
+#3 0x55b0d81a9d51 <unknown>
+#4 0x55b0d81f8344 <unknown>
+#5 0x55b0d81cf77d <unknown>
+#6 0x55b0d81f57b5 <unknown>
+#7 0x55b0d81cf523 <unknown>
+#8 0x55b0d819bef3 <unknown>
+#9 0x55b0d819cb51 <unknown>
+#10 0x55b0d866bd2b <unknown>
+#11 0x55b0d866fc01 <unknown>
+#12 0x55b0d8653512 <unknown>
+#13 0x55b0d8670774 <unknown>
+#14 0x55b0d863790f <unknown>
+#15 0x55b0d8694fb8 <unknown>
+#16 0x55b0d8695196 <unknown>
+#17 0x55b0d86a5cb6 <unknown>
+#18 0x7fa3a849caa4 <unknown>
+#19 0x7fa3a8529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tablet-desk"}
   (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55aafbf08e6a <unknown>
-#1 0x55aafb9ba640 <unknown>
-#2 0x55aafba0bb5a <unknown>
-#3 0x55aafba0bd51 <unknown>
-#4 0x55aafba5a344 <unknown>
-#5 0x55aafba3177d <unknown>
-#6 0x55aafba577b5 <unknown>
-#7 0x55aafba31523 <unknown>
-#8 0x55aafb9fdef3 <unknown>
-#9 0x55aafb9feb51 <unknown>
-#10 0x55aafbecdd2b <unknown>
-#11 0x55aafbed1c01 <unknown>
-#12 0x55aafbeb5512 <unknown>
-#13 0x55aafbed2774 <unknown>
-#14 0x55aafbe9990f <unknown>
-#15 0x55aafbef6fb8 <unknown>
-#16 0x55aafbef7196 <unknown>
-#17 0x55aafbf07cb6 <unknown>
-#18 0x7fc17229caa4 <unknown>
-#19 0x7fc172329c3c <unknown>
+#0 0x55b0d86a6e6a <unknown>
+#1 0x55b0d8158640 <unknown>
+#2 0x55b0d81a9b5a <unknown>
+#3 0x55b0d81a9d51 <unknown>
+#4 0x55b0d81f8344 <unknown>
+#5 0x55b0d81cf77d <unknown>
+#6 0x55b0d81f57b5 <unknown>
+#7 0x55b0d81cf523 <unknown>
+#8 0x55b0d819bef3 <unknown>
+#9 0x55b0d819cb51 <unknown>
+#10 0x55b0d866bd2b <unknown>
+#11 0x55b0d866fc01 <unknown>
+#12 0x55b0d8653512 <unknown>
+#13 0x55b0d8670774 <unknown>
+#14 0x55b0d863790f <unknown>
+#15 0x55b0d8694fb8 <unknown>
+#16 0x55b0d8695196 <unknown>
+#17 0x55b0d86a5cb6 <unknown>
+#18 0x7fa3a849caa4 <unknown>
+#19 0x7fa3a8529c3c <unknown>
 
-Timestamp: 2025-04-15 01:50:51.202057
+Timestamp: 2025-04-15 01:51:52.012264
