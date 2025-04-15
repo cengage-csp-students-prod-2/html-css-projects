@@ -100,9 +100,14 @@ main ul {
     text-align: center;
 }
 
-/* Style rule for round class */
+/* Style rules for the round class */
 .round {
     border-radius: 6px;
+}
+
+/* New style rule for #info ul */
+#info ul {
+    margin-left: 10%;
 }
 
 /* Style rules for footer content */
