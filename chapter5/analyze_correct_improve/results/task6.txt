@@ -1,0 +1,424 @@
+
+Status: FAILED!
+Check: 1
+Test: add a new style rule for the `btn` class
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:42.687594
+
+Status: FAILED!
+Check: 2
+Test: specifies a background-color value of #375f1b
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:43.743686
+
+Status: FAILED!
+Check: 3
+Test: specifies a padding value of 2%
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:44.772685
+
+Status: FAILED!
+Check: 4
+Test: specifies top and bottom margin values of 2%
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:45.800331
+
+Status: FAILED!
+Check: 5
+Test: specifies left and right margin values of auto
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:46.826311
+
+Status: FAILED!
+Check: 6
+Test: specifies a width value of 80%
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:47.853237
+
+Status: FAILED!
+Check: 7
+Test: specifies text alignment of center
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:48.889046
+
+Status: FAILED!
+Check: 8
+Test: specifies a border radius of 5px
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x560f2dbffe6a <unknown>
+#1 0x560f2d6b1640 <unknown>
+#2 0x560f2d702b5a <unknown>
+#3 0x560f2d702d51 <unknown>
+#4 0x560f2d751344 <unknown>
+#5 0x560f2d72877d <unknown>
+#6 0x560f2d74e7b5 <unknown>
+#7 0x560f2d728523 <unknown>
+#8 0x560f2d6f4ef3 <unknown>
+#9 0x560f2d6f5b51 <unknown>
+#10 0x560f2dbc4d2b <unknown>
+#11 0x560f2dbc8c01 <unknown>
+#12 0x560f2dbac512 <unknown>
+#13 0x560f2dbc9774 <unknown>
+#14 0x560f2db9090f <unknown>
+#15 0x560f2dbedfb8 <unknown>
+#16 0x560f2dbee196 <unknown>
+#17 0x560f2dbfecb6 <unknown>
+#18 0x7f08b129caa4 <unknown>
+#19 0x7f08b1329c3c <unknown>
+
+Timestamp: 2025-04-15 05:02:49.947778
