@@ -3,32 +3,32 @@ Status: PASSED!
 Check: 1
 Test: add a new style rule for anchor elements within the `btn` class
 Reason: None
-Timestamp: 2025-04-15 05:44:44.479004
+Timestamp: 2025-04-15 05:46:10.126673
 
 Status: FAILED!
 Check: 2
 Test: specifies a color value of #ebf7e3
 Reason: Assertion failed: Expected color to be #ebf7e3
 Error : AssertionError - Expected color to be #ebf7e3
-Timestamp: 2025-04-15 05:44:44.500199
+Timestamp: 2025-04-15 05:46:10.140647
 
 Status: FAILED!
 Check: 3
 Test: removes the underline
 Reason: Assertion failed: Expected text-decoration to be none
 Error : AssertionError - Expected text-decoration to be none
-Timestamp: 2025-04-15 05:44:44.516088
+Timestamp: 2025-04-15 05:46:10.153244
 
 Status: FAILED!
 Check: 4
 Test: sets a font size of 1.25em
 Reason: Assertion failed: Expected font-size to be 1.25em
 Error : AssertionError - Expected font-size to be 1.25em
-Timestamp: 2025-04-15 05:44:44.528341
+Timestamp: 2025-04-15 05:46:10.165159
 
 Status: FAILED!
 Check: 5
 Test: displays the content as a block
 Reason: Assertion failed: Expected display to be block
 Error : AssertionError - Expected display to be block
-Timestamp: 2025-04-15 05:44:44.538391
+Timestamp: 2025-04-15 05:46:10.175545
