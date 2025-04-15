@@ -4,11 +4,11 @@ Check: 1
 Test: Create a new style rule for the `img` selector the sets a maximum width of **100%** 
 Reason: Assertion failed: The `max-width` property is not set to `100%` for the `img` selector.
 Error : AssertionError - The `max-width` property is not set to `100%` for the `img` selector.
-Timestamp: 2025-04-15 03:26:53.983725
+Timestamp: 2025-04-15 03:29:23.937750
 
 Status: FAILED!
 Check: 2
 Test: Create a new style rule for the `img` selector the sets the `display` value to **block**.
 Reason: Assertion failed: The `display` property is not set to `block` for the `img` selector.
 Error : AssertionError - The `display` property is not set to `block` for the `img` selector.
-Timestamp: 2025-04-15 03:26:53.997183
+Timestamp: 2025-04-15 03:29:23.950692
