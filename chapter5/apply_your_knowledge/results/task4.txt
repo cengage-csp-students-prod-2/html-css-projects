@@ -4,57 +4,11 @@ Check: 1
 Test: add a comment with the text, **Style rules for mobile viewport**
 Reason: Assertion failed: The comment with the text, 'Style rules for mobile viewport' is missing from the styles.css file.
 Error : AssertionError - The comment with the text, 'Style rules for mobile viewport' is missing from the styles.css file.
-Timestamp: 2025-04-15 02:50:42.186669
+Timestamp: 2025-04-15 02:54:17.798225
 
 Status: FAILED!
 Check: 2
 Test: Add two blank lines after the `img` style rule
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tablet-desk"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x555bdc882e6a <unknown>
-#1 0x555bdc334640 <unknown>
-#2 0x555bdc385b5a <unknown>
-#3 0x555bdc385d51 <unknown>
-#4 0x555bdc3d4344 <unknown>
-#5 0x555bdc3ab77d <unknown>
-#6 0x555bdc3d17b5 <unknown>
-#7 0x555bdc3ab523 <unknown>
-#8 0x555bdc377ef3 <unknown>
-#9 0x555bdc378b51 <unknown>
-#10 0x555bdc847d2b <unknown>
-#11 0x555bdc84bc01 <unknown>
-#12 0x555bdc82f512 <unknown>
-#13 0x555bdc84c774 <unknown>
-#14 0x555bdc81390f <unknown>
-#15 0x555bdc870fb8 <unknown>
-#16 0x555bdc871196 <unknown>
-#17 0x555bdc881cb6 <unknown>
-#18 0x7f673709caa4 <unknown>
-#19 0x7f6737129c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tablet-desk"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x555bdc882e6a <unknown>
-#1 0x555bdc334640 <unknown>
-#2 0x555bdc385b5a <unknown>
-#3 0x555bdc385d51 <unknown>
-#4 0x555bdc3d4344 <unknown>
-#5 0x555bdc3ab77d <unknown>
-#6 0x555bdc3d17b5 <unknown>
-#7 0x555bdc3ab523 <unknown>
-#8 0x555bdc377ef3 <unknown>
-#9 0x555bdc378b51 <unknown>
-#10 0x555bdc847d2b <unknown>
-#11 0x555bdc84bc01 <unknown>
-#12 0x555bdc82f512 <unknown>
-#13 0x555bdc84c774 <unknown>
-#14 0x555bdc81390f <unknown>
-#15 0x555bdc870fb8 <unknown>
-#16 0x555bdc871196 <unknown>
-#17 0x555bdc881cb6 <unknown>
-#18 0x7f673709caa4 <unknown>
-#19 0x7f6737129c3c <unknown>
-
-Timestamp: 2025-04-15 02:50:43.219405
+Reason: Assertion failed: The `display` property is not set to `none` for the `tablet-desk` class.
+Error : AssertionError - The `display` property is not set to `none` for the `tablet-desk` class.
+Timestamp: 2025-04-15 02:54:17.813958

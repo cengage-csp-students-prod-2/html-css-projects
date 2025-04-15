@@ -1,113 +1,66 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a class attribute with the value **tablet-desk** to the second `div` element within the `main` element.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main div.tablet-desk"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x555bdc882e6a <unknown>
-#1 0x555bdc334640 <unknown>
-#2 0x555bdc385b5a <unknown>
-#3 0x555bdc385d51 <unknown>
-#4 0x555bdc3d4344 <unknown>
-#5 0x555bdc3ab77d <unknown>
-#6 0x555bdc3d17b5 <unknown>
-#7 0x555bdc3ab523 <unknown>
-#8 0x555bdc377ef3 <unknown>
-#9 0x555bdc378b51 <unknown>
-#10 0x555bdc847d2b <unknown>
-#11 0x555bdc84bc01 <unknown>
-#12 0x555bdc82f512 <unknown>
-#13 0x555bdc84c774 <unknown>
-#14 0x555bdc81390f <unknown>
-#15 0x555bdc870fb8 <unknown>
-#16 0x555bdc871196 <unknown>
-#17 0x555bdc881cb6 <unknown>
-#18 0x7f673709caa4 <unknown>
-#19 0x7f6737129c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main div.tablet-desk"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x555bdc882e6a <unknown>
-#1 0x555bdc334640 <unknown>
-#2 0x555bdc385b5a <unknown>
-#3 0x555bdc385d51 <unknown>
-#4 0x555bdc3d4344 <unknown>
-#5 0x555bdc3ab77d <unknown>
-#6 0x555bdc3d17b5 <unknown>
-#7 0x555bdc3ab523 <unknown>
-#8 0x555bdc377ef3 <unknown>
-#9 0x555bdc378b51 <unknown>
-#10 0x555bdc847d2b <unknown>
-#11 0x555bdc84bc01 <unknown>
-#12 0x555bdc82f512 <unknown>
-#13 0x555bdc84c774 <unknown>
-#14 0x555bdc81390f <unknown>
-#15 0x555bdc870fb8 <unknown>
-#16 0x555bdc871196 <unknown>
-#17 0x555bdc881cb6 <unknown>
-#18 0x7f673709caa4 <unknown>
-#19 0x7f6737129c3c <unknown>
-
-Timestamp: 2025-04-15 02:50:41.025235
+Reason: None
+Timestamp: 2025-04-15 02:54:16.676926
 
 Status: FAILED!
 Check: 2
 Test: Add a class attribute with the value **corner** to the image element.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".corner"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x555bdc882e6a <unknown>
-#1 0x555bdc334640 <unknown>
-#2 0x555bdc385b5a <unknown>
-#3 0x555bdc385d51 <unknown>
-#4 0x555bdc3d4344 <unknown>
-#5 0x555bdc3ab77d <unknown>
-#6 0x555bdc3d17b5 <unknown>
-#7 0x555bdc3ab523 <unknown>
-#8 0x555bdc377ef3 <unknown>
-#9 0x555bdc378b51 <unknown>
-#10 0x555bdc847d2b <unknown>
-#11 0x555bdc84bc01 <unknown>
-#12 0x555bdc82f512 <unknown>
-#13 0x555bdc84c774 <unknown>
-#14 0x555bdc81390f <unknown>
-#15 0x555bdc870fb8 <unknown>
-#16 0x555bdc871196 <unknown>
-#17 0x555bdc881cb6 <unknown>
-#18 0x7f673709caa4 <unknown>
-#19 0x7f6737129c3c <unknown>
+#0 0x556f606b4d0a <unknown>
+#1 0x556f601655f0 <unknown>
+#2 0x556f601b6a33 <unknown>
+#3 0x556f601b6c21 <unknown>
+#4 0x556f60205274 <unknown>
+#5 0x556f601dc68d <unknown>
+#6 0x556f60202660 <unknown>
+#7 0x556f601dc433 <unknown>
+#8 0x556f601a8ea3 <unknown>
+#9 0x556f601a9b01 <unknown>
+#10 0x556f60679b5b <unknown>
+#11 0x556f6067da41 <unknown>
+#12 0x556f60660c52 <unknown>
+#13 0x556f6067e5b4 <unknown>
+#14 0x556f60644f0f <unknown>
+#15 0x556f606a2db8 <unknown>
+#16 0x556f606a2f96 <unknown>
+#17 0x556f606b3b56 <unknown>
+#18 0x7f5ee149caa4 <unknown>
+#19 0x7f5ee1529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".corner"}
-  (Session info: chrome=135.0.7049.52); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.84); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x555bdc882e6a <unknown>
-#1 0x555bdc334640 <unknown>
-#2 0x555bdc385b5a <unknown>
-#3 0x555bdc385d51 <unknown>
-#4 0x555bdc3d4344 <unknown>
-#5 0x555bdc3ab77d <unknown>
-#6 0x555bdc3d17b5 <unknown>
-#7 0x555bdc3ab523 <unknown>
-#8 0x555bdc377ef3 <unknown>
-#9 0x555bdc378b51 <unknown>
-#10 0x555bdc847d2b <unknown>
-#11 0x555bdc84bc01 <unknown>
-#12 0x555bdc82f512 <unknown>
-#13 0x555bdc84c774 <unknown>
-#14 0x555bdc81390f <unknown>
-#15 0x555bdc870fb8 <unknown>
-#16 0x555bdc871196 <unknown>
-#17 0x555bdc881cb6 <unknown>
-#18 0x7f673709caa4 <unknown>
-#19 0x7f6737129c3c <unknown>
+#0 0x556f606b4d0a <unknown>
+#1 0x556f601655f0 <unknown>
+#2 0x556f601b6a33 <unknown>
+#3 0x556f601b6c21 <unknown>
+#4 0x556f60205274 <unknown>
+#5 0x556f601dc68d <unknown>
+#6 0x556f60202660 <unknown>
+#7 0x556f601dc433 <unknown>
+#8 0x556f601a8ea3 <unknown>
+#9 0x556f601a9b01 <unknown>
+#10 0x556f60679b5b <unknown>
+#11 0x556f6067da41 <unknown>
+#12 0x556f60660c52 <unknown>
+#13 0x556f6067e5b4 <unknown>
+#14 0x556f60644f0f <unknown>
+#15 0x556f606a2db8 <unknown>
+#16 0x556f606a2f96 <unknown>
+#17 0x556f606b3b56 <unknown>
+#18 0x7f5ee149caa4 <unknown>
+#19 0x7f5ee1529c3c <unknown>
 
-Timestamp: 2025-04-15 02:50:42.052809
+Timestamp: 2025-04-15 02:54:17.709393
 
 Status: FAILED!
 Check: 3
 Test: Remove the `height` and `width` attributes from the image element.
 Reason: Assertion failed: The `height` attribute is not removed from the image element.
 Error : AssertionError - The `height` attribute is not removed from the image element.
-Timestamp: 2025-04-15 02:50:42.054441
+Timestamp: 2025-04-15 02:54:17.711060
