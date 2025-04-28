@@ -8,5 +8,4 @@ Your browser does not support the video tag.
 </video>
 </div>
 </center>
-
-<sup>Figure 10-72\</sup>
+<sup>Figure 10-72</sup>
