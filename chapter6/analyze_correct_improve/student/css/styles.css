@@ -137,6 +137,15 @@ footer {
         overflow: auto;
     }
 
+   /* Media Query for Large Desktop Viewport */
+   @media screen and (min-width: 1441px) {
+
+    /* Style rule for the #container selector */
+    #container {
+        width: 1440px;
+        margin: 0 auto;  
+    }
+}
     /* Style rule for the col-content class */
 .col-content {
     width: 30%;
