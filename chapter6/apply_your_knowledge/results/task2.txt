@@ -3,11 +3,11 @@ Status: PASSED!
 Check: 1
 Test: modify the tablet media query with a more suitable breakpoint value that displays the navigation links on the same line.
 Reason: None
-Timestamp: 2025-04-29 05:50:09.909840
+Timestamp: 2025-04-29 05:51:51.747862
 
 Status: FAILED!
 Check: 2
 Test: Add a media query to target screen and print for a tablet viewport. Use a min-width: 481px.
 Reason: Assertion failed: Could not find the media query for the tablet viewport in the styles.css file. Did you add the media query?
 Error : AssertionError - Could not find the media query for the tablet viewport in the styles.css file. Did you add the media query?
-Timestamp: 2025-04-29 05:50:09.910286
+Timestamp: 2025-04-29 05:51:51.748166
