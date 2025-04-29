@@ -1,0 +1,160 @@
+/*  
+Author: Lawrence Oladimeji
+File Name: styles.css
+Date: 03/28/2025
+*/
+
+/* CSS Reset */
+body, header, nav, main, footer, h1, div, img, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* Style rules for body and images */
+body {
+    background-color: #f6eee4;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/*Style rules for mobile viewport */
+
+
+/*Style rules to show mobile class and hide tab-desk class */
+.mobile h1, .mobile h3 {
+    padding: 2%;
+    text-align: center;
+}
+
+/* Style rules to hide tab-desk class */
+.tab-desk {
+    display: none;
+}
+
+.mobile h1 {
+    font-family: 'Emblema One', cursive;
+}
+
+.mobile h3 {
+    font-family: 'Lora', serif;
+}
+
+
+/* Style rules for header area */
+.mobile h1, .mobile h3 {
+    padding: 2%;
+    text-align: center;
+}
+/* Style rules for navigation area */
+nav {
+    background-color: #2a1f14;
+}
+
+nav ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+nav li {
+    font-size: 1.5em;
+    padding: 4%;
+    display: block; /* changed from inline-block */
+    font-family: 'B612', sans-serif;
+    border-top: 0.5px solid #f6eee4;
+}
+
+nav li a {
+    display: block;
+    color: #f6eee4;
+    padding: 0.5em 2em;
+    text-decoration: none;
+}
+
+/* Style rules for main content */
+main {
+    padding: 2%;
+    font-family: 'Lora', serif;  
+}
+
+main p {
+    font-size: 1.25em;
+}
+
+main h3 {
+    padding-top: 2%;
+}
+
+main ul {
+    list-style-type: square;
+}
+
+/* Style rules for class and id selectors */
+.link {
+    color: #4d3319;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.action {
+    font-size: 1.75em;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Style rules for the round class */
+.round {
+    border-radius: 6px;
+}
+
+/* New style rule for #info ul */
+#info ul {
+    margin-left: 10%;
+}
+
+/* Style rules for #contact */
+#contact {
+    text-align: center;
+}
+
+/* Style rules for tel-link class */
+.tel-link {
+    background-color: #2a1f14;
+    padding: 2%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Style rules for anchor element within tel-link class */
+.tel-link a {
+    color: #f6eee4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Style rules to hide tab-desk class */
+.tab-desk {
+    display: none;
+}
+
+/* Style rules for footer content */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #2a1f14;
+    color: #f6eee4;
+    padding: 1% 0%;
+}
+
+footer a {
+    color: #f3e6d8;
+    text-decoration: none;
+}
+
+/* Media Query for Tablet Viewport */
+@media screen and (min-width: 620px), print {
+
+}
