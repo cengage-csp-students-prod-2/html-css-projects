@@ -3,40 +3,40 @@ Status: PASSED!
 Check: 1
 Test: The table element has been added to the file index.html
 Reason: None
-Timestamp: 2025-04-29 04:27:31.992884
+Timestamp: 2025-04-29 04:29:04.377285
 
 Status: PASSED!
 Check: 2
 Test: The caption element has been added to the file index.html
 Reason: None
-Timestamp: 2025-04-29 04:27:31.994741
+Timestamp: 2025-04-29 04:29:04.378848
 
 Status: PASSED!
 Check: 3
 Test: Row 1 has the correct values
 Reason: None
-Timestamp: 2025-04-29 04:27:31.996381
+Timestamp: 2025-04-29 04:29:04.380440
 
 Status: PASSED!
 Check: 4
 Test: Row 2 has the correct values
 Reason: None
-Timestamp: 2025-04-29 04:27:31.997851
+Timestamp: 2025-04-29 04:29:04.381933
 
 Status: PASSED!
 Check: 5
 Test: Row 3 has the correct values
 Reason: None
-Timestamp: 2025-04-29 04:27:31.999397
+Timestamp: 2025-04-29 04:29:04.383499
 
 Status: PASSED!
 Check: 6
 Test: Row 4 has the correct values
 Reason: None
-Timestamp: 2025-04-29 04:27:32.000832
+Timestamp: 2025-04-29 04:29:04.384946
 
 Status: PASSED!
 Check: 7
 Test: Row 5 has the correct values
 Reason: None
-Timestamp: 2025-04-29 04:27:32.002357
+Timestamp: 2025-04-29 04:29:04.386492
