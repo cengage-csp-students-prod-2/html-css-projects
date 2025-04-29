@@ -65,6 +65,10 @@ footer {
         width: 43%;
         float: left;
         height: 160px;
-        margin-right: 4%;
+    }
+
+    /* Style rule for the footer element */
+    footer {
+        clear: left;
     }
 }
