@@ -36,3 +36,14 @@ table {
     margin-right: auto;
     border: 3px solid #71881b;
 }
+
+table {
+    border-collapse: collapse;
+    width: 80%; /* You can set the table width as per your requirement */
+    margin: 0 auto;
+}
+
+tr, th, td {
+    padding: 2%;
+    border: 1px solid #71881b; /* Adjust border style as necessary */
+}
