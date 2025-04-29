@@ -102,6 +102,10 @@ nav li a {
         background-color: #f6eee4;
     }
 
+    /* Desktop Viewport: Style rules for main content */
+    #info ul {
+        margin-left: 5%;
+    }
 }
 
 /* Style rules for main content */
