@@ -170,15 +170,21 @@ footer a {
 
     /* Tablet Viewport: Show tab-desk class, hide mobile class */
     .tab-desk {
-        display: block;
+        display: block; /* Display tab-desk class */
     }
 
     .mobile {
-        display: none;
+        display: none; /* Hide mobile class */
     }
 
     /* Tablet Viewport: Style rules for nav area */
-    nav {
-        /* Additional nav styles for tablet can go here */
+    nav li {
+        border-top: none;  /* Removes the top border */
+        display: inline-block;  /* Changes from block to inline-block */
+        font-size: 1.25em;  /* Adjusts font size */
+    }
+
+    nav li a {
+        padding: 0.5em;  /* Adds padding to the link */
     }
 }
