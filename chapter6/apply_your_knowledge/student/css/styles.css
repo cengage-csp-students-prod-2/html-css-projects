@@ -79,5 +79,9 @@ footer {
         width: 27%;
         height: 140px;
     }
+    article:hover {
+        background-color: #ffe5dc;
+        color: #a22c02;
+    }
     /* Desktop-specific styles will go here */
 }
