@@ -5,52 +5,52 @@ Test: add a new style rule for the `col-content` class selector that sets a `wid
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55a75769fcea <unknown>
-#1 0x55a7571505f0 <unknown>
-#2 0x55a7571a1a33 <unknown>
-#3 0x55a7571a1c21 <unknown>
-#4 0x55a7571f0274 <unknown>
-#5 0x55a7571c768d <unknown>
-#6 0x55a7571ed660 <unknown>
-#7 0x55a7571c7433 <unknown>
-#8 0x55a757193ea3 <unknown>
-#9 0x55a757194b01 <unknown>
-#10 0x55a757664b3b <unknown>
-#11 0x55a757668a21 <unknown>
-#12 0x55a75764bc32 <unknown>
-#13 0x55a757669594 <unknown>
-#14 0x55a75762feef <unknown>
-#15 0x55a75768dd98 <unknown>
-#16 0x55a75768df76 <unknown>
-#17 0x55a75769eb36 <unknown>
-#18 0x7fb7ba09caa4 <unknown>
-#19 0x7fb7ba129c3c <unknown>
+#0 0x55fcec7a7cea <unknown>
+#1 0x55fcec2585f0 <unknown>
+#2 0x55fcec2a9a33 <unknown>
+#3 0x55fcec2a9c21 <unknown>
+#4 0x55fcec2f8274 <unknown>
+#5 0x55fcec2cf68d <unknown>
+#6 0x55fcec2f5660 <unknown>
+#7 0x55fcec2cf433 <unknown>
+#8 0x55fcec29bea3 <unknown>
+#9 0x55fcec29cb01 <unknown>
+#10 0x55fcec76cb3b <unknown>
+#11 0x55fcec770a21 <unknown>
+#12 0x55fcec753c32 <unknown>
+#13 0x55fcec771594 <unknown>
+#14 0x55fcec737eef <unknown>
+#15 0x55fcec795d98 <unknown>
+#16 0x55fcec795f76 <unknown>
+#17 0x55fcec7a6b36 <unknown>
+#18 0x7f7380a9caa4 <unknown>
+#19 0x7f7380b29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55a75769fcea <unknown>
-#1 0x55a7571505f0 <unknown>
-#2 0x55a7571a1a33 <unknown>
-#3 0x55a7571a1c21 <unknown>
-#4 0x55a7571f0274 <unknown>
-#5 0x55a7571c768d <unknown>
-#6 0x55a7571ed660 <unknown>
-#7 0x55a7571c7433 <unknown>
-#8 0x55a757193ea3 <unknown>
-#9 0x55a757194b01 <unknown>
-#10 0x55a757664b3b <unknown>
-#11 0x55a757668a21 <unknown>
-#12 0x55a75764bc32 <unknown>
-#13 0x55a757669594 <unknown>
-#14 0x55a75762feef <unknown>
-#15 0x55a75768dd98 <unknown>
-#16 0x55a75768df76 <unknown>
-#17 0x55a75769eb36 <unknown>
-#18 0x7fb7ba09caa4 <unknown>
-#19 0x7fb7ba129c3c <unknown>
+#0 0x55fcec7a7cea <unknown>
+#1 0x55fcec2585f0 <unknown>
+#2 0x55fcec2a9a33 <unknown>
+#3 0x55fcec2a9c21 <unknown>
+#4 0x55fcec2f8274 <unknown>
+#5 0x55fcec2cf68d <unknown>
+#6 0x55fcec2f5660 <unknown>
+#7 0x55fcec2cf433 <unknown>
+#8 0x55fcec29bea3 <unknown>
+#9 0x55fcec29cb01 <unknown>
+#10 0x55fcec76cb3b <unknown>
+#11 0x55fcec770a21 <unknown>
+#12 0x55fcec753c32 <unknown>
+#13 0x55fcec771594 <unknown>
+#14 0x55fcec737eef <unknown>
+#15 0x55fcec795d98 <unknown>
+#16 0x55fcec795f76 <unknown>
+#17 0x55fcec7a6b36 <unknown>
+#18 0x7f7380a9caa4 <unknown>
+#19 0x7f7380b29c3c <unknown>
 
-Timestamp: 2025-04-29 07:16:22.646175
+Timestamp: 2025-04-29 07:20:35.681031
 
 Status: FAILED!
 Check: 2
@@ -58,52 +58,52 @@ Test: add a new style rule for the `col-content` class selector that sets a `flo
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55a75769fcea <unknown>
-#1 0x55a7571505f0 <unknown>
-#2 0x55a7571a1a33 <unknown>
-#3 0x55a7571a1c21 <unknown>
-#4 0x55a7571f0274 <unknown>
-#5 0x55a7571c768d <unknown>
-#6 0x55a7571ed660 <unknown>
-#7 0x55a7571c7433 <unknown>
-#8 0x55a757193ea3 <unknown>
-#9 0x55a757194b01 <unknown>
-#10 0x55a757664b3b <unknown>
-#11 0x55a757668a21 <unknown>
-#12 0x55a75764bc32 <unknown>
-#13 0x55a757669594 <unknown>
-#14 0x55a75762feef <unknown>
-#15 0x55a75768dd98 <unknown>
-#16 0x55a75768df76 <unknown>
-#17 0x55a75769eb36 <unknown>
-#18 0x7fb7ba09caa4 <unknown>
-#19 0x7fb7ba129c3c <unknown>
+#0 0x55fcec7a7cea <unknown>
+#1 0x55fcec2585f0 <unknown>
+#2 0x55fcec2a9a33 <unknown>
+#3 0x55fcec2a9c21 <unknown>
+#4 0x55fcec2f8274 <unknown>
+#5 0x55fcec2cf68d <unknown>
+#6 0x55fcec2f5660 <unknown>
+#7 0x55fcec2cf433 <unknown>
+#8 0x55fcec29bea3 <unknown>
+#9 0x55fcec29cb01 <unknown>
+#10 0x55fcec76cb3b <unknown>
+#11 0x55fcec770a21 <unknown>
+#12 0x55fcec753c32 <unknown>
+#13 0x55fcec771594 <unknown>
+#14 0x55fcec737eef <unknown>
+#15 0x55fcec795d98 <unknown>
+#16 0x55fcec795f76 <unknown>
+#17 0x55fcec7a6b36 <unknown>
+#18 0x7f7380a9caa4 <unknown>
+#19 0x7f7380b29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55a75769fcea <unknown>
-#1 0x55a7571505f0 <unknown>
-#2 0x55a7571a1a33 <unknown>
-#3 0x55a7571a1c21 <unknown>
-#4 0x55a7571f0274 <unknown>
-#5 0x55a7571c768d <unknown>
-#6 0x55a7571ed660 <unknown>
-#7 0x55a7571c7433 <unknown>
-#8 0x55a757193ea3 <unknown>
-#9 0x55a757194b01 <unknown>
-#10 0x55a757664b3b <unknown>
-#11 0x55a757668a21 <unknown>
-#12 0x55a75764bc32 <unknown>
-#13 0x55a757669594 <unknown>
-#14 0x55a75762feef <unknown>
-#15 0x55a75768dd98 <unknown>
-#16 0x55a75768df76 <unknown>
-#17 0x55a75769eb36 <unknown>
-#18 0x7fb7ba09caa4 <unknown>
-#19 0x7fb7ba129c3c <unknown>
+#0 0x55fcec7a7cea <unknown>
+#1 0x55fcec2585f0 <unknown>
+#2 0x55fcec2a9a33 <unknown>
+#3 0x55fcec2a9c21 <unknown>
+#4 0x55fcec2f8274 <unknown>
+#5 0x55fcec2cf68d <unknown>
+#6 0x55fcec2f5660 <unknown>
+#7 0x55fcec2cf433 <unknown>
+#8 0x55fcec29bea3 <unknown>
+#9 0x55fcec29cb01 <unknown>
+#10 0x55fcec76cb3b <unknown>
+#11 0x55fcec770a21 <unknown>
+#12 0x55fcec753c32 <unknown>
+#13 0x55fcec771594 <unknown>
+#14 0x55fcec737eef <unknown>
+#15 0x55fcec795d98 <unknown>
+#16 0x55fcec795f76 <unknown>
+#17 0x55fcec7a6b36 <unknown>
+#18 0x7f7380a9caa4 <unknown>
+#19 0x7f7380b29c3c <unknown>
 
-Timestamp: 2025-04-29 07:16:23.673370
+Timestamp: 2025-04-29 07:20:36.724299
 
 Status: FAILED!
 Check: 3
@@ -111,49 +111,49 @@ Test: add a new style rule for the `col-content` class selector that sets `paddi
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55a75769fcea <unknown>
-#1 0x55a7571505f0 <unknown>
-#2 0x55a7571a1a33 <unknown>
-#3 0x55a7571a1c21 <unknown>
-#4 0x55a7571f0274 <unknown>
-#5 0x55a7571c768d <unknown>
-#6 0x55a7571ed660 <unknown>
-#7 0x55a7571c7433 <unknown>
-#8 0x55a757193ea3 <unknown>
-#9 0x55a757194b01 <unknown>
-#10 0x55a757664b3b <unknown>
-#11 0x55a757668a21 <unknown>
-#12 0x55a75764bc32 <unknown>
-#13 0x55a757669594 <unknown>
-#14 0x55a75762feef <unknown>
-#15 0x55a75768dd98 <unknown>
-#16 0x55a75768df76 <unknown>
-#17 0x55a75769eb36 <unknown>
-#18 0x7fb7ba09caa4 <unknown>
-#19 0x7fb7ba129c3c <unknown>
+#0 0x55fcec7a7cea <unknown>
+#1 0x55fcec2585f0 <unknown>
+#2 0x55fcec2a9a33 <unknown>
+#3 0x55fcec2a9c21 <unknown>
+#4 0x55fcec2f8274 <unknown>
+#5 0x55fcec2cf68d <unknown>
+#6 0x55fcec2f5660 <unknown>
+#7 0x55fcec2cf433 <unknown>
+#8 0x55fcec29bea3 <unknown>
+#9 0x55fcec29cb01 <unknown>
+#10 0x55fcec76cb3b <unknown>
+#11 0x55fcec770a21 <unknown>
+#12 0x55fcec753c32 <unknown>
+#13 0x55fcec771594 <unknown>
+#14 0x55fcec737eef <unknown>
+#15 0x55fcec795d98 <unknown>
+#16 0x55fcec795f76 <unknown>
+#17 0x55fcec7a6b36 <unknown>
+#18 0x7f7380a9caa4 <unknown>
+#19 0x7f7380b29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55a75769fcea <unknown>
-#1 0x55a7571505f0 <unknown>
-#2 0x55a7571a1a33 <unknown>
-#3 0x55a7571a1c21 <unknown>
-#4 0x55a7571f0274 <unknown>
-#5 0x55a7571c768d <unknown>
-#6 0x55a7571ed660 <unknown>
-#7 0x55a7571c7433 <unknown>
-#8 0x55a757193ea3 <unknown>
-#9 0x55a757194b01 <unknown>
-#10 0x55a757664b3b <unknown>
-#11 0x55a757668a21 <unknown>
-#12 0x55a75764bc32 <unknown>
-#13 0x55a757669594 <unknown>
-#14 0x55a75762feef <unknown>
-#15 0x55a75768dd98 <unknown>
-#16 0x55a75768df76 <unknown>
-#17 0x55a75769eb36 <unknown>
-#18 0x7fb7ba09caa4 <unknown>
-#19 0x7fb7ba129c3c <unknown>
+#0 0x55fcec7a7cea <unknown>
+#1 0x55fcec2585f0 <unknown>
+#2 0x55fcec2a9a33 <unknown>
+#3 0x55fcec2a9c21 <unknown>
+#4 0x55fcec2f8274 <unknown>
+#5 0x55fcec2cf68d <unknown>
+#6 0x55fcec2f5660 <unknown>
+#7 0x55fcec2cf433 <unknown>
+#8 0x55fcec29bea3 <unknown>
+#9 0x55fcec29cb01 <unknown>
+#10 0x55fcec76cb3b <unknown>
+#11 0x55fcec770a21 <unknown>
+#12 0x55fcec753c32 <unknown>
+#13 0x55fcec771594 <unknown>
+#14 0x55fcec737eef <unknown>
+#15 0x55fcec795d98 <unknown>
+#16 0x55fcec795f76 <unknown>
+#17 0x55fcec7a6b36 <unknown>
+#18 0x7f7380a9caa4 <unknown>
+#19 0x7f7380b29c3c <unknown>
 
-Timestamp: 2025-04-29 07:16:24.698902
+Timestamp: 2025-04-29 07:20:37.751549
