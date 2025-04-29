@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: A table element was added within the main element in the index.html file
+Reason: Assertion failed: No table element found within the main element in the index.html file
+Error : AssertionError - No table element found within the main element in the index.html file
+Timestamp: 2025-04-29 04:16:55.618420
+
+Status: FAILED!
+Check: 2
+Test: A caption element was added within the table element in the index.html file
+Reason: Assertion failed: No caption element found in the index.html file
+Error : AssertionError - No caption element found in the index.html file
+Timestamp: 2025-04-29 04:16:55.619132

@@ -1,0 +1,49 @@
+
+Status: FAILED!
+Check: 1
+Test: The table element has been added to the file index.html
+Reason: Assertion failed: Table element is missing
+Error : AssertionError - Table element is missing
+Timestamp: 2025-04-29 04:17:01.626390
+
+Status: FAILED!
+Check: 2
+Test: The caption element has been added to the file index.html
+Reason: Assertion failed: Caption element is missing
+Error : AssertionError - Caption element is missing
+Timestamp: 2025-04-29 04:17:01.627014
+
+Status: FAILED!
+Check: 3
+Test: Row 1 has the correct values
+Reason: Assertion failed: Table element is missing
+Error : AssertionError - Table element is missing
+Timestamp: 2025-04-29 04:17:01.627592
+
+Status: FAILED!
+Check: 4
+Test: Row 2 has the correct values
+Reason: Assertion failed: Table element not found
+Error : AssertionError - Table element not found
+Timestamp: 2025-04-29 04:17:01.628148
+
+Status: FAILED!
+Check: 5
+Test: Row 3 has the correct values
+Reason: Assertion failed: Table element not found
+Error : AssertionError - Table element not found
+Timestamp: 2025-04-29 04:17:01.628721
+
+Status: FAILED!
+Check: 6
+Test: Row 4 has the correct values
+Reason: Assertion failed: Table element not found
+Error : AssertionError - Table element not found
+Timestamp: 2025-04-29 04:17:01.629425
+
+Status: FAILED!
+Check: 7
+Test: Row 5 has the correct values
+Reason: Assertion failed: Table element is missing
+Error : AssertionError - Table element is missing
+Timestamp: 2025-04-29 04:17:01.629969
