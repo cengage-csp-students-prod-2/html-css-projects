@@ -13,7 +13,8 @@ body, header, nav, main, footer, img, h1, h3, ul {
 
 /* Style rule for body and images */
 body {
-    background-color: #e5e0fa;
+    background: linear-gradient(to left, #e5e0fa, #29157e);
+    font-family: sans-serif; /* Apply sans-serif font to the page */
 }
 
 img {
@@ -95,7 +96,29 @@ footer {
 }
 
 /* Media Query for Desktop Viewport */
-@media screen and (min-width: 769px), print {
+@media screen and (min-width: 900px) {
+
+    /* Style rule for the article element */
+    article {
+        width: 27%;
+        height: 140px;
+    }
+
+    article:hover {
+        background-color: #ffe5dc;
+        color: #a22c02;
+    }
+
+    /* Style rule for the header element when displayed in a desktop viewport */
+    header {
+        width: 25%;
+        float: left;
+    }
+
+    /* Style rule for the nav element */
+    nav ul {
+        text-align: right;
+    }
  
     /* Desktop Viewport: Style rules for nav */
     nav li {
