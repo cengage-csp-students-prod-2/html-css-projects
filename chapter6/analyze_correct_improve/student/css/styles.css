@@ -125,9 +125,9 @@ footer {
         border-radius: 0;
     }
 
-    nav li a {
-        display: inline-block;
-        padding: 0.7em;
+    nav li a:hover {
+        color: #4424d6;
+        background-color: #e5e0fa;
     }
 
     /* Desktop Viewport: Style rules for the main content */
