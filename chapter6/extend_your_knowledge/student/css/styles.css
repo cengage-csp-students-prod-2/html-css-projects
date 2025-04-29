@@ -44,7 +44,7 @@ main {
 }
 
 .gradient2 {
-    background: linear-gradient(to left, #d4f7ec 90%, #448d76);
+    background: linear-gradient(to left, #d4f7ec 0%, #448d76 90%);
 }
 
 .gradient3 {
