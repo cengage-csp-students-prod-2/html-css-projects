@@ -25,3 +25,17 @@ td {
 tr:nth-child(odd) {
     background-color: #fe9772;
 }
+
+/* Style rule for the body element */
+body {
+    background-color: #ffe5dc;
+    font-family: sans-serif; /* Apply sans-serif font to the page */
+}
+
+/* Style rule for the table element */
+table {
+    border: 8px solid #fd4d0c; /* Set the border color, thickness, and style */
+    box-shadow: 12px 12px 10px #792101; /* Apply a box-shadow with horizontal and vertical offsets */
+    width: 80%; /* Optional: Set the table width to 80% for a more centered appearance */
+    margin: auto; /* Optional: Center the table horizontally */
+}
