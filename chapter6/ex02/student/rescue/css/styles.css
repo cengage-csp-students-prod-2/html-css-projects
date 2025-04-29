@@ -49,15 +49,18 @@ img {
     text-align: center;
 }
 
-/* Style rules for navigation area */
-nav li {
-    border-top: none;  /* Removes the top border */
-    display: inline-block;  /* Changes from block to inline-block */
-    font-size: 1.25em;  /* Adjusts font size */
-}
+/* Media Query for Tablet Viewport */
+@media screen and (min-width: 620px), print {
+    /* Tablet Viewport: Style rules for nav area */
+    nav li {
+        border-top: none;  /* Removes the top border */
+        display: inline-block;  /* Changes from block to inline-block */
+        font-size: 1.25em;  /* Adjusts font size */
+    }
 
-nav li a {
-    padding: 0.5em;  
+    nav li a {
+        padding: 0.5em;  /* Adds padding to the link */
+    }
 }
 
 nav {
