@@ -45,14 +45,14 @@ table {
 
 tr, th, td {
     padding: 2%;
-    border: 1px solid #71881b; /* Adjust border style as necessary */
+    border: 1px solid #71881b; 
 }
 
 caption {
     font-size: 2em;
     padding: 2%;
     margin-top: 2%;
-    text-align: center; /* Optional: centers the caption text */
+    text-align: center; 
 }
 
 th, td {
