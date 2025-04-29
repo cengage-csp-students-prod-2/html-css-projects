@@ -4,18 +4,18 @@ Check: 1
 Test: `article` element that sets the width to **43%**
 Reason: Assertion failed: The width of the article element is not set to 43%.
 Error : AssertionError - The width of the article element is not set to 43%.
-Timestamp: 2025-04-29 05:52:03.254011
+Timestamp: 2025-04-29 05:54:29.456589
 
 Status: FAILED!
 Check: 2
 Test: `article` element that floats the element to the **left**
 Reason: Assertion failed: The article element is not floated to the left.
 Error : AssertionError - The article element is not floated to the left.
-Timestamp: 2025-04-29 05:52:03.268781
+Timestamp: 2025-04-29 05:54:29.470853
 
 Status: FAILED!
 Check: 3
 Test: `article` element that sets a `height` of **160px**
 Reason: Assertion failed: The height of the article element is not set to 160px.
 Error : AssertionError - The height of the article element is not set to 160px.
-Timestamp: 2025-04-29 05:52:03.283591
+Timestamp: 2025-04-29 05:54:29.485082
