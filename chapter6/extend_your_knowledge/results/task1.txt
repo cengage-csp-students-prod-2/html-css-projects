@@ -1,0 +1,47 @@
+
+Status: PASSED!
+Check: 1
+Test: Open index.html file and update the comment with your name (firstname lastname)
+Reason: None
+Timestamp: 2025-04-29 06:30:09.907677
+
+Status: FAILED!
+Check: 2
+Test: Add the filename to the comment in index.html
+Reason: Assertion failed: File Name not found in index.html (File Name: index.html)
+Error : AssertionError - File Name not found in index.html (File Name: index.html)
+Timestamp: 2025-04-29 06:30:09.907913
+
+Status: FAILED!
+Check: 3
+Test: Add today’s date to the comment in index.html
+Reason: Assertion failed: Date not found in index.html (MM/DD/YYYY)
+Error : AssertionError - Date not found in index.html (MM/DD/YYYY)
+Timestamp: 2025-04-29 06:30:09.908260
+
+Status: FAILED!
+Check: 4
+Test: Add your name to the paragraph element located within the footer element
+Reason: Assertion failed: Student Name not found in paragraph element (Completed by: firstname lastname)
+Error : AssertionError - Student Name not found in paragraph element (Completed by: firstname lastname)
+Timestamp: 2025-04-29 06:30:09.910007
+
+Status: FAILED!
+Check: 5
+Test: Add your name to the multi-line comment of the styles.css file
+Reason: Assertion failed: Student Name not found in styles.css (Author: firstname lastname)
+Error : AssertionError - Student Name not found in styles.css (Author: firstname lastname)
+Timestamp: 2025-04-29 06:30:09.910260
+
+Status: FAILED!
+Check: 6
+Test: Add the name of the css file to the multi-line comment
+Reason: Assertion failed: File Name not found in styles.css (File Name: styles.css)
+Error : AssertionError - File Name not found in styles.css (File Name: styles.css)
+Timestamp: 2025-04-29 06:30:09.910463
+
+Status: PASSED!
+Check: 7
+Test: Add today's date to the multi-line comment
+Reason: None
+Timestamp: 2025-04-29 06:30:09.910605

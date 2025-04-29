@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Check the linear-gradient background colors and stops for the gradient1 class selector.
+Reason: Assertion failed: linear-gradient colors and stops are not correct
+Error : AssertionError - linear-gradient colors and stops are not correct
+Timestamp: 2025-04-29 06:30:36.309870
