@@ -89,7 +89,19 @@ nav li a {
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1000px), print {
-    /* Desktop-specific styles go here */
+    nav li {
+        font-size: 1.5em;
+    }
+
+    nav li a {
+        padding: 0.5em 1.5em;
+    }
+
+    nav li a:hover {
+        color: #2a1f14;
+        background-color: #f6eee4;
+    }
+
 }
 
 /* Style rules for main content */
