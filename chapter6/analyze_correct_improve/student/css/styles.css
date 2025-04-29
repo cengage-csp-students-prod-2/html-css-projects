@@ -1,7 +1,7 @@
 /*
     Student Name: Lawrence Oladimeji
-	File Name: styles.css
-	Current Date: 04/38/2025
+    File Name: styles.css
+    Current Date: 04/28/2025
 */
 
 /* CSS reset */
@@ -25,15 +25,15 @@ img {
 /* Styles for Mobile Layout */
 
 /* Hide tablet-desktop content */
-    .tablet-desktop {
-        display: none;
-    }
+.tablet-desktop {
+    display: none;
+}
 
 /* Style rule for the header */
 header {
-	padding: 2%;
-	color: #110934;
-	text-align: center;
+    padding: 2%;
+    color: #110934;
+    text-align: center;
 }
 
 /* Style rules for navigation area */
@@ -60,29 +60,30 @@ nav li a {
 
 /* Style rules for the main content  */
 main {
-	display: block;
-	font-family: Georgia, "Times New Roman", sans-serif;
-	font-size: 1em;
-	padding: 1em;
-	background-color: #FFFFFF;
-	border-top: solid 0.2em #110934; 
-	border-bottom: solid 0.2em #110934;
+    display: block;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    font-size: 1em;
+    padding: 1em;
+    background-color: #FFFFFF;
+    border-top: solid 0.2em #110934; 
+    border-bottom: solid 0.2em #110934;
 }
 
 /* Style rule for footer */
 footer {
-	font-size: .70em;
-	text-align: center;
-	margin-top: 2em;
+    font-size: .70em;
+    text-align: center;
+    margin-top: 2em;
     color: #fff;
 }
 
 /* Media Query for Tablet Viewport */
 @media screen and print and (min-width: 481px) {  
+    /* Show tablet-desktop content */
     .tablet-desktop {
-            display: block;
+        display: block;
     }
-}
+
     /* Tablet Viewport: Style rules for nav area */
     nav li {
         display: inline-block;
@@ -92,11 +93,21 @@ footer {
     nav li a {
         padding: 0.1em 1em;
     }
-    
 }
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 900px) {
+
+    /* Style rule for the header element when displayed in a desktop viewport */
+    header {
+        width: 25%;
+        float: left;
+    }
+
+    /* Style rule for the nav element */
+    nav ul {
+        text-align: right; /* Align text to the right for unordered list elements */
+    }
 
     /* Style rule for the article element */
     article {
@@ -109,17 +120,11 @@ footer {
         color: #a22c02;
     }
 
-    /* Style rule for the header element when displayed in a desktop viewport */
-    header {
-        width: 25%;
-        float: left;
-    }
-
     /* Style rule for the nav element */
     nav ul {
         text-align: right;
     }
- 
+
     /* Desktop Viewport: Style rules for nav */
     nav li {
         border-radius: 0;
@@ -137,24 +142,25 @@ footer {
         overflow: auto;
     }
 
-   /* Media Query for Large Desktop Viewport */
-   @media screen and (min-width: 1441px) {
+    /* Style rule for the col-content class */
+    .col-content {
+        width: 30%;
+        float: left;
+        padding: 1.5%;
+    }
+
+    /* Desktop Viewport: Style rule for footer */
+    footer {
+        clear: left;
+    }
+}
+
+/* Media Query for Large Desktop Viewport */
+@media screen and (min-width: 1441px) {
 
     /* Style rule for the #container selector */
     #container {
         width: 1440px;
         margin: 0 auto;  
     }
-}
-    /* Style rule for the col-content class */
-.col-content {
-    width: 30%;
-    float: left;
-    padding: 1.5%;
-}
-    /* Desktop Viewport: Style rule for footer */
-    footer {
-        clear: left;
-    }
-
 }
