@@ -48,6 +48,11 @@ tr, th, td {
     border: 1px solid #71881b; 
 }
 
+table, tr, th, td {
+    border-collapse: collapse;
+    padding: 2%;
+}
+
 caption {
     font-size: 2em;
     padding: 2%;
