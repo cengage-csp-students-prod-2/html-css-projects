@@ -137,6 +137,12 @@ footer {
         overflow: auto;
     }
 
+    /* Style rule for the col-content class */
+.col-content {
+    width: 30%;
+    float: left;
+    padding: 1.5%;
+}
     /* Desktop Viewport: Style rule for footer */
     footer {
         clear: left;
