@@ -75,5 +75,9 @@ footer {
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 900px) {
+    article {
+        width: 27%;
+        height: 140px;
+    }
     /* Desktop-specific styles will go here */
 }
