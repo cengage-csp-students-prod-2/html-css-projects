@@ -79,49 +79,4 @@ aside {
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 650px), print {
     /* Style rules for tablets */
-    header {
-        padding: 2.5%;
-    }
-
-    nav li {
-        display: inline-block;
-        margin-right: 10px;
-    }
-
-    nav li a {
-        padding: 0.75% 2%;
-    }
-
-    main {
-        padding: 2em;
-    }
-}
-
-/* Media Query for Desktop Viewport */
-@media screen and (min-width: 1024px), print {
-    /* Style rules for desktops */
-    header {
-        padding: 3%;
-    }
-
-    nav li {
-        display: inline-block;
-        margin-right: 15px;
-    }
-
-    nav li a {
-        padding: 1% 2%;
-        font-size: 1.2em;
-    }
-
-    main {
-        padding: 3em;
-        max-width: 1200px;
-        margin: 0 auto;
-    }
-
-    footer {
-        font-size: 1em;
-    }
-}
 
