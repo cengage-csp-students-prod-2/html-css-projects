@@ -3,34 +3,35 @@ Status: PASSED!
 Check: 1
 Test: add a comment with the text, /* Media Query for Large Desktop Viewports */
 Reason: None
-Timestamp: 2025-04-29 08:37:35.004458
+Timestamp: 2025-04-29 08:39:57.426547
 
 Status: PASSED!
 Check: 2
 Test: add a media query that targets a screen with a minimum width of **1921px**
 Reason: None
-Timestamp: 2025-04-29 08:37:35.005021
+Timestamp: 2025-04-29 08:39:57.427066
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Style rule for the `body` element that sets the background to a `linear-gradient` with the `color` values **#f6eee4** and **#78593a**
-Reason: None
-Timestamp: 2025-04-29 08:37:35.061726
+Reason: Assertion failed: The body element does not have a linear-gradient background
+Error : AssertionError - The body element does not have a linear-gradient background
+Timestamp: 2025-04-29 08:39:57.462342
 
 Status: PASSED!
 Check: 4
 Test: Style rule for the `#wrapper` selector that sets the `width` to **1920px**,
 Reason: None
-Timestamp: 2025-04-29 08:37:35.097963
+Timestamp: 2025-04-29 08:39:57.506393
 
 Status: PASSED!
 Check: 5
 Test: Style rule for the `#wrapper` selector that sets the top and bottom margin to **0**, and left and right margins to **auto**
 Reason: None
-Timestamp: 2025-04-29 08:37:35.133836
+Timestamp: 2025-04-29 08:39:57.543305
 
 Status: PASSED!
 Check: 6
 Test: Style rule for the `main` selector that sets the `background-color` to  **#f6eee4**
 Reason: None
-Timestamp: 2025-04-29 08:37:35.164456
+Timestamp: 2025-04-29 08:39:57.580753
