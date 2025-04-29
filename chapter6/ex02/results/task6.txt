@@ -3,36 +3,36 @@ Status: PASSED!
 Check: 1
 Test: add a comment with the text, /* Desktop Viewport: Style rules for nav area */
 Reason: None
-Timestamp: 2025-04-29 08:28:05.371644
+Timestamp: 2025-04-29 08:34:07.424406
 
 Status: PASSED!
 Check: 1
 Test: add a comment with the text, /* Desktop Viewport: Style rules for nav area */
 Reason: None
-Timestamp: 2025-04-29 08:28:05.371765
+Timestamp: 2025-04-29 08:34:07.424540
 
 Status: FAILED!
 Check: 2
 Test: Style rule for the `nav li` selector that sets the font-size to 1.5em
 Reason: Assertion failed: The font-size for the nav li selector is not set to 1.5em.
 Error : AssertionError - The font-size for the nav li selector is not set to 1.5em.
-Timestamp: 2025-04-29 08:28:05.390329
+Timestamp: 2025-04-29 08:34:07.444315
 
 Status: FAILED!
 Check: 3
 Test: Style rule for the `nav li a` selector that sets the top and bottom padding to 0.5em and the left and right padding to 1.5em
 Reason: Assertion failed: The padding for the nav li a selector is not set to 0.5em 1.5em.
 Error : AssertionError - The padding for the nav li a selector is not set to 0.5em 1.5em.
-Timestamp: 2025-04-29 08:28:05.404255
+Timestamp: 2025-04-29 08:34:07.458157
 
 Status: PASSED!
 Check: 4
 Test: Style rule for the `nav li a` selector with a hover pseudo-class that sets the color to #2a1f14
 Reason: None
-Timestamp: 2025-04-29 08:28:05.691167
+Timestamp: 2025-04-29 08:34:07.748649
 
 Status: PASSED!
 Check: 5
 Test: Style rule for the `nav li a` selector with a hover pseudo-class that sets the background-color to #f6eee4
 Reason: None
-Timestamp: 2025-04-29 08:28:05.961599
+Timestamp: 2025-04-29 08:34:08.019190
