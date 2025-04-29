@@ -17,19 +17,19 @@ body {
 }
 
 /* Style rules for mobile viewport */
-.section {
+section {
     background-color: #183440;
     color: #fff;
     margin-top: 4%;
     padding: 3%;
 }
 
-.article {
+article {
     margin-top: 1%;
     padding: 2%;
 }
 
-.aside {
+aside {
     background-color: rgba(24, 52, 64, 0.3);
     padding: 2%;
     margin-top: 1%;
