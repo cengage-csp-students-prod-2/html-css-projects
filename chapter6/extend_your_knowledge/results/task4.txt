@@ -4,4 +4,4 @@ Check: 1
 Test: add a declaration to specify a `linear-gradient` to the **top left**, and use **#efddfd** and **#36065b** for color values.
 Reason: Assertion failed: linear-gradient colors and stops are not correct
 Error : AssertionError - linear-gradient colors and stops are not correct
-Timestamp: 2025-04-29 06:33:43.911960
+Timestamp: 2025-04-29 06:35:18.394088

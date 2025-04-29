@@ -3,41 +3,40 @@ Status: PASSED!
 Check: 1
 Test: Open index.html file and update the comment with your name (firstname lastname)
 Reason: None
-Timestamp: 2025-04-29 06:33:33.433087
+Timestamp: 2025-04-29 06:35:15.769273
 
 Status: PASSED!
 Check: 2
 Test: Add the filename to the comment in index.html
 Reason: None
-Timestamp: 2025-04-29 06:33:33.433340
+Timestamp: 2025-04-29 06:35:15.769572
 
 Status: PASSED!
 Check: 3
 Test: Add today’s date to the comment in index.html
 Reason: None
-Timestamp: 2025-04-29 06:33:33.433544
+Timestamp: 2025-04-29 06:35:15.769825
 
 Status: PASSED!
 Check: 4
 Test: Add your name to the paragraph element located within the footer element
 Reason: None
-Timestamp: 2025-04-29 06:33:33.435222
+Timestamp: 2025-04-29 06:35:15.772743
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add your name to the multi-line comment of the styles.css file
-Reason: Assertion failed: Student Name not found in styles.css (Author: firstname lastname)
-Error : AssertionError - Student Name not found in styles.css (Author: firstname lastname)
-Timestamp: 2025-04-29 06:33:33.435428
+Reason: None
+Timestamp: 2025-04-29 06:35:15.773044
 
 Status: PASSED!
 Check: 6
 Test: Add the name of the css file to the multi-line comment
 Reason: None
-Timestamp: 2025-04-29 06:33:33.435701
+Timestamp: 2025-04-29 06:35:15.773271
 
 Status: PASSED!
 Check: 7
 Test: Add today's date to the multi-line comment
 Reason: None
-Timestamp: 2025-04-29 06:33:33.435797
+Timestamp: 2025-04-29 06:35:15.773399
