@@ -4,11 +4,10 @@ Check: 1
 Test: sets the `width` to **27%**
 Reason: Assertion failed: The width of the article element is not set to 27%.
 Error : AssertionError - The width of the article element is not set to 27%.
-Timestamp: 2025-04-29 05:35:59.573577
+Timestamp: 2025-04-29 05:39:51.662718
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: sets the `height` to **140px**
-Reason: Assertion failed: The height of the article element is not set to 140px.
-Error : AssertionError - The height of the article element is not set to 140px.
-Timestamp: 2025-04-29 05:35:59.585988
+Reason: None
+Timestamp: 2025-04-29 05:39:51.675491
