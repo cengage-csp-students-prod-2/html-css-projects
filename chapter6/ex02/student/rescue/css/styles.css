@@ -51,15 +51,15 @@ img {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 620px), print {
-    /* Tablet Viewport: Style rules for nav area */
+    /* Style rules for nav area */
     nav li {
-        border-top: none;  /* Removes the top border */
-        display: inline-block;  /* Changes from block to inline-block */
-        font-size: 1.25em;  /* Adjusts font size */
+        border-top: none;  
+        display: inline-block; 
+        font-size: 1.25em;  
     }
 
     nav li a {
-        padding: 0.5em;  /* Adds padding to the link */
+        padding: 0.5em;  
     }
 }
 
