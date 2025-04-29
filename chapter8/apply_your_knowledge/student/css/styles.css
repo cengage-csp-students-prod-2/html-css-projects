@@ -47,3 +47,22 @@ tr, th, td {
     padding: 2%;
     border: 1px solid #71881b; /* Adjust border style as necessary */
 }
+
+caption {
+    font-size: 2em;
+    padding: 2%;
+    margin-top: 2%;
+    text-align: center; /* Optional: centers the caption text */
+}
+
+th, td {
+    border: 1px solid #7188bb;
+}
+
+td {
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+    background-color: #d3e788;
+}
