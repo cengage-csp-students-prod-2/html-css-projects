@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: add a new style rule for the `article` selector that uses the `hover` `pseudo-class`. Set the color to **#a22c02** 
-Reason: Assertion failed: The `color` value of `article` was not `#a22c02`.
-Error : AssertionError - The `color` value of `article` was not `#a22c02`.
-Timestamp: 2025-04-29 05:45:16.797983
+Reason: None
+Timestamp: 2025-04-29 05:45:54.803969
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: add a new style rule for the `article` selector that uses the `hover` `pseudo-class`. Set the background color to **#ffe5dc**. 
-Reason: Assertion failed: The `background-color` value of `article` was not `#ffe5dc`.
-Error : AssertionError - The `background-color` value of `article` was not `#ffe5dc`.
-Timestamp: 2025-04-29 05:45:17.067084
+Reason: None
+Timestamp: 2025-04-29 05:45:55.073283
