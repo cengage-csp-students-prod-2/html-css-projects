@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 1
+Test: Table head row 1 is set correctly
+Reason: Assertion failed: Table not found
+Error : AssertionError - Table not found
+Timestamp: 2025-04-29 04:36:49.580849
+
+Status: FAILED!
+Check: 2
+Test: Table head row 2 is set correctly
+Reason: Assertion failed: Table not found
+Error : AssertionError - Table not found
+Timestamp: 2025-04-29 04:36:49.581137
+
+Status: FAILED!
+Check: 3
+Test: Table body rows are set correctly
+Reason: Assertion failed: Table not found
+Error : AssertionError - Table not found
+Timestamp: 2025-04-29 04:36:49.581339
