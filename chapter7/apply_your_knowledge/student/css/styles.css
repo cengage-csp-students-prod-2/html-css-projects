@@ -17,6 +17,25 @@ body {
 }
 
 /* Style rules for mobile viewport */
+section {
+    background-color: #183440;
+    color: #fff;
+    margin-top: 4%;
+    padding: 3%;
+}
+
+article {
+    margin-top: 1%;
+    padding: 2%;
+}
+
+aside {
+    background-color: rgba(24, 52, 64, 0.3);
+    padding: 2%;
+    margin-top: 1%;
+    color: #183440;
+    box-shadow: 4px 4px 10px #183440;
+}
 
 /* Style rule for header */
 header {
@@ -52,28 +71,6 @@ main {
 footer {
     font-size: .70em;
     text-align: center;
-}
-
-/* New style rules for section, article, and aside elements */
-
-section {
-    background-color: #183440;
-    color: #fff;
-    margin-top: 4%;
-    padding: 3%;
-}
-
-article {
-    margin-top: 1%;
-    padding: 2%;
-}
-
-aside {
-    background-color: rgba(24, 52, 64, 0.3);
-    padding: 2%;
-    margin-top: 1%;
-    color: #183440;
-    box-shadow: 4px 4px 10px #183440;
 }
 
 /* Media Query for Tablet Viewport */
