@@ -1,7 +1,7 @@
 /* 
-    Author: Lawrence Oladdimeji
-    Date: 04/28/2025
-    File: styles.css
+    Author:Lawrence Oladdimeji
+    Date:04/28/2025
+    File:styles.css
 */
 
 /* Style for the body element */
@@ -16,7 +16,7 @@ table {
     box-shadow: 12px 12px 10px #792101;
     width: 80%;
     margin: auto;
-    border-collapse: collapse; /* Optional: for cleaner table lines */
+    border-collapse: collapse; 
 }
 
 /* Style for the td (table data) element */
