@@ -45,3 +45,25 @@ footer {
 	text-align: center;
     color: #341509;
 }
+
+/* Media Query for Tablet Viewport */
+@media screen and print and (min-width: 481px) {
+    body {
+        font-size: 1.1em;
+    }
+
+    table {
+        width: 90%;
+    }
+
+    td {
+        padding: 10px;
+    }
+
+    /* Style rule for the article element */
+    article {
+        width: 43%;
+        float: left;
+        height: 160px;
+    }
+}
