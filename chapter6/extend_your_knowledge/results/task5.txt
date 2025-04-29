@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Check the linear-gradient background colors and stops for the gradient4 class selector.
-Reason: Assertion failed: Could not find the color #e6e6ff in the linear-gradient colors and stops
-Error : AssertionError - Could not find the color #e6e6ff in the linear-gradient colors and stops
-Timestamp: 2025-04-29 06:39:49.093042
+Reason: None
+Timestamp: 2025-04-29 06:41:25.425433
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Check the linear-gradient background colors and stops for the gradient4 class selector.
-Reason: Assertion failed: Could not find the color #70dbdb in the linear-gradient colors and stops
-Error : AssertionError - Could not find the color #70dbdb in the linear-gradient colors and stops
-Timestamp: 2025-04-29 06:39:49.107296
+Reason: None
+Timestamp: 2025-04-29 06:41:25.436945
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Check the linear-gradient background colors and stops for the gradient4 class selector.
-Reason: Assertion failed: Could not find the color #ffffcc in the linear-gradient colors and stops
-Error : AssertionError - Could not find the color #ffffcc in the linear-gradient colors and stops
-Timestamp: 2025-04-29 06:39:49.118429
+Reason: None
+Timestamp: 2025-04-29 06:41:25.447275
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Check the linear-gradient background colors and stops for the gradient4 class selector.
-Reason: Assertion failed: Could not find the color #cc6699 in the linear-gradient colors and stops
-Error : AssertionError - Could not find the color #cc6699 in the linear-gradient colors and stops
-Timestamp: 2025-04-29 06:39:49.128820
+Reason: None
+Timestamp: 2025-04-29 06:41:25.457642
