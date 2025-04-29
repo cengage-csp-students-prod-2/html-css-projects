@@ -4,18 +4,18 @@ Check: 1
 Test: Table head row 1 is set correctly
 Reason: Assertion failed: Table head not found
 Error : AssertionError - Table head not found
-Timestamp: 2025-04-29 05:01:59.395341
+Timestamp: 2025-04-29 05:02:41.150065
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
 Reason: Assertion failed: Table head not found
 Error : AssertionError - Table head not found
-Timestamp: 2025-04-29 05:01:59.398065
+Timestamp: 2025-04-29 05:02:41.152831
 
 Status: FAILED!
 Check: 3
 Test: Table body rows are set correctly
 Reason: Assertion failed: Table body not found
 Error : AssertionError - Table body not found
-Timestamp: 2025-04-29 05:01:59.400490
+Timestamp: 2025-04-29 05:02:41.155229
