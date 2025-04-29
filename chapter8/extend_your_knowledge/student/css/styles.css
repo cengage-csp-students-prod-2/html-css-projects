@@ -3,17 +3,25 @@
 	Date: 04/28/2025
 	File: index.html
 -->
-<table>
-    <tr>
-        <th>Header 1</th>
-        <th>Header 2</th>
-        <th>Header 3</th>
-        <th>Header 4</th>
-    </tr>
-    <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-        <td>Row 1, Cell 4</td>
-    </tr>
-    <tr>
+
+    /* Style for the body element */
+body {
+    background-color: #ffe5dc;
+    font-family: sans-serif; /* Apply sans-serif font to the page */
+}
+
+/* Style for the table element */
+table {
+    border: 8px solid #fd4d0c;
+    box-shadow: 12px 12px 10px #792101;
+}
+
+/* Style for the td (table data) element */
+td {
+    border: 1px solid #a22c02;
+}
+
+/* Style for the tr element to apply background-color to odd rows */
+tr:nth-child(odd) {
+    background-color: #fe9772;
+}
