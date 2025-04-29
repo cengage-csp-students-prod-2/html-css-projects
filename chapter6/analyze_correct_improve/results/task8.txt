@@ -4,18 +4,18 @@ Check: 1
 Test: add a new style rule for the `col-content` class selector that sets a `width` of   **30%**
 Reason: Assertion failed: The `col-content` class selector does not set the width to 30%. within the desktop media query.
 Error : AssertionError - The `col-content` class selector does not set the width to 30%. within the desktop media query.
-Timestamp: 2025-04-29 07:29:11.697695
+Timestamp: 2025-04-29 07:32:12.104860
 
 Status: FAILED!
 Check: 2
 Test: add a new style rule for the `col-content` class selector that sets a `float` to the **left**
 Reason: Assertion failed: The `col-content` class selector does not float the element to the left within the desktop media query.
 Error : AssertionError - The `col-content` class selector does not float the element to the left within the desktop media query.
-Timestamp: 2025-04-29 07:29:11.713048
+Timestamp: 2025-04-29 07:32:12.119334
 
 Status: FAILED!
 Check: 3
 Test: add a new style rule for the `col-content` class selector that sets `padding` of **1.5%** on all sides.
 Reason: Assertion failed: The `col-content` class selector does not set padding to 1.5% on all sides within the desktop media query.
 Error : AssertionError - The `col-content` class selector does not set padding to 1.5% on all sides within the desktop media query.
-Timestamp: 2025-04-29 07:29:11.728065
+Timestamp: 2025-04-29 07:32:12.133248
