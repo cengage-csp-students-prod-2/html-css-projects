@@ -1,0 +1,159 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the `mobile` class attribute to the `p` element with the class attributes of `tel-link round`
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tel-link.round.mobile"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56483bd43cea <unknown>
+#1 0x56483b7f45f0 <unknown>
+#2 0x56483b845a33 <unknown>
+#3 0x56483b845c21 <unknown>
+#4 0x56483b894274 <unknown>
+#5 0x56483b86b68d <unknown>
+#6 0x56483b891660 <unknown>
+#7 0x56483b86b433 <unknown>
+#8 0x56483b837ea3 <unknown>
+#9 0x56483b838b01 <unknown>
+#10 0x56483bd08b3b <unknown>
+#11 0x56483bd0ca21 <unknown>
+#12 0x56483bcefc32 <unknown>
+#13 0x56483bd0d594 <unknown>
+#14 0x56483bcd3eef <unknown>
+#15 0x56483bd31d98 <unknown>
+#16 0x56483bd31f76 <unknown>
+#17 0x56483bd42b36 <unknown>
+#18 0x7febac49caa4 <unknown>
+#19 0x7febac529c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tel-link.round.mobile"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56483bd43cea <unknown>
+#1 0x56483b7f45f0 <unknown>
+#2 0x56483b845a33 <unknown>
+#3 0x56483b845c21 <unknown>
+#4 0x56483b894274 <unknown>
+#5 0x56483b86b68d <unknown>
+#6 0x56483b891660 <unknown>
+#7 0x56483b86b433 <unknown>
+#8 0x56483b837ea3 <unknown>
+#9 0x56483b838b01 <unknown>
+#10 0x56483bd08b3b <unknown>
+#11 0x56483bd0ca21 <unknown>
+#12 0x56483bcefc32 <unknown>
+#13 0x56483bd0d594 <unknown>
+#14 0x56483bcd3eef <unknown>
+#15 0x56483bd31d98 <unknown>
+#16 0x56483bd31f76 <unknown>
+#17 0x56483bd42b36 <unknown>
+#18 0x7febac49caa4 <unknown>
+#19 0x7febac529c3c <unknown>
+
+Timestamp: 2025-04-29 07:50:45.186782
+
+Status: FAILED!
+Check: 2
+Test: Insert a new paragraph element with the `tab-desk` class
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56483bd43cea <unknown>
+#1 0x56483b7f45f0 <unknown>
+#2 0x56483b845a33 <unknown>
+#3 0x56483b845c21 <unknown>
+#4 0x56483b894274 <unknown>
+#5 0x56483b86b68d <unknown>
+#6 0x56483b891660 <unknown>
+#7 0x56483b86b433 <unknown>
+#8 0x56483b837ea3 <unknown>
+#9 0x56483b838b01 <unknown>
+#10 0x56483bd08b3b <unknown>
+#11 0x56483bd0ca21 <unknown>
+#12 0x56483bcefc32 <unknown>
+#13 0x56483bd0d594 <unknown>
+#14 0x56483bcd3eef <unknown>
+#15 0x56483bd31d98 <unknown>
+#16 0x56483bd31f76 <unknown>
+#17 0x56483bd42b36 <unknown>
+#18 0x7febac49caa4 <unknown>
+#19 0x7febac529c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56483bd43cea <unknown>
+#1 0x56483b7f45f0 <unknown>
+#2 0x56483b845a33 <unknown>
+#3 0x56483b845c21 <unknown>
+#4 0x56483b894274 <unknown>
+#5 0x56483b86b68d <unknown>
+#6 0x56483b891660 <unknown>
+#7 0x56483b86b433 <unknown>
+#8 0x56483b837ea3 <unknown>
+#9 0x56483b838b01 <unknown>
+#10 0x56483bd08b3b <unknown>
+#11 0x56483bd0ca21 <unknown>
+#12 0x56483bcefc32 <unknown>
+#13 0x56483bd0d594 <unknown>
+#14 0x56483bcd3eef <unknown>
+#15 0x56483bd31d98 <unknown>
+#16 0x56483bd31f76 <unknown>
+#17 0x56483bd42b36 <unknown>
+#18 0x7febac49caa4 <unknown>
+#19 0x7febac529c3c <unknown>
+
+Timestamp: 2025-04-29 07:50:46.217870
+
+Status: FAILED!
+Check: 3
+Test: Wrap the phone number, (814) 555-8989, within the `tab-desk` paragraph element
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56483bd43cea <unknown>
+#1 0x56483b7f45f0 <unknown>
+#2 0x56483b845a33 <unknown>
+#3 0x56483b845c21 <unknown>
+#4 0x56483b894274 <unknown>
+#5 0x56483b86b68d <unknown>
+#6 0x56483b891660 <unknown>
+#7 0x56483b86b433 <unknown>
+#8 0x56483b837ea3 <unknown>
+#9 0x56483b838b01 <unknown>
+#10 0x56483bd08b3b <unknown>
+#11 0x56483bd0ca21 <unknown>
+#12 0x56483bcefc32 <unknown>
+#13 0x56483bd0d594 <unknown>
+#14 0x56483bcd3eef <unknown>
+#15 0x56483bd31d98 <unknown>
+#16 0x56483bd31f76 <unknown>
+#17 0x56483bd42b36 <unknown>
+#18 0x7febac49caa4 <unknown>
+#19 0x7febac529c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x56483bd43cea <unknown>
+#1 0x56483b7f45f0 <unknown>
+#2 0x56483b845a33 <unknown>
+#3 0x56483b845c21 <unknown>
+#4 0x56483b894274 <unknown>
+#5 0x56483b86b68d <unknown>
+#6 0x56483b891660 <unknown>
+#7 0x56483b86b433 <unknown>
+#8 0x56483b837ea3 <unknown>
+#9 0x56483b838b01 <unknown>
+#10 0x56483bd08b3b <unknown>
+#11 0x56483bd0ca21 <unknown>
+#12 0x56483bcefc32 <unknown>
+#13 0x56483bd0d594 <unknown>
+#14 0x56483bcd3eef <unknown>
+#15 0x56483bd31d98 <unknown>
+#16 0x56483bd31f76 <unknown>
+#17 0x56483bd42b36 <unknown>
+#18 0x7febac49caa4 <unknown>
+#19 0x7febac529c3c <unknown>
+
+Timestamp: 2025-04-29 07:50:47.243565
