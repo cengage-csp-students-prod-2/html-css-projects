@@ -72,3 +72,8 @@ footer {
         clear: left;
     }
 }
+
+/* Media Query for Desktop Viewport */
+@media screen and (min-width: 900px) {
+    /* Desktop-specific styles will go here */
+}
