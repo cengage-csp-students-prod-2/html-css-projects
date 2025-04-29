@@ -1,27 +1,26 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: `table` collapsed border and padding set to 2%
-Reason: Assertion failed: The table element does not have a padding of 2%
-Error : AssertionError - The table element does not have a padding of 2%
-Timestamp: 2025-04-29 04:26:34.507383
+Reason: None
+Timestamp: 2025-04-29 04:27:32.046697
 
 Status: PASSED!
 Check: 2
 Test: `tr` collapsed border and padding set to 2%
 Reason: None
-Timestamp: 2025-04-29 04:26:34.526230
+Timestamp: 2025-04-29 04:27:32.064687
 
 Status: FAILED!
 Check: 3
 Test: `th` collapsed border and padding set to 2%
 Reason: Assertion failed: The th element does not have a padding of 2%
 Error : AssertionError - The th element does not have a padding of 2%
-Timestamp: 2025-04-29 04:26:34.544128
+Timestamp: 2025-04-29 04:27:32.083246
 
 Status: FAILED!
 Check: 4
 Test: `td` collapsed border and padding set to 2%
 Reason: Assertion failed: The td element does not have a padding of 2%
 Error : AssertionError - The td element does not have a padding of 2%
-Timestamp: 2025-04-29 04:26:34.562300
+Timestamp: 2025-04-29 04:27:32.101527
