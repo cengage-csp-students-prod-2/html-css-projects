@@ -1,19 +1,21 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
-Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-29 04:36:49.580050
+Reason: Unable to find 'Author: firstname lastname' in the program.
+Error : str - AssertionError
+Timestamp: 2025-04-29 04:45:42.161836
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Update the comment with todays date (MM/DD/YYYY)
-Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-29 04:36:49.580302
+Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
+Error : str - AssertionError
+Timestamp: 2025-04-29 04:45:42.162241
 
 Status: FAILED!
 Check: 3
 Test: Update the comment with the **file name**
 Reason: Unable to find 'File Name: index.html' in the program.
 Error : str - AssertionError
-Timestamp: 2025-04-29 04:36:49.580485
+Timestamp: 2025-04-29 04:45:42.162509
