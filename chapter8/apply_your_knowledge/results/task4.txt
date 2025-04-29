@@ -3,45 +3,40 @@ Status: PASSED!
 Check: 1
 Test: The table element has been added to the file index.html
 Reason: None
-Timestamp: 2025-04-29 04:20:34.623632
+Timestamp: 2025-04-29 04:21:58.595205
 
 Status: PASSED!
 Check: 2
 Test: The caption element has been added to the file index.html
 Reason: None
-Timestamp: 2025-04-29 04:20:34.624921
+Timestamp: 2025-04-29 04:21:58.596787
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Row 1 has the correct values
-Reason: Assertion failed: Row 1 should have 5 <th> elements
-Error : AssertionError - Row 1 should have 5 <th> elements
-Timestamp: 2025-04-29 04:20:34.626066
+Reason: None
+Timestamp: 2025-04-29 04:21:58.598355
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Row 2 has the correct values
-Reason: Assertion failed: Row 2 should have 1 <th> element
-Error : AssertionError - Row 2 should have 1 <th> element
-Timestamp: 2025-04-29 04:20:34.627345
+Reason: None
+Timestamp: 2025-04-29 04:21:58.599819
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Row 3 has the correct values
-Reason: Assertion failed: Row 3 should have 1 <th> element
-Error : AssertionError - Row 3 should have 1 <th> element
-Timestamp: 2025-04-29 04:20:34.628632
+Reason: None
+Timestamp: 2025-04-29 04:21:58.601370
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Row 4 has the correct values
-Reason: Assertion failed: Row 4 should have 1 <th> element
-Error : AssertionError - Row 4 should have 1 <th> element
-Timestamp: 2025-04-29 04:20:34.630192
+Reason: None
+Timestamp: 2025-04-29 04:21:58.602810
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: Row 5 has the correct values
-Reason: Assertion failed: Could not find at least five <tr> element
-Error : AssertionError - Could not find at least five <tr> element
-Timestamp: 2025-04-29 04:20:34.631349
+Reason: None
+Timestamp: 2025-04-29 04:21:58.604365
