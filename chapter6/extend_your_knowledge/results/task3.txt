@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: add a declaration to specify a `linear-gradient` to the **left**, use **#d4f7ec** and **#448d76**  for color values, and use   **90%** as the color stop
-Reason: Assertion failed: linear-gradient colors and stops are not correct
-Error : AssertionError - linear-gradient colors and stops are not correct
-Timestamp: 2025-04-29 06:51:10.674340
+Reason: None
+Timestamp: 2025-04-29 06:52:17.114944
