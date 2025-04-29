@@ -4,18 +4,18 @@ Check: 1
 Test: Add the following `link` elements within the `head` element, just above the closing `head` tag
 Reason: Assertion failed: Cannot find <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png"> in index.html
 Error : AssertionError - Cannot find <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png"> in index.html
-Timestamp: 2025-04-29 08:44:47.596707
+Timestamp: 2025-04-29 08:47:32.473217
 
 Status: FAILED!
 Check: 2
 Test: Add the following `link` elements within the `head` element, just above the closing `head` tag
 Reason: Assertion failed: Cannot find <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png"> in index.html
 Error : AssertionError - Cannot find <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png"> in index.html
-Timestamp: 2025-04-29 08:44:47.598133
+Timestamp: 2025-04-29 08:47:32.474714
 
 Status: FAILED!
 Check: 3
 Test: Add the following `link` elements within the `head` element, just above the closing `head` tag
 Reason: Assertion failed: Cannot find <link rel="shortcut icon" sizes="192x192" href="images/android-chrome-192.png"> in index.html
 Error : AssertionError - Cannot find <link rel="shortcut icon" sizes="192x192" href="images/android-chrome-192.png"> in index.html
-Timestamp: 2025-04-29 08:44:47.599620
+Timestamp: 2025-04-29 08:47:32.476072

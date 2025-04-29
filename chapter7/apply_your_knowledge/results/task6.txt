@@ -3,157 +3,111 @@ Status: FAILED!
 Check: 1
 Test: add a new style rule for the `section` element that sets the `background-color` to **#183440**, the `color` to **#fff**, top margin to **4%**, and padding to **3%**
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"section"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x561c5ef93cea <unknown>
-#1 0x561c5ea445f0 <unknown>
-#2 0x561c5ea95a33 <unknown>
-#3 0x561c5ea95c21 <unknown>
-#4 0x561c5eae4274 <unknown>
-#5 0x561c5eabb68d <unknown>
-#6 0x561c5eae1660 <unknown>
-#7 0x561c5eabb433 <unknown>
-#8 0x561c5ea87ea3 <unknown>
-#9 0x561c5ea88b01 <unknown>
-#10 0x561c5ef58b3b <unknown>
-#11 0x561c5ef5ca21 <unknown>
-#12 0x561c5ef3fc32 <unknown>
-#13 0x561c5ef5d594 <unknown>
-#14 0x561c5ef23eef <unknown>
-#15 0x561c5ef81d98 <unknown>
-#16 0x561c5ef81f76 <unknown>
-#17 0x561c5ef92b36 <unknown>
-#18 0x7f4e2ea9caa4 <unknown>
-#19 0x7f4e2eb29c3c <unknown>
+#0 0x55a1f0c9975a <unknown>
+#1 0x55a1f074c4b0 <unknown>
+#2 0x55a1f079d9b3 <unknown>
+#3 0x55a1f079dba1 <unknown>
+#4 0x55a1f07ec1f4 <unknown>
+#5 0x55a1f07c35bd <unknown>
+#6 0x55a1f07e95e0 <unknown>
+#7 0x55a1f07c3363 <unknown>
+#8 0x55a1f078fd63 <unknown>
+#9 0x55a1f07909c1 <unknown>
+#10 0x55a1f0c5ea6b <unknown>
+#11 0x55a1f0c62951 <unknown>
+#12 0x55a1f0c46b62 <unknown>
+#13 0x55a1f0c634c4 <unknown>
+#14 0x55a1f0c2b13f <unknown>
+#15 0x55a1f0c876f8 <unknown>
+#16 0x55a1f0c878d6 <unknown>
+#17 0x55a1f0c985a6 <unknown>
+#18 0x7f9d7bc9caa4 <unknown>
+#19 0x7f9d7bd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"section"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x561c5ef93cea <unknown>
-#1 0x561c5ea445f0 <unknown>
-#2 0x561c5ea95a33 <unknown>
-#3 0x561c5ea95c21 <unknown>
-#4 0x561c5eae4274 <unknown>
-#5 0x561c5eabb68d <unknown>
-#6 0x561c5eae1660 <unknown>
-#7 0x561c5eabb433 <unknown>
-#8 0x561c5ea87ea3 <unknown>
-#9 0x561c5ea88b01 <unknown>
-#10 0x561c5ef58b3b <unknown>
-#11 0x561c5ef5ca21 <unknown>
-#12 0x561c5ef3fc32 <unknown>
-#13 0x561c5ef5d594 <unknown>
-#14 0x561c5ef23eef <unknown>
-#15 0x561c5ef81d98 <unknown>
-#16 0x561c5ef81f76 <unknown>
-#17 0x561c5ef92b36 <unknown>
-#18 0x7f4e2ea9caa4 <unknown>
-#19 0x7f4e2eb29c3c <unknown>
+#0 0x55a1f0c9975a <unknown>
+#1 0x55a1f074c4b0 <unknown>
+#2 0x55a1f079d9b3 <unknown>
+#3 0x55a1f079dba1 <unknown>
+#4 0x55a1f07ec1f4 <unknown>
+#5 0x55a1f07c35bd <unknown>
+#6 0x55a1f07e95e0 <unknown>
+#7 0x55a1f07c3363 <unknown>
+#8 0x55a1f078fd63 <unknown>
+#9 0x55a1f07909c1 <unknown>
+#10 0x55a1f0c5ea6b <unknown>
+#11 0x55a1f0c62951 <unknown>
+#12 0x55a1f0c46b62 <unknown>
+#13 0x55a1f0c634c4 <unknown>
+#14 0x55a1f0c2b13f <unknown>
+#15 0x55a1f0c876f8 <unknown>
+#16 0x55a1f0c878d6 <unknown>
+#17 0x55a1f0c985a6 <unknown>
+#18 0x7f9d7bc9caa4 <unknown>
+#19 0x7f9d7bd29c3c <unknown>
 
-Timestamp: 2025-04-29 08:44:41.342794
+Timestamp: 2025-04-29 08:47:29.092340
 
 Status: FAILED!
 Check: 2
 Test: create a new style rule for the `article` element that sets the top margin to **1%** and padding to **2%**
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"article"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x561c5ef93cea <unknown>
-#1 0x561c5ea445f0 <unknown>
-#2 0x561c5ea95a33 <unknown>
-#3 0x561c5ea95c21 <unknown>
-#4 0x561c5eae4274 <unknown>
-#5 0x561c5eabb68d <unknown>
-#6 0x561c5eae1660 <unknown>
-#7 0x561c5eabb433 <unknown>
-#8 0x561c5ea87ea3 <unknown>
-#9 0x561c5ea88b01 <unknown>
-#10 0x561c5ef58b3b <unknown>
-#11 0x561c5ef5ca21 <unknown>
-#12 0x561c5ef3fc32 <unknown>
-#13 0x561c5ef5d594 <unknown>
-#14 0x561c5ef23eef <unknown>
-#15 0x561c5ef81d98 <unknown>
-#16 0x561c5ef81f76 <unknown>
-#17 0x561c5ef92b36 <unknown>
-#18 0x7f4e2ea9caa4 <unknown>
-#19 0x7f4e2eb29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"article"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x561c5ef93cea <unknown>
-#1 0x561c5ea445f0 <unknown>
-#2 0x561c5ea95a33 <unknown>
-#3 0x561c5ea95c21 <unknown>
-#4 0x561c5eae4274 <unknown>
-#5 0x561c5eabb68d <unknown>
-#6 0x561c5eae1660 <unknown>
-#7 0x561c5eabb433 <unknown>
-#8 0x561c5ea87ea3 <unknown>
-#9 0x561c5ea88b01 <unknown>
-#10 0x561c5ef58b3b <unknown>
-#11 0x561c5ef5ca21 <unknown>
-#12 0x561c5ef3fc32 <unknown>
-#13 0x561c5ef5d594 <unknown>
-#14 0x561c5ef23eef <unknown>
-#15 0x561c5ef81d98 <unknown>
-#16 0x561c5ef81f76 <unknown>
-#17 0x561c5ef92b36 <unknown>
-#18 0x7f4e2ea9caa4 <unknown>
-#19 0x7f4e2eb29c3c <unknown>
-
-Timestamp: 2025-04-29 08:44:42.376046
+Reason: Assertion failed: Top margin not set to 1% in article element in index.html
+Error : AssertionError - Top margin not set to 1% in article element in index.html
+Timestamp: 2025-04-29 08:47:29.166577
 
 Status: FAILED!
 Check: 3
 Test: create a new style rule for the `aside` element that sets the `background-color` to  **rgba(24, 52, 64, 0.3)**,  padding to **2%**,  top margin to **1%**, `color` to **#183440**, and a `box-shadow` with values of  **4px 4px 10px #183440**
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"aside"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x561c5ef93cea <unknown>
-#1 0x561c5ea445f0 <unknown>
-#2 0x561c5ea95a33 <unknown>
-#3 0x561c5ea95c21 <unknown>
-#4 0x561c5eae4274 <unknown>
-#5 0x561c5eabb68d <unknown>
-#6 0x561c5eae1660 <unknown>
-#7 0x561c5eabb433 <unknown>
-#8 0x561c5ea87ea3 <unknown>
-#9 0x561c5ea88b01 <unknown>
-#10 0x561c5ef58b3b <unknown>
-#11 0x561c5ef5ca21 <unknown>
-#12 0x561c5ef3fc32 <unknown>
-#13 0x561c5ef5d594 <unknown>
-#14 0x561c5ef23eef <unknown>
-#15 0x561c5ef81d98 <unknown>
-#16 0x561c5ef81f76 <unknown>
-#17 0x561c5ef92b36 <unknown>
-#18 0x7f4e2ea9caa4 <unknown>
-#19 0x7f4e2eb29c3c <unknown>
+#0 0x55a1f0c9975a <unknown>
+#1 0x55a1f074c4b0 <unknown>
+#2 0x55a1f079d9b3 <unknown>
+#3 0x55a1f079dba1 <unknown>
+#4 0x55a1f07ec1f4 <unknown>
+#5 0x55a1f07c35bd <unknown>
+#6 0x55a1f07e95e0 <unknown>
+#7 0x55a1f07c3363 <unknown>
+#8 0x55a1f078fd63 <unknown>
+#9 0x55a1f07909c1 <unknown>
+#10 0x55a1f0c5ea6b <unknown>
+#11 0x55a1f0c62951 <unknown>
+#12 0x55a1f0c46b62 <unknown>
+#13 0x55a1f0c634c4 <unknown>
+#14 0x55a1f0c2b13f <unknown>
+#15 0x55a1f0c876f8 <unknown>
+#16 0x55a1f0c878d6 <unknown>
+#17 0x55a1f0c985a6 <unknown>
+#18 0x7f9d7bc9caa4 <unknown>
+#19 0x7f9d7bd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"aside"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x561c5ef93cea <unknown>
-#1 0x561c5ea445f0 <unknown>
-#2 0x561c5ea95a33 <unknown>
-#3 0x561c5ea95c21 <unknown>
-#4 0x561c5eae4274 <unknown>
-#5 0x561c5eabb68d <unknown>
-#6 0x561c5eae1660 <unknown>
-#7 0x561c5eabb433 <unknown>
-#8 0x561c5ea87ea3 <unknown>
-#9 0x561c5ea88b01 <unknown>
-#10 0x561c5ef58b3b <unknown>
-#11 0x561c5ef5ca21 <unknown>
-#12 0x561c5ef3fc32 <unknown>
-#13 0x561c5ef5d594 <unknown>
-#14 0x561c5ef23eef <unknown>
-#15 0x561c5ef81d98 <unknown>
-#16 0x561c5ef81f76 <unknown>
-#17 0x561c5ef92b36 <unknown>
-#18 0x7f4e2ea9caa4 <unknown>
-#19 0x7f4e2eb29c3c <unknown>
+#0 0x55a1f0c9975a <unknown>
+#1 0x55a1f074c4b0 <unknown>
+#2 0x55a1f079d9b3 <unknown>
+#3 0x55a1f079dba1 <unknown>
+#4 0x55a1f07ec1f4 <unknown>
+#5 0x55a1f07c35bd <unknown>
+#6 0x55a1f07e95e0 <unknown>
+#7 0x55a1f07c3363 <unknown>
+#8 0x55a1f078fd63 <unknown>
+#9 0x55a1f07909c1 <unknown>
+#10 0x55a1f0c5ea6b <unknown>
+#11 0x55a1f0c62951 <unknown>
+#12 0x55a1f0c46b62 <unknown>
+#13 0x55a1f0c634c4 <unknown>
+#14 0x55a1f0c2b13f <unknown>
+#15 0x55a1f0c876f8 <unknown>
+#16 0x55a1f0c878d6 <unknown>
+#17 0x55a1f0c985a6 <unknown>
+#18 0x7f9d7bc9caa4 <unknown>
+#19 0x7f9d7bd29c3c <unknown>
 
-Timestamp: 2025-04-29 08:44:43.405105
+Timestamp: 2025-04-29 08:47:30.199913
