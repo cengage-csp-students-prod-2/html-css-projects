@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a style rule for the `caption` element that sets the `font-size` to **2em**
-Reason: Assertion failed: The caption element does not have a font-size of 2em
-Error : AssertionError - The caption element does not have a font-size of 2em
-Timestamp: 2025-04-29 04:22:57.581152
+Reason: None
+Timestamp: 2025-04-29 04:25:16.520167
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Create a style rule for the `caption` element that sets the `padding` to **2%**
-Reason: Assertion failed: The caption element does not have a padding of 2%
-Error : AssertionError - The caption element does not have a padding of 2%
-Timestamp: 2025-04-29 04:22:57.595238
+Reason: None
+Timestamp: 2025-04-29 04:25:16.531021
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Create a style rule for the `caption` element that sets the `margin-top` to **2%**
-Reason: Assertion failed: The caption element does not have a margin-top of 2%
-Error : AssertionError - The caption element does not have a margin-top of 2%
-Timestamp: 2025-04-29 04:22:57.608240
+Reason: None
+Timestamp: 2025-04-29 04:25:16.546206

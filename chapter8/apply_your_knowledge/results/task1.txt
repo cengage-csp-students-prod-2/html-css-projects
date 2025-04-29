@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Could not find 'Author: firstname lastname'
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-29 04:22:56.114584
+Timestamp: 2025-04-29 04:25:06.786743
 
 Status: PASSED!
 Check: 2
 Test: "Date" added to comment section of the file index.html
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-29 04:22:56.114853
+Timestamp: 2025-04-29 04:25:06.786993
 
 Status: PASSED!
 Check: 4
 Test: "Name" added to comment section of the file styles.css
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-29 04:22:56.116653
+Timestamp: 2025-04-29 04:25:06.788671
 
 Status: PASSED!
 Check: 5
 Test: "Date" added to comment section of the file styles.css
 Reason: 'Date: DD/MM/YYYY' was found in the program output.None
-Timestamp: 2025-04-29 04:22:56.116770
+Timestamp: 2025-04-29 04:25:06.788774

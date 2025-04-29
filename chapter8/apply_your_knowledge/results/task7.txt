@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a style rule for `th` and `td` selectors that sets a `border` with the values **1px solid #7188bb**.
-Reason: Assertion failed: The th element does not have a border of 1px solid #7188bb
-Error : AssertionError - The th element does not have a border of 1px solid #7188bb
-Timestamp: 2025-04-29 04:22:57.645918
+Reason: None
+Timestamp: 2025-04-29 04:25:16.589774
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Create a style rule for `td` that center-aligns its text.
-Reason: Assertion failed: The td element does not center-align its text
-Error : AssertionError - The td element does not center-align its text
-Timestamp: 2025-04-29 04:22:57.660101
+Reason: None
+Timestamp: 2025-04-29 04:25:16.602261
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Create a style rule for `tr` that sets the background color to **#d3e788** for odd rows.
-Reason: Assertion failed: The tr element does not have a background color of #d3e788 for odd rows
-Error : AssertionError - The tr element does not have a background color of #d3e788 for odd rows
-Timestamp: 2025-04-29 04:22:57.674157
+Reason: None
+Timestamp: 2025-04-29 04:25:16.615215
