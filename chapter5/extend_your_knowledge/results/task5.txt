@@ -4,18 +4,18 @@ Check: 1
 Test: Add a declaration for the `position` property with a value of  absolute
 Reason: Assertion failed: The `position` property does not have a value of absolute.
 Error : AssertionError - The `position` property does not have a value of absolute.
-Timestamp: 2025-04-30 09:42:32.519593
+Timestamp: 2025-04-30 09:43:31.169110
 
 Status: FAILED!
 Check: 2
 Test: Add a declaration for the `bottom` property and specify a value of 0
 Reason: Assertion failed: The `bottom` property does not have a value of 0.
 Error : AssertionError - The `bottom` property does not have a value of 0.
-Timestamp: 2025-04-30 09:42:32.532580
+Timestamp: 2025-04-30 09:43:31.181861
 
 Status: FAILED!
 Check: 3
 Test: Add a declaration for the `right` property and specify a value of 0
 Reason: Assertion failed: The `right` property does not have a value of 0.
 Error : AssertionError - The `right` property does not have a value of 0.
-Timestamp: 2025-04-30 09:42:32.542983
+Timestamp: 2025-04-30 09:43:31.192947
