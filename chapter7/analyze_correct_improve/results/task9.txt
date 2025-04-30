@@ -4,25 +4,25 @@ Check: 1
 Test: Add a favicon to the head
 Reason: Assertion failed: Missing link with href to favicon.ico in head
 Error : AssertionError - Missing link with href to favicon.ico in head
-Timestamp: 2025-04-30 01:23:01.741875
+Timestamp: 2025-04-30 01:23:50.668056
 
 Status: FAILED!
 Check: 2
 Test: Add a favicon shortcut to the head
 Reason: Assertion failed: Cannot find link with href to favicon-32.png in head
 Error : AssertionError - Cannot find link with href to favicon-32.png in head
-Timestamp: 2025-04-30 01:23:01.745657
+Timestamp: 2025-04-30 01:23:50.671729
 
 Status: FAILED!
 Check: 3
 Test: Add an iOS favicon to the head
 Reason: Assertion failed: Missing link with href to apple-touch-icon.png in head
 Error : AssertionError - Missing link with href to apple-touch-icon.png in head
-Timestamp: 2025-04-30 01:23:01.749868
+Timestamp: 2025-04-30 01:23:50.676139
 
 Status: FAILED!
 Check: 4
 Test: Add an Android favicon to the head
 Reason: Assertion failed: Missing link with href to android-chrome-192.png in head
 Error : AssertionError - Missing link with href to android-chrome-192.png in head
-Timestamp: 2025-04-30 01:23:01.753484
+Timestamp: 2025-04-30 01:23:50.679734
