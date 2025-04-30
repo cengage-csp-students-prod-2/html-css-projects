@@ -4,32 +4,32 @@ Check: 1
 Test: **ffe5dc** (`body` `background-color`), 
 Reason: Assertion failed: body background-color is not correct
 Error : AssertionError - body background-color is not correct
-Timestamp: 2025-04-30 07:30:31.016952
+Timestamp: 2025-04-30 07:34:02.333593
 
 Status: FAILED!
 Check: 2
 Test: **fd4d0c** (table border color)
 Reason: Assertion failed: table border-color is not correct
 Error : AssertionError - table border-color is not correct
-Timestamp: 2025-04-30 07:30:31.033674
+Timestamp: 2025-04-30 07:34:02.351468
 
 Status: FAILED!
 Check: 3
 Test: **792101** (box shadow color)
 Reason: Assertion failed: table box-shadow is not correct
 Error : AssertionError - table box-shadow is not correct
-Timestamp: 2025-04-30 07:30:31.046362
+Timestamp: 2025-04-30 07:34:02.365250
 
 Status: FAILED!
 Check: 4
 Test: **a22c02** (table data border color)
 Reason: Assertion failed: table data border-color is not correct
 Error : AssertionError - table data border-color is not correct
-Timestamp: 2025-04-30 07:30:31.060091
+Timestamp: 2025-04-30 07:34:02.380259
 
 Status: FAILED!
 Check: 5
 Test: **fe9772** (odd rows background color)
 Reason: Assertion failed: odd rows background-color is not correct
 Error : AssertionError - odd rows background-color is not correct
-Timestamp: 2025-04-30 07:30:31.082883
+Timestamp: 2025-04-30 07:34:02.404979
