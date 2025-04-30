@@ -88,6 +88,8 @@ footer {
     display: grid; 
     grid-template-columns: repeat(3, 1fr); 
     grid-gap: 20px; 
+}    
+
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 700px), print {
     aside {
