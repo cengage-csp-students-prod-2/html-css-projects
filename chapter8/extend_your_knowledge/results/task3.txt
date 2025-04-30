@@ -3,22 +3,23 @@ Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-30 06:59:17.359691
+Timestamp: 2025-04-30 07:02:28.534199
 
 Status: PASSED!
 Check: 2
 Test: Update the comment with todays date (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-30 06:59:17.359822
+Timestamp: 2025-04-30 07:02:28.534378
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with the **file name**
 Reason: 'File Name: styles.css' was found in the program output.None
-Timestamp: 2025-04-30 06:59:17.359985
+Timestamp: 2025-04-30 07:02:28.534613
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: Link index.html to the styles.css file
-Reason: None
-Timestamp: 2025-04-30 06:59:17.361558
+Reason: Assertion failed: Link element not found
+Error : AssertionError - Link element not found
+Timestamp: 2025-04-30 07:02:28.537970
