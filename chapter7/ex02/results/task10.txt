@@ -3,63 +3,63 @@ Status: FAILED!
 Check: 1
 Test: Add a declaration to the `nav li a:hover` style rule that sets the `opacity` to **0.5**.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55574766fcea <unknown>
-#1 0x5557471205f0 <unknown>
-#2 0x555747171a33 <unknown>
-#3 0x555747171c21 <unknown>
-#4 0x5557471c0274 <unknown>
-#5 0x55574719768d <unknown>
-#6 0x5557471bd660 <unknown>
-#7 0x555747197433 <unknown>
-#8 0x555747163ea3 <unknown>
-#9 0x555747164b01 <unknown>
-#10 0x555747634b3b <unknown>
-#11 0x555747638a21 <unknown>
-#12 0x55574761bc32 <unknown>
-#13 0x555747639594 <unknown>
-#14 0x5557475ffeef <unknown>
-#15 0x55574765dd98 <unknown>
-#16 0x55574765df76 <unknown>
-#17 0x55574766eb36 <unknown>
-#18 0x7fd88d49caa4 <unknown>
-#19 0x7fd88d529c3c <unknown>
+#0 0x563a2644975a <unknown>
+#1 0x563a25efc4b0 <unknown>
+#2 0x563a25f4d9b3 <unknown>
+#3 0x563a25f4dba1 <unknown>
+#4 0x563a25f9c1f4 <unknown>
+#5 0x563a25f735bd <unknown>
+#6 0x563a25f995e0 <unknown>
+#7 0x563a25f73363 <unknown>
+#8 0x563a25f3fd63 <unknown>
+#9 0x563a25f409c1 <unknown>
+#10 0x563a2640ea6b <unknown>
+#11 0x563a26412951 <unknown>
+#12 0x563a263f6b62 <unknown>
+#13 0x563a264134c4 <unknown>
+#14 0x563a263db13f <unknown>
+#15 0x563a264376f8 <unknown>
+#16 0x563a264378d6 <unknown>
+#17 0x563a264485a6 <unknown>
+#18 0x7f576549caa4 <unknown>
+#19 0x7f5765529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55574766fcea <unknown>
-#1 0x5557471205f0 <unknown>
-#2 0x555747171a33 <unknown>
-#3 0x555747171c21 <unknown>
-#4 0x5557471c0274 <unknown>
-#5 0x55574719768d <unknown>
-#6 0x5557471bd660 <unknown>
-#7 0x555747197433 <unknown>
-#8 0x555747163ea3 <unknown>
-#9 0x555747164b01 <unknown>
-#10 0x555747634b3b <unknown>
-#11 0x555747638a21 <unknown>
-#12 0x55574761bc32 <unknown>
-#13 0x555747639594 <unknown>
-#14 0x5557475ffeef <unknown>
-#15 0x55574765dd98 <unknown>
-#16 0x55574765df76 <unknown>
-#17 0x55574766eb36 <unknown>
-#18 0x7fd88d49caa4 <unknown>
-#19 0x7fd88d529c3c <unknown>
+#0 0x563a2644975a <unknown>
+#1 0x563a25efc4b0 <unknown>
+#2 0x563a25f4d9b3 <unknown>
+#3 0x563a25f4dba1 <unknown>
+#4 0x563a25f9c1f4 <unknown>
+#5 0x563a25f735bd <unknown>
+#6 0x563a25f995e0 <unknown>
+#7 0x563a25f73363 <unknown>
+#8 0x563a25f3fd63 <unknown>
+#9 0x563a25f409c1 <unknown>
+#10 0x563a2640ea6b <unknown>
+#11 0x563a26412951 <unknown>
+#12 0x563a263f6b62 <unknown>
+#13 0x563a264134c4 <unknown>
+#14 0x563a263db13f <unknown>
+#15 0x563a264376f8 <unknown>
+#16 0x563a264378d6 <unknown>
+#17 0x563a264485a6 <unknown>
+#18 0x7f576549caa4 <unknown>
+#19 0x7f5765529c3c <unknown>
 
-Timestamp: 2025-04-30 02:39:03.685085
+Timestamp: 2025-04-30 02:39:48.190232
 
 Status: PASSED!
 Check: 2
 Test: Add a style rule for the `grid` class selector that sets the grid template columns to a **three column** layout, and sets the grid gap to **30px**.
 Reason: None
-Timestamp: 2025-04-30 02:39:03.741005
+Timestamp: 2025-04-30 02:39:48.215032
 
 Status: PASSED!
 Check: 3
 Test: Add a style rule for the `aside` element that sets the grid column value to  **1 / span 3**,   and set the font size to **2em**.
 Reason: None
-Timestamp: 2025-04-30 02:39:03.762391
+Timestamp: 2025-04-30 02:39:48.236029
