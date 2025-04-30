@@ -3,28 +3,28 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-30 03:58:21.227514
+Timestamp: 2025-04-30 03:59:58.698788
 
 Status: PASSED!
 Check: 2
 Test: "Date" added to comment section of the file index.html
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-30 03:58:21.227880
+Timestamp: 2025-04-30 03:59:58.699036
 
 Status: PASSED!
 Check: 3
 Test: The link tag in the index.html file links to styles.css
 Reason: None
-Timestamp: 2025-04-30 03:58:21.230820
+Timestamp: 2025-04-30 03:59:58.700655
 
 Status: PASSED!
 Check: 4
 Test: "Name" added to comment section of the file styles.css
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-30 03:58:21.231133
+Timestamp: 2025-04-30 03:59:58.700856
 
 Status: PASSED!
 Check: 5
 Test: "Date" added to comment section of the file styles.css
 Reason: 'Date: DD/MM/YYYY' was found in the program output.None
-Timestamp: 2025-04-30 03:58:21.231304
+Timestamp: 2025-04-30 03:59:58.700957

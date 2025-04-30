@@ -1,19 +1,21 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Create a style rule for the `form` element that sets the `width` to **80%**,   sets the top and bottom margins to **zero**, and the left and right margins to   **auto**
-Reason: None
-Timestamp: 2025-04-30 03:58:22.881290
+Reason: Assertion failed: The width of the form element should be set to 80%
+Error : AssertionError - The width of the form element should be set to 80%
+Timestamp: 2025-04-30 04:00:09.096221
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the `grid` class that sets the `display` to a **grid**, sets the grid template columns value to **auto auto**, and sets the grid gap to   **20px**
-Reason: Assertion failed: The grid template columns value of the grid class should be set to auto auto
-Error : AssertionError - The grid template columns value of the grid class should be set to auto auto
-Timestamp: 2025-04-30 03:58:22.903269
+Reason: Assertion failed: The display property of the grid class should be set to grid
+Error : AssertionError - The display property of the grid class should be set to grid
+Timestamp: 2025-04-30 04:00:09.111122
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Create a style rule for the `btn` class that sets the grid column value to **1 / span 2** and `padding` to **3%**
-Reason: None
-Timestamp: 2025-04-30 03:58:22.921403
+Reason: Assertion failed: The padding of the btn class should be set to 3%
+Error : AssertionError - The padding of the btn class should be set to 3%
+Timestamp: 2025-04-30 04:00:09.136601
