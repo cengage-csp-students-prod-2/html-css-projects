@@ -6,32 +6,32 @@
 
 /* Style for the body element */
 body {
-    background-color: #ffe5dc; /* Set background color to soft peach */
-    font-family: sans-serif; /* Apply sans-serif font to the page */
+    background-color: #ffe5dc; 
+    font-family: sans-serif; 
 }
 
 /* Style for the table element */
 table {
-    border: 8px solid #fd4d0c; /* Set border to #fd4d0c color, 8px thickness, solid style */
-    box-shadow: 12px 12px 10px #792101; /* Set box-shadow with #792101 color, 12px Horizontal Offset, 12px Vertical Offset, 10px blur radius */
+    border: 8px solid #fd4d0c; 
+    box-shadow: 12px 12px 10px #792101; 
     width: 80%;
     margin: auto;
-    border-collapse: collapse; /* For cleaner table lines */
+    border-collapse: collapse; 
 }
 
 /* Style for the td (table data) element */
 td {
-    border: 1px solid #a22c02; /* Set border to #a22c02 color, 1px thickness, solid style */
+    border: 1px solid #a22c02; /
     padding: 8px;
-    text-align: center; /* Center the content */
+    text-align: center; 
 }
 
 /* Style for the odd table rows */
 tbody tr:nth-child(odd) {
-    background-color: #fe9772; /* Set background color of odd rows to #fe9772 */
+    background-color: #fe9772; 
 }
 
 /* Optional: Add a hover effect for table rows */
 tbody tr:hover {
-    background-color: #f5b08b; /* Change background on hover */
+    background-color: #f5b08b;
 }
