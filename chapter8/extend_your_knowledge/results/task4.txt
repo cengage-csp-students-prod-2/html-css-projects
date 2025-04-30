@@ -1,10 +1,9 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: **ffe5dc** (`body` `background-color`), 
-Reason: Assertion failed: body background-color is not correct
-Error : AssertionError - body background-color is not correct
-Timestamp: 2025-04-30 07:48:18.257563
+Reason: None
+Timestamp: 2025-04-30 07:50:07.095919
 
 Status: FAILED!
 Check: 2
@@ -12,52 +11,52 @@ Test: **fd4d0c** (table border color)
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
-Timestamp: 2025-04-30 07:48:19.306533
+Timestamp: 2025-04-30 07:50:08.127925
 
 Status: FAILED!
 Check: 3
@@ -65,52 +64,52 @@ Test: **792101** (box shadow color)
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
-Timestamp: 2025-04-30 07:48:20.346060
+Timestamp: 2025-04-30 07:50:09.156697
 
 Status: FAILED!
 Check: 4
@@ -118,52 +117,52 @@ Test: **a22c02** (table data border color)
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
-Timestamp: 2025-04-30 07:48:21.384956
+Timestamp: 2025-04-30 07:50:10.191028
 
 Status: FAILED!
 Check: 5
@@ -171,49 +170,49 @@ Test: **fe9772** (odd rows background color)
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c05ce6ecea <unknown>
-#1 0x55c05c91f5f0 <unknown>
-#2 0x55c05c970a33 <unknown>
-#3 0x55c05c970c21 <unknown>
-#4 0x55c05c9bf274 <unknown>
-#5 0x55c05c99668d <unknown>
-#6 0x55c05c9bc660 <unknown>
-#7 0x55c05c996433 <unknown>
-#8 0x55c05c962ea3 <unknown>
-#9 0x55c05c963b01 <unknown>
-#10 0x55c05ce33b3b <unknown>
-#11 0x55c05ce37a21 <unknown>
-#12 0x55c05ce1ac32 <unknown>
-#13 0x55c05ce38594 <unknown>
-#14 0x55c05cdfeeef <unknown>
-#15 0x55c05ce5cd98 <unknown>
-#16 0x55c05ce5cf76 <unknown>
-#17 0x55c05ce6db36 <unknown>
-#18 0x7fc96629caa4 <unknown>
-#19 0x7fc966329c3c <unknown>
+#0 0x5565b95fbcea <unknown>
+#1 0x5565b90ac5f0 <unknown>
+#2 0x5565b90fda33 <unknown>
+#3 0x5565b90fdc21 <unknown>
+#4 0x5565b914c274 <unknown>
+#5 0x5565b912368d <unknown>
+#6 0x5565b9149660 <unknown>
+#7 0x5565b9123433 <unknown>
+#8 0x5565b90efea3 <unknown>
+#9 0x5565b90f0b01 <unknown>
+#10 0x5565b95c0b3b <unknown>
+#11 0x5565b95c4a21 <unknown>
+#12 0x5565b95a7c32 <unknown>
+#13 0x5565b95c5594 <unknown>
+#14 0x5565b958beef <unknown>
+#15 0x5565b95e9d98 <unknown>
+#16 0x5565b95e9f76 <unknown>
+#17 0x5565b95fab36 <unknown>
+#18 0x7f11bf49caa4 <unknown>
+#19 0x7f11bf529c3c <unknown>
 
-Timestamp: 2025-04-30 07:48:22.424053
+Timestamp: 2025-04-30 07:50:11.219953
