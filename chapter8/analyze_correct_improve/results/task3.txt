@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The form elements are wrapped in two separate fieldset elements
-Reason: Assertion failed: No fieldset elements found in the index.html file
-Error : AssertionError - No fieldset elements found in the index.html file
-Timestamp: 2025-04-30 03:33:50.270503
+Reason: None
+Timestamp: 2025-04-30 03:38:05.086321
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The first fieldset element contains the first 4 input elements
-Reason: Assertion failed: There should be 2 fieldset elements within the form in the index.html file
-Error : AssertionError - There should be 2 fieldset elements within the form in the index.html file
-Timestamp: 2025-04-30 03:33:50.271950
+Reason: None
+Timestamp: 2025-04-30 03:38:05.087710
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The second fieldset element contains the last 4 input elements
-Reason: Assertion failed: There should be 2 fieldset elements within the form in the index.html file
-Error : AssertionError - There should be 2 fieldset elements within the form in the index.html file
-Timestamp: 2025-04-30 03:33:50.273383
+Reason: None
+Timestamp: 2025-04-30 03:38:05.089207

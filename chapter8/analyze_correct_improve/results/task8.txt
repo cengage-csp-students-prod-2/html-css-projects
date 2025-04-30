@@ -4,14 +4,14 @@ Check: 1
 Test: Create a style rule for the `form` element that sets the `width` to **80%**,   sets the top and bottom margins to **zero**, and the left and right margins to   **auto**
 Reason: Assertion failed: The width of the form element should be set to 80%
 Error : AssertionError - The width of the form element should be set to 80%
-Timestamp: 2025-04-30 03:33:55.023999
+Timestamp: 2025-04-30 03:38:07.941739
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the `grid` class that sets the `display` to a **grid**, sets the grid template columns value to **auto auto**, and sets the grid gap to   **20px**
 Reason: Assertion failed: The display property of the grid class should be set to grid
 Error : AssertionError - The display property of the grid class should be set to grid
-Timestamp: 2025-04-30 03:33:55.038327
+Timestamp: 2025-04-30 03:38:07.956468
 
 Status: FAILED!
 Check: 3
@@ -19,49 +19,49 @@ Test: Create a style rule for the `btn` class that sets the grid column value to
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ba585e1cea <unknown>
-#1 0x55ba580925f0 <unknown>
-#2 0x55ba580e3a33 <unknown>
-#3 0x55ba580e3c21 <unknown>
-#4 0x55ba58132274 <unknown>
-#5 0x55ba5810968d <unknown>
-#6 0x55ba5812f660 <unknown>
-#7 0x55ba58109433 <unknown>
-#8 0x55ba580d5ea3 <unknown>
-#9 0x55ba580d6b01 <unknown>
-#10 0x55ba585a6b3b <unknown>
-#11 0x55ba585aaa21 <unknown>
-#12 0x55ba5858dc32 <unknown>
-#13 0x55ba585ab594 <unknown>
-#14 0x55ba58571eef <unknown>
-#15 0x55ba585cfd98 <unknown>
-#16 0x55ba585cff76 <unknown>
-#17 0x55ba585e0b36 <unknown>
-#18 0x7fae8769caa4 <unknown>
-#19 0x7fae87729c3c <unknown>
+#0 0x56285182ccea <unknown>
+#1 0x5628512dd5f0 <unknown>
+#2 0x56285132ea33 <unknown>
+#3 0x56285132ec21 <unknown>
+#4 0x56285137d274 <unknown>
+#5 0x56285135468d <unknown>
+#6 0x56285137a660 <unknown>
+#7 0x562851354433 <unknown>
+#8 0x562851320ea3 <unknown>
+#9 0x562851321b01 <unknown>
+#10 0x5628517f1b3b <unknown>
+#11 0x5628517f5a21 <unknown>
+#12 0x5628517d8c32 <unknown>
+#13 0x5628517f6594 <unknown>
+#14 0x5628517bceef <unknown>
+#15 0x56285181ad98 <unknown>
+#16 0x56285181af76 <unknown>
+#17 0x56285182bb36 <unknown>
+#18 0x7f038ce9caa4 <unknown>
+#19 0x7f038cf29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
   (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ba585e1cea <unknown>
-#1 0x55ba580925f0 <unknown>
-#2 0x55ba580e3a33 <unknown>
-#3 0x55ba580e3c21 <unknown>
-#4 0x55ba58132274 <unknown>
-#5 0x55ba5810968d <unknown>
-#6 0x55ba5812f660 <unknown>
-#7 0x55ba58109433 <unknown>
-#8 0x55ba580d5ea3 <unknown>
-#9 0x55ba580d6b01 <unknown>
-#10 0x55ba585a6b3b <unknown>
-#11 0x55ba585aaa21 <unknown>
-#12 0x55ba5858dc32 <unknown>
-#13 0x55ba585ab594 <unknown>
-#14 0x55ba58571eef <unknown>
-#15 0x55ba585cfd98 <unknown>
-#16 0x55ba585cff76 <unknown>
-#17 0x55ba585e0b36 <unknown>
-#18 0x7fae8769caa4 <unknown>
-#19 0x7fae87729c3c <unknown>
+#0 0x56285182ccea <unknown>
+#1 0x5628512dd5f0 <unknown>
+#2 0x56285132ea33 <unknown>
+#3 0x56285132ec21 <unknown>
+#4 0x56285137d274 <unknown>
+#5 0x56285135468d <unknown>
+#6 0x56285137a660 <unknown>
+#7 0x562851354433 <unknown>
+#8 0x562851320ea3 <unknown>
+#9 0x562851321b01 <unknown>
+#10 0x5628517f1b3b <unknown>
+#11 0x5628517f5a21 <unknown>
+#12 0x5628517d8c32 <unknown>
+#13 0x5628517f6594 <unknown>
+#14 0x5628517bceef <unknown>
+#15 0x56285181ad98 <unknown>
+#16 0x56285181af76 <unknown>
+#17 0x56285182bb36 <unknown>
+#18 0x7f038ce9caa4 <unknown>
+#19 0x7f038cf29c3c <unknown>
 
-Timestamp: 2025-04-30 03:33:56.065470
+Timestamp: 2025-04-30 03:38:08.986609
