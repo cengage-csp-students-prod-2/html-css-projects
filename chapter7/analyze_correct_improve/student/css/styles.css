@@ -91,11 +91,7 @@ footer {
 }    
 
 @media screen and (min-width: 700px), print {
-    .grid {
-        grid-template-columns: repeat(3, 1fr); /* Ensure 3-column layout on tablets */
-    }
-
     aside {
-        grid-column: span 3; /* Span all columns */
+        grid-column: span 3;
     } 
 }
