@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a style rule for the `fieldset` and `input` elements that sets the bottom margin to **2%**
-Reason: Assertion failed: The bottom margin of the fieldset element should be set to 2%
-Error : AssertionError - The bottom margin of the fieldset element should be set to 2%
-Timestamp: 2025-04-30 03:50:25.778062
+Reason: None
+Timestamp: 2025-04-30 03:52:57.071581
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Create a style rule for the `fieldset` `legend` that sets the `font-size` to **1.25em** and makes the font **bold**
-Reason: Assertion failed: The font size of the legend element should be set to 1.25em found
-Error : AssertionError - The font size of the legend element should be set to 1.25em found
-Timestamp: 2025-04-30 03:50:25.807599
+Reason: None
+Timestamp: 2025-04-30 03:52:57.093193
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Create a style rule for the `label` that sets the `display` to **block** and sets `padding-top` to **3%**
-Reason: Assertion failed: The display of the label element should be set to block
-Error : AssertionError - The display of the label element should be set to block
-Timestamp: 2025-04-30 03:50:25.833698
+Reason: None
+Timestamp: 2025-04-30 03:52:57.163044
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Create a style rule for the `btn` class selector that removes the `border`, sets the top and bottom margin to **zero** and the left and right margin to **auto**, sets the `display` to a **block**, sets the `padding` to **5%**, sets the `background-color` to **003399**, sets the `font-size` to **1.25em**, sets the `border-radius` to **10px**, and sets the `color` to **white** (fff)
-Reason: Assertion failed: The border of the btn class selector should be removed
-Error : AssertionError - The border of the btn class selector should be removed
-Timestamp: 2025-04-30 03:50:25.887448
+Reason: None
+Timestamp: 2025-04-30 03:52:57.219913
