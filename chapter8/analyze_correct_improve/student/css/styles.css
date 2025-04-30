@@ -60,7 +60,7 @@ form {
 	margin: 0 auto;
 }
 	
-.grid {
+grid {
 	display: grid;
 	grid-template-columns: auto auto;
 	grid-gap: 20px;
