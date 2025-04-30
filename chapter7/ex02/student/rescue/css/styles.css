@@ -251,7 +251,30 @@ aside {
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1000px) {
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 30px;
+    }
 
+aside {
+    grid-column: 1 / span 3; /* Aside spans all three columns */
+    font-size: 2em;
+    }
+}
+
+/* Large Desktop Media Query */
+@media screen and (min-width: 1400px) {
+
+    .grid {
+        grid-template-columns: repeat(4, 1fr); /* Four-column layout */
+    }
+
+    aside {
+        grid-column: 1 / span 4; /* Aside spans all four columns */
+        font-size: 3em;
+    }
+}
 nav li a:hover {
     opacity: 0.5; 
 }
