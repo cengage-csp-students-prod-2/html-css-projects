@@ -2,41 +2,41 @@
 Status: FAILED!
 Check: 1
 Test: The third figure element contains an img element with the cow image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.453229
+Reason: Assertion failed: The third figure element does not contain an img element with the cow image.
+Error : AssertionError - The third figure element does not contain an img element with the cow image.
+Timestamp: 2025-04-30 01:52:26.902018
 
 Status: FAILED!
 Check: 2
 Test: The third figure element contains a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.454717
+Reason: Assertion failed: The third figure element does not contain a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
+Error : AssertionError - The third figure element does not contain a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
+Timestamp: 2025-04-30 01:52:26.903965
 
 Status: FAILED!
 Check: 3
 Test: The fourth figure element contains an img element with the goat image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.456022
+Reason: Assertion failed: The fourth figure element does not contain an img element with the goat image.
+Error : AssertionError - The fourth figure element does not contain an img element with the goat image.
+Timestamp: 2025-04-30 01:52:26.905795
 
 Status: FAILED!
 Check: 4
 Test: The fourth figure element contains a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.458389
+Reason: Assertion failed: The fourth figure element does not contain a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
+Error : AssertionError - The fourth figure element does not contain a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
+Timestamp: 2025-04-30 01:52:26.907721
 
 Status: FAILED!
 Check: 5
 Test: The fifth figure element contains an img element with the pig image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.459782
+Reason: Assertion failed: The fifth figure element does not contain an img element with the pig image.
+Error : AssertionError - The fifth figure element does not contain an img element with the pig image.
+Timestamp: 2025-04-30 01:52:26.909794
 
 Status: FAILED!
 Check: 6
 Test: The fifth figure element contains a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.461102
+Reason: Assertion failed: The fifth figure element does not contain a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
+Error : AssertionError - The fifth figure element does not contain a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
+Timestamp: 2025-04-30 01:52:26.911815

@@ -2,105 +2,13 @@
 Status: FAILED!
 Check: 1
 Test: Add a style rule for the `grid` class selector that sets the grid template columns to a **four column** layout in the large desktop media query.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".grid"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x565155c20cea <unknown>
-#1 0x5651556d15f0 <unknown>
-#2 0x565155722a33 <unknown>
-#3 0x565155722c21 <unknown>
-#4 0x565155771274 <unknown>
-#5 0x56515574868d <unknown>
-#6 0x56515576e660 <unknown>
-#7 0x565155748433 <unknown>
-#8 0x565155714ea3 <unknown>
-#9 0x565155715b01 <unknown>
-#10 0x565155be5b3b <unknown>
-#11 0x565155be9a21 <unknown>
-#12 0x565155bccc32 <unknown>
-#13 0x565155bea594 <unknown>
-#14 0x565155bb0eef <unknown>
-#15 0x565155c0ed98 <unknown>
-#16 0x565155c0ef76 <unknown>
-#17 0x565155c1fb36 <unknown>
-#18 0x7f077c49caa4 <unknown>
-#19 0x7f077c529c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".grid"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x565155c20cea <unknown>
-#1 0x5651556d15f0 <unknown>
-#2 0x565155722a33 <unknown>
-#3 0x565155722c21 <unknown>
-#4 0x565155771274 <unknown>
-#5 0x56515574868d <unknown>
-#6 0x56515576e660 <unknown>
-#7 0x565155748433 <unknown>
-#8 0x565155714ea3 <unknown>
-#9 0x565155715b01 <unknown>
-#10 0x565155be5b3b <unknown>
-#11 0x565155be9a21 <unknown>
-#12 0x565155bccc32 <unknown>
-#13 0x565155bea594 <unknown>
-#14 0x565155bb0eef <unknown>
-#15 0x565155c0ed98 <unknown>
-#16 0x565155c0ef76 <unknown>
-#17 0x565155c1fb36 <unknown>
-#18 0x7f077c49caa4 <unknown>
-#19 0x7f077c529c3c <unknown>
-
-Timestamp: 2025-04-30 01:45:25.397110
+Reason: Assertion failed: The 'grid-template-columns' value of the 'grid' class selector is not set to 'auto auto auto auto' in the large desktop media query.
+Error : AssertionError - The 'grid-template-columns' value of the 'grid' class selector is not set to 'auto auto auto auto' in the large desktop media query.
+Timestamp: 2025-04-30 01:52:26.842781
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `aside` element that sets the grid column value to  **1 / span 4**,   and set the font size to  **3em**.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"aside"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x565155c20cea <unknown>
-#1 0x5651556d15f0 <unknown>
-#2 0x565155722a33 <unknown>
-#3 0x565155722c21 <unknown>
-#4 0x565155771274 <unknown>
-#5 0x56515574868d <unknown>
-#6 0x56515576e660 <unknown>
-#7 0x565155748433 <unknown>
-#8 0x565155714ea3 <unknown>
-#9 0x565155715b01 <unknown>
-#10 0x565155be5b3b <unknown>
-#11 0x565155be9a21 <unknown>
-#12 0x565155bccc32 <unknown>
-#13 0x565155bea594 <unknown>
-#14 0x565155bb0eef <unknown>
-#15 0x565155c0ed98 <unknown>
-#16 0x565155c0ef76 <unknown>
-#17 0x565155c1fb36 <unknown>
-#18 0x7f077c49caa4 <unknown>
-#19 0x7f077c529c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"aside"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x565155c20cea <unknown>
-#1 0x5651556d15f0 <unknown>
-#2 0x565155722a33 <unknown>
-#3 0x565155722c21 <unknown>
-#4 0x565155771274 <unknown>
-#5 0x56515574868d <unknown>
-#6 0x56515576e660 <unknown>
-#7 0x565155748433 <unknown>
-#8 0x565155714ea3 <unknown>
-#9 0x565155715b01 <unknown>
-#10 0x565155be5b3b <unknown>
-#11 0x565155be9a21 <unknown>
-#12 0x565155bccc32 <unknown>
-#13 0x565155bea594 <unknown>
-#14 0x565155bb0eef <unknown>
-#15 0x565155c0ed98 <unknown>
-#16 0x565155c0ef76 <unknown>
-#17 0x565155c1fb36 <unknown>
-#18 0x7f077c49caa4 <unknown>
-#19 0x7f077c529c3c <unknown>
-
-Timestamp: 2025-04-30 01:45:26.431029
+Reason: Assertion failed: The 'grid-column' value of the 'aside' element is not set to '1 / span 4' in the large desktop media query.
+Error : AssertionError - The 'grid-column' value of the 'aside' element is not set to '1 / span 4' in the large desktop media query.
+Timestamp: 2025-04-30 01:52:26.861939

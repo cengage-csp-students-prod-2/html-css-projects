@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The main element in gallery.html has a class attribute with a value of grid.
-Reason: KeyError occurred: 'class'
-Error : KeyError - 'class'
-Timestamp: 2025-04-30 01:45:26.441170
+Reason: None
+Timestamp: 2025-04-30 01:52:26.883964
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The div element is replaced with an aside element.
-Reason: Assertion failed: The div element was not replaced with an aside element.
-Error : AssertionError - The div element was not replaced with an aside element.
-Timestamp: 2025-04-30 01:45:26.443021
+Reason: None
+Timestamp: 2025-04-30 01:52:26.886497
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The aside element contains a paragraph with the text 'Meet our friends in need.'.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2025-04-30 01:45:26.444411
+Reason: None
+Timestamp: 2025-04-30 01:52:26.888441

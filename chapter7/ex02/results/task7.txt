@@ -2,55 +2,55 @@
 Status: FAILED!
 Check: 1
 Test: The ninth figure element contains an img element with the bearded-dragon image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.471027
+Reason: Assertion failed: The ninth figure element does not contain an img element with the bearded-dragon image.
+Error : AssertionError - The ninth figure element does not contain an img element with the bearded-dragon image.
+Timestamp: 2025-04-30 01:52:26.925073
 
 Status: FAILED!
 Check: 2
 Test: The ninth figure element contains a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.472502
+Reason: Assertion failed: The ninth figure element does not contain a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
+Error : AssertionError - The ninth figure element does not contain a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
+Timestamp: 2025-04-30 01:52:26.927070
 
 Status: FAILED!
 Check: 3
 Test: The tenth figure element contains an img element with the bird image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.473962
+Reason: Assertion failed: The tenth figure element does not contain an img element with the bird image.
+Error : AssertionError - The tenth figure element does not contain an img element with the bird image.
+Timestamp: 2025-04-30 01:52:26.928992
 
 Status: FAILED!
 Check: 4
 Test: The tenth figure element contains a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.475258
+Reason: Assertion failed: The tenth figure element does not contain a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
+Error : AssertionError - The tenth figure element does not contain a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
+Timestamp: 2025-04-30 01:52:26.930915
 
 Status: FAILED!
 Check: 5
 Test: The eleventh figure element contains an img element with the hedgehog image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.476569
+Reason: Assertion failed: The eleventh figure element does not contain an img element with the hedgehog image.
+Error : AssertionError - The eleventh figure element does not contain an img element with the hedgehog image.
+Timestamp: 2025-04-30 01:52:26.932780
 
 Status: FAILED!
 Check: 6
 Test: The eleventh figure element contains a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.477993
+Reason: Assertion failed: The eleventh figure element does not contain a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
+Error : AssertionError - The eleventh figure element does not contain a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
+Timestamp: 2025-04-30 01:52:26.934690
 
 Status: FAILED!
 Check: 7
 Test: The twelfth figure element contains an img element with the tortoise-pyramid image.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.479297
+Reason: Assertion failed: The twelfth figure element does not contain an img element with the tortoise-pyramid image.
+Error : AssertionError - The twelfth figure element does not contain an img element with the tortoise-pyramid image.
+Timestamp: 2025-04-30 01:52:26.936622
 
 Status: FAILED!
 Check: 8
 Test: The twelfth figure element contains a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
-Reason: Assertion failed: There are not at least 12 figure elements in main.
-Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:45:26.480739
+Reason: Assertion failed: The twelfth figure element does not contain a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
+Error : AssertionError - The twelfth figure element does not contain a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
+Timestamp: 2025-04-30 01:52:26.938505
