@@ -55,23 +55,20 @@ label {
 
 /* Media query for tablet layout */ 
 @media only screen and (min-width: 600px) {
-/* Style rule for the form element */
 form {
-    width: 80%;
-    margin: 0 auto;
+	width: 80%;
+	margin: 0 auto;
 }
-
-/* Style rule for the grid class */
+	
+	/* Style rule for the grid class */
 .grid {
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 20px;
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 20px;
 }
-
-/* Additional style rules for the btn class */
+	
 .btn {
-    grid-column: 1 / span 2;
-    padding: 3%;
-}
-    
+	grid-column: 1 / span 2;
+	padding: 3%;
+	}
 }
