@@ -117,7 +117,7 @@ aside {
     font-style: italic;
     text-align: center;
     border-radius: 15px;
-    text-shadow: 4px 4px 8px #fc7307;
+    text-shadow: 4px 4px 10px #fc7307;
     box-shadow: 4px 4px 10px #183440;
 }
 
@@ -247,5 +247,5 @@ aside {
 
 nav li a:hover {
     opacity: 0.5;
-}
+    }
 }
