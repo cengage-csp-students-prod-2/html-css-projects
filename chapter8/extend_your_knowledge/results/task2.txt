@@ -3,17 +3,17 @@ Status: PASSED!
 Check: 1
 Test: Table head row 1 is set correctly
 Reason: None
-Timestamp: 2025-04-30 08:01:19.628076
+Timestamp: 2025-04-30 08:02:00.295303
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
 Reason: Assertion failed: First th element in second row is incorrect
 Error : AssertionError - First th element in second row is incorrect
-Timestamp: 2025-04-30 08:01:19.629520
+Timestamp: 2025-04-30 08:02:00.296695
 
 Status: PASSED!
 Check: 3
 Test: Table body rows are set correctly
 Reason: None
-Timestamp: 2025-04-30 08:01:19.630886
+Timestamp: 2025-04-30 08:02:00.298042

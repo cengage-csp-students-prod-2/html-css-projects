@@ -3,17 +3,17 @@ Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-30 08:01:19.625979
+Timestamp: 2025-04-30 08:02:00.293147
 
 Status: PASSED!
 Check: 2
 Test: Update the comment with todays date (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-30 08:01:19.626245
+Timestamp: 2025-04-30 08:02:00.293447
 
 Status: FAILED!
 Check: 3
 Test: Update the comment with the **file name**
 Reason: Unable to find 'File Name: index.html' in the program.
 Error : str - AssertionError
-Timestamp: 2025-04-30 08:01:19.626465
+Timestamp: 2025-04-30 08:02:00.293692
