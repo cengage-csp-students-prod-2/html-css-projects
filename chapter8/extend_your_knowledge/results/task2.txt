@@ -2,20 +2,20 @@
 Status: FAILED!
 Check: 1
 Test: Table head row 1 is set correctly
-Reason: Assertion failed: Table head not found
-Error : AssertionError - Table head not found
-Timestamp: 2025-04-30 06:46:06.751924
+Reason: Assertion failed: Table head row count is incorrect, found: 1, expected: 2
+Error : AssertionError - Table head row count is incorrect, found: 1, expected: 2
+Timestamp: 2025-04-30 06:48:12.333666
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
-Reason: Assertion failed: Table head not found
-Error : AssertionError - Table head not found
-Timestamp: 2025-04-30 06:46:06.753482
+Reason: Assertion failed: Table head row count is incorrect, found: 1, expected: 2
+Error : AssertionError - Table head row count is incorrect, found: 1, expected: 2
+Timestamp: 2025-04-30 06:48:12.335618
 
 Status: FAILED!
 Check: 3
 Test: Table body rows are set correctly
-Reason: Assertion failed: Table body not found
-Error : AssertionError - Table body not found
-Timestamp: 2025-04-30 06:46:06.754925
+Reason: Assertion failed: Table body row count is incorrect, found: 7, expected: 5
+Error : AssertionError - Table body row count is incorrect, found: 7, expected: 5
+Timestamp: 2025-04-30 06:48:12.337782
