@@ -92,11 +92,11 @@ footer {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 700px), print {
-    aside {
+aside {
         grid-column: span 3;
-    }
+}
 
-    .grid-container {
+.grid-container {
         display: grid;
-        grid-template-columns: auto auto auto auto;
-      }
+        grid-template-columns: auto auto auto;
+}
