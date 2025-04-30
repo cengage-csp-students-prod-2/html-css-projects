@@ -5,68 +5,82 @@
 -->
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>My Website</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Schedule</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
 <body>
 
     <table>
         <caption>Course Schedule</caption>
-      
         <thead>
-          <tr>
-            <th>Day</th>
-            <th>Time</th>
-            <th>Course</th>
-            <th>Room</th>
-          </tr>
+            <tr>
+                <th>Course</th>
+                <th>Instructor</th>
+                <th>Credits</th>
+                <th>Time</th>
+            </tr>
         </thead>
-      
         <tbody>
-          <tr>
-            <td rowspan="2">Monday</td>
-            <td>8:00 - 10:00</td>
-            <td>Math 101</td>
-            <td>Room A</td>
-          </tr>
-          <tr>
-            <td>10:30 - 12:30</td>
-            <td>English 102</td>
-            <td>Room B</td>
-          </tr>
-          <tr>
-            <td rowspan="2">Tuesday</td>
-            <td>9:00 - 11:00</td>
-            <td>Physics 201</td>
-            <td>Room C</td>
-          </tr>
-          <tr>
-            <td>1:00 - 3:00</td>
-            <td>Chemistry 202</td>
-            <td>Room D</td>
-          </tr>
-          <tr>
-            <td>Wednesday</td>
-            <td>10:00 - 12:00</td>
-            <td colspan="2">Lab Session (All Courses)</td>
-          </tr>
-          <tr>
-            <td>Thursday</td>
-            <td>8:00 - 10:00</td>
-            <td>History 103</td>
-            <td>Room E</td>
-          </tr>
-          <tr>
-            <td>Friday</td>
-            <td>12:00 - 2:00</td>
-            <td>Art 104</td>
-            <td>Room F</td>
-          </tr>
+            <tr>
+                <td><a href="#">Math 101</a></td>
+                <td>Dr. Smith</td>
+                <td>3</td>
+                <td>8:00 AM</td>
+            </tr>
+            <tr>
+                <td><a href="#">History 202</a></td>
+                <td>Ms. Jones</td>
+                <td>3</td>
+                <td>9:30 AM</td>
+            </tr>
+            <tr>
+                <td><a href="#">Science 303</a></td>
+                <td>Mr. Brown</td>
+                <td>4</td>
+                <td>11:00 AM</td>
+            </tr>
+            <tr>
+                <td><a href="#">Literature 404</a></td>
+                <td>Dr. Davis</td>
+                <td>3</td>
+                <td>12:30 PM</td>
+            </tr>
+            <tr>
+                <td><a href="#">Physics 105</a></td>
+                <td>Dr. Wilson</td>
+                <td>4</td>
+                <td>2:00 PM</td>
+            </tr>
+            <tr>
+                <td><a href="#">Chemistry 206</a></td>
+                <td>Ms. Garcia</td>
+                <td>4</td>
+                <td>3:30 PM</td>
+            </tr>
+            <tr>
+                <td><a href="#">Computer Science 307</a></td>
+                <td>Mr. Rodriguez</td>
+                <td>3</td>
+                <td>5:00 PM</td>
+            </tr>
         </tbody>
-      </table>
-      
+    </table>
+
 </body>
 </html>
