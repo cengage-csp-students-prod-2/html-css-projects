@@ -235,17 +235,17 @@ footer a {
 
 /* Large Desktop Media Query */
 @media screen and (min-width: 1400px) {
-    .grid {
-        grid-template-columns: auto auto auto auto;
-        grid-gap: 30px;
-    }
+.grid {
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 30px;
+}
 
-    aside {
-        grid-column: 1 / span 4;
-        font-size: 3em;
-    }
+aside {
+    grid-column: 1 / span 4;
+    font-size: 3em;
+}
 
-    nav li a:hover {
-        opacity: 0.5;
-    }
+nav li a:hover {
+    opacity: 0.5;
+}
 }
