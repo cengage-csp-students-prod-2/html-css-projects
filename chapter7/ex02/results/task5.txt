@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The third figure element contains an img element with the cow image.
-Reason: Assertion failed: The third figure element does not contain an img element with the cow image.
-Error : AssertionError - The third figure element does not contain an img element with the cow image.
-Timestamp: 2025-04-30 01:53:46.182675
+Reason: None
+Timestamp: 2025-04-30 01:57:49.355430
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The third figure element contains a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
-Reason: Assertion failed: The third figure element does not contain a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
-Error : AssertionError - The third figure element does not contain a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
-Timestamp: 2025-04-30 01:53:46.184548
+Reason: None
+Timestamp: 2025-04-30 01:57:49.358100
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The fourth figure element contains an img element with the goat image.
-Reason: Assertion failed: The fourth figure element does not contain an img element with the goat image.
-Error : AssertionError - The fourth figure element does not contain an img element with the goat image.
-Timestamp: 2025-04-30 01:53:46.186429
+Reason: None
+Timestamp: 2025-04-30 01:57:49.360649
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: The fourth figure element contains a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
-Reason: Assertion failed: The fourth figure element does not contain a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
-Error : AssertionError - The fourth figure element does not contain a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
-Timestamp: 2025-04-30 01:53:46.188325
+Reason: None
+Timestamp: 2025-04-30 01:57:49.363461
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: The fifth figure element contains an img element with the pig image.
-Reason: Assertion failed: The fifth figure element does not contain an img element with the pig image.
-Error : AssertionError - The fifth figure element does not contain an img element with the pig image.
-Timestamp: 2025-04-30 01:53:46.190116
+Reason: None
+Timestamp: 2025-04-30 01:57:49.366097
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: The fifth figure element contains a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
-Reason: Assertion failed: The fifth figure element does not contain a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
-Error : AssertionError - The fifth figure element does not contain a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
-Timestamp: 2025-04-30 01:53:46.192000
+Reason: None
+Timestamp: 2025-04-30 01:57:49.368839

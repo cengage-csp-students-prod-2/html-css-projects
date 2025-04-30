@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The sixth figure element contains an img element with the baby-pig image.
-Reason: Assertion failed: The sixth figure element does not contain an img element with the baby-pig image.
-Error : AssertionError - The sixth figure element does not contain an img element with the baby-pig image.
-Timestamp: 2025-04-30 01:53:46.193864
+Reason: None
+Timestamp: 2025-04-30 01:57:49.371471
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The sixth figure element contains a figcaption element with the text 'Squirt is one of Rosie’s babies.'.
-Reason: Assertion failed: The sixth figure element does not contain a figcaption element with the text 'Squirt is one of Rosie’s babies.'.
-Error : AssertionError - The sixth figure element does not contain a figcaption element with the text 'Squirt is one of Rosie’s babies.'.
-Timestamp: 2025-04-30 01:53:46.195809
+Reason: None
+Timestamp: 2025-04-30 01:57:49.374135
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The seventh figure element contains an img element with the horse image.
-Reason: Assertion failed: The seventh figure element does not contain an img element with the horse image.
-Error : AssertionError - The seventh figure element does not contain an img element with the horse image.
-Timestamp: 2025-04-30 01:53:46.197695
+Reason: None
+Timestamp: 2025-04-30 01:57:49.376791
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: The seventh figure element contains a figcaption element with the text 'Muffin has come a long way. She was very thin when she was rescued.'.
-Reason: Assertion failed: The seventh figure element does not contain a figcaption element with the text 'Muffin has come a long way. She was very thin when she was rescued.'.
-Error : AssertionError - The seventh figure element does not contain a figcaption element with the text 'Muffin has come a long way. She was very thin when she was rescued.'.
-Timestamp: 2025-04-30 01:53:46.200189
+Reason: None
+Timestamp: 2025-04-30 01:57:49.379574
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: The eighth figure element contains an img element with the hawk image.
-Reason: Assertion failed: The eighth figure element does not contain an img element with the hawk image.
-Error : AssertionError - The eighth figure element does not contain an img element with the hawk image.
-Timestamp: 2025-04-30 01:53:46.202183
+Reason: None
+Timestamp: 2025-04-30 01:57:49.382203
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: The eighth figure element contains a figcaption element with the text 'Poor Harley was rescued when he was just three weeks old. He is getting big and will be released in about a month.'.
-Reason: Assertion failed: The eighth figure element does not contain a figcaption element with the text 'Poor Harley was rescued when he was just three weeks old. He is getting big and will be released in about a month.'.
-Error : AssertionError - The eighth figure element does not contain a figcaption element with the text 'Poor Harley was rescued when he was just three weeks old. He is getting big and will be released in about a month.'.
-Timestamp: 2025-04-30 01:53:46.204091
+Reason: None
+Timestamp: 2025-04-30 01:57:49.384780

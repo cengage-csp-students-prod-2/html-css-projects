@@ -4,71 +4,25 @@ Check: 1
 Test: Add the `aside`, `figure`, and `figcaption` elements to the CSS reset
 Reason: Assertion failed: The 'aside', 'figure', and 'figcaption' elements are not included in the CSS reset.
 Error : AssertionError - The 'aside', 'figure', and 'figcaption' elements are not included in the CSS reset.
-Timestamp: 2025-04-30 01:53:46.241866
+Timestamp: 2025-04-30 01:57:49.480160
 
 Status: FAILED!
 Check: 2
 Test: Add a new style rule for the `aside` element
 Reason: Assertion failed: The 'aside' element should have a text-align value of 'center'.
 Error : AssertionError - The 'aside' element should have a text-align value of 'center'.
-Timestamp: 2025-04-30 01:53:46.305390
+Timestamp: 2025-04-30 01:57:49.545695
 
 Status: FAILED!
 Check: 3
 Test: Add a new style rule for the `figure` element
 Reason: Assertion failed: The 'figure' element should have a border value of '4px solid #2a1f14'.
 Error : AssertionError - The 'figure' element should have a border value of '4px solid #2a1f14'.
-Timestamp: 2025-04-30 01:53:46.342891
+Timestamp: 2025-04-30 01:57:49.583725
 
 Status: FAILED!
 Check: 4
 Test: Add a new style rule for the `figcaption` element
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"figcaption"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55ad8b02375a <unknown>
-#1 0x55ad8aad64b0 <unknown>
-#2 0x55ad8ab279b3 <unknown>
-#3 0x55ad8ab27ba1 <unknown>
-#4 0x55ad8ab761f4 <unknown>
-#5 0x55ad8ab4d5bd <unknown>
-#6 0x55ad8ab735e0 <unknown>
-#7 0x55ad8ab4d363 <unknown>
-#8 0x55ad8ab19d63 <unknown>
-#9 0x55ad8ab1a9c1 <unknown>
-#10 0x55ad8afe8a6b <unknown>
-#11 0x55ad8afec951 <unknown>
-#12 0x55ad8afd0b62 <unknown>
-#13 0x55ad8afed4c4 <unknown>
-#14 0x55ad8afb513f <unknown>
-#15 0x55ad8b0116f8 <unknown>
-#16 0x55ad8b0118d6 <unknown>
-#17 0x55ad8b0225a6 <unknown>
-#18 0x7fbe86c9caa4 <unknown>
-#19 0x7fbe86d29c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"figcaption"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55ad8b02375a <unknown>
-#1 0x55ad8aad64b0 <unknown>
-#2 0x55ad8ab279b3 <unknown>
-#3 0x55ad8ab27ba1 <unknown>
-#4 0x55ad8ab761f4 <unknown>
-#5 0x55ad8ab4d5bd <unknown>
-#6 0x55ad8ab735e0 <unknown>
-#7 0x55ad8ab4d363 <unknown>
-#8 0x55ad8ab19d63 <unknown>
-#9 0x55ad8ab1a9c1 <unknown>
-#10 0x55ad8afe8a6b <unknown>
-#11 0x55ad8afec951 <unknown>
-#12 0x55ad8afd0b62 <unknown>
-#13 0x55ad8afed4c4 <unknown>
-#14 0x55ad8afb513f <unknown>
-#15 0x55ad8b0116f8 <unknown>
-#16 0x55ad8b0118d6 <unknown>
-#17 0x55ad8b0225a6 <unknown>
-#18 0x7fbe86c9caa4 <unknown>
-#19 0x7fbe86d29c3c <unknown>
-
-Timestamp: 2025-04-30 01:53:47.377344
+Reason: Assertion failed: The 'figcaption' element should have a padding value of '2%'., found: 0px
+Error : AssertionError - The 'figcaption' element should have a padding value of '2%'., found: 0px
+Timestamp: 2025-04-30 01:57:49.605376
