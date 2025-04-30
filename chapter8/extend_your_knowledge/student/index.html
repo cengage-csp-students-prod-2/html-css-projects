@@ -5,68 +5,82 @@
 -->
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>My Website</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Schedule</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        caption {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
 <body>
 
     <table>
         <caption>Course Schedule</caption>
-      
         <thead>
-          <tr>
-            <th>Day</th>
-            <th>Time</th>
-            <th>Course</th>
-            <th>Room</th>
-          </tr>
+            <tr>
+                <th>Day</th>
+                <th>Course</th>
+                <th>Time</th>
+                <th>Instructor</th>
+            </tr>
         </thead>
-      
         <tbody>
-          <tr>
-            <td rowspan="2">Monday</td>
-            <td>8:00 - 10:00</td>
-            <td>Math 101</td>
-            <td>Room A</td>
-          </tr>
-          <tr>
-            <td>10:30 - 12:30</td>
-            <td>English 102</td>
-            <td>Room B</td>
-          </tr>
-          <tr>
-            <td rowspan="2">Tuesday</td>
-            <td>9:00 - 11:00</td>
-            <td>Physics 201</td>
-            <td>Room C</td>
-          </tr>
-          <tr>
-            <td>1:00 - 3:00</td>
-            <td>Chemistry 202</td>
-            <td>Room D</td>
-          </tr>
-          <tr>
-            <td>Wednesday</td>
-            <td>10:00 - 12:00</td>
-            <td colspan="2">Lab Session (All Courses)</td>
-          </tr>
-          <tr>
-            <td>Thursday</td>
-            <td>8:00 - 10:00</td>
-            <td>History 103</td>
-            <td>Room E</td>
-          </tr>
-          <tr>
-            <td>Friday</td>
-            <td>12:00 - 2:00</td>
-            <td>Art 104</td>
-            <td>Room F</td>
-          </tr>
+            <tr>
+                <td rowspan="2">Monday</td>
+                <td>Math 101</td>
+                <td>9:00 AM - 10:30 AM</td>
+                <td>Dr. Smith</td>
+            </tr>
+            <tr>
+                <td>History 201</td>
+                <td>11:00 AM - 12:30 PM</td>
+                <td>Prof. Johnson</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>Biology 101</td>
+                <td>10:00 AM - 11:30 AM</td>
+                <td>Dr. Lee</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>Chemistry 101</td>
+                <td>9:00 AM - 10:30 AM</td>
+                <td>Dr. Wang</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Thursday</td>
+                <td>English 101</td>
+                <td>8:30 AM - 10:00 AM</td>
+                <td>Ms. Taylor</td>
+            </tr>
+            <tr>
+                <td>Art 101</td>
+                <td>10:30 AM - 12:00 PM</td>
+                <td>Mr. Clark</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>Physics 101</td>
+                <td>1:00 PM - 3:00 PM</td>
+                <td>Dr. Evans</td>
+            </tr>
         </tbody>
-      </table>
-      
+    </table>
 </body>
 </html>
