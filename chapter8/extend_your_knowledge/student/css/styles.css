@@ -19,6 +19,11 @@ table {
     border-collapse: collapse; /* Optional: for cleaner table lines */
 }
 
+tbody tr:nth-child(odd) {
+    background-color: #fe9772;
+}
+
+
 /* Style for the td (table data) element */
 td {
     border: 1px solid #a22c02;
