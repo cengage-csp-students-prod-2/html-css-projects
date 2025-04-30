@@ -1,0 +1,166 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the `aside`, `figure`, and `figcaption` elements to the CSS reset
+Reason: Assertion failed: The 'aside', 'figure', and 'figcaption' elements are not included in the CSS reset.
+Error : AssertionError - The 'aside', 'figure', and 'figcaption' elements are not included in the CSS reset.
+Timestamp: 2025-04-30 01:42:20.657807
+
+Status: FAILED!
+Check: 2
+Test: Add a new style rule for the `aside` element
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"aside"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x562ede595cea <unknown>
+#1 0x562ede0465f0 <unknown>
+#2 0x562ede097a33 <unknown>
+#3 0x562ede097c21 <unknown>
+#4 0x562ede0e6274 <unknown>
+#5 0x562ede0bd68d <unknown>
+#6 0x562ede0e3660 <unknown>
+#7 0x562ede0bd433 <unknown>
+#8 0x562ede089ea3 <unknown>
+#9 0x562ede08ab01 <unknown>
+#10 0x562ede55ab3b <unknown>
+#11 0x562ede55ea21 <unknown>
+#12 0x562ede541c32 <unknown>
+#13 0x562ede55f594 <unknown>
+#14 0x562ede525eef <unknown>
+#15 0x562ede583d98 <unknown>
+#16 0x562ede583f76 <unknown>
+#17 0x562ede594b36 <unknown>
+#18 0x7f0001a9caa4 <unknown>
+#19 0x7f0001b29c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"aside"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x562ede595cea <unknown>
+#1 0x562ede0465f0 <unknown>
+#2 0x562ede097a33 <unknown>
+#3 0x562ede097c21 <unknown>
+#4 0x562ede0e6274 <unknown>
+#5 0x562ede0bd68d <unknown>
+#6 0x562ede0e3660 <unknown>
+#7 0x562ede0bd433 <unknown>
+#8 0x562ede089ea3 <unknown>
+#9 0x562ede08ab01 <unknown>
+#10 0x562ede55ab3b <unknown>
+#11 0x562ede55ea21 <unknown>
+#12 0x562ede541c32 <unknown>
+#13 0x562ede55f594 <unknown>
+#14 0x562ede525eef <unknown>
+#15 0x562ede583d98 <unknown>
+#16 0x562ede583f76 <unknown>
+#17 0x562ede594b36 <unknown>
+#18 0x7f0001a9caa4 <unknown>
+#19 0x7f0001b29c3c <unknown>
+
+Timestamp: 2025-04-30 01:42:21.720410
+
+Status: FAILED!
+Check: 3
+Test: Add a new style rule for the `figure` element
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"figure"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x562ede595cea <unknown>
+#1 0x562ede0465f0 <unknown>
+#2 0x562ede097a33 <unknown>
+#3 0x562ede097c21 <unknown>
+#4 0x562ede0e6274 <unknown>
+#5 0x562ede0bd68d <unknown>
+#6 0x562ede0e3660 <unknown>
+#7 0x562ede0bd433 <unknown>
+#8 0x562ede089ea3 <unknown>
+#9 0x562ede08ab01 <unknown>
+#10 0x562ede55ab3b <unknown>
+#11 0x562ede55ea21 <unknown>
+#12 0x562ede541c32 <unknown>
+#13 0x562ede55f594 <unknown>
+#14 0x562ede525eef <unknown>
+#15 0x562ede583d98 <unknown>
+#16 0x562ede583f76 <unknown>
+#17 0x562ede594b36 <unknown>
+#18 0x7f0001a9caa4 <unknown>
+#19 0x7f0001b29c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"figure"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x562ede595cea <unknown>
+#1 0x562ede0465f0 <unknown>
+#2 0x562ede097a33 <unknown>
+#3 0x562ede097c21 <unknown>
+#4 0x562ede0e6274 <unknown>
+#5 0x562ede0bd68d <unknown>
+#6 0x562ede0e3660 <unknown>
+#7 0x562ede0bd433 <unknown>
+#8 0x562ede089ea3 <unknown>
+#9 0x562ede08ab01 <unknown>
+#10 0x562ede55ab3b <unknown>
+#11 0x562ede55ea21 <unknown>
+#12 0x562ede541c32 <unknown>
+#13 0x562ede55f594 <unknown>
+#14 0x562ede525eef <unknown>
+#15 0x562ede583d98 <unknown>
+#16 0x562ede583f76 <unknown>
+#17 0x562ede594b36 <unknown>
+#18 0x7f0001a9caa4 <unknown>
+#19 0x7f0001b29c3c <unknown>
+
+Timestamp: 2025-04-30 01:42:22.760214
+
+Status: FAILED!
+Check: 4
+Test: Add a new style rule for the `figcaption` element
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"figcaption"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x562ede595cea <unknown>
+#1 0x562ede0465f0 <unknown>
+#2 0x562ede097a33 <unknown>
+#3 0x562ede097c21 <unknown>
+#4 0x562ede0e6274 <unknown>
+#5 0x562ede0bd68d <unknown>
+#6 0x562ede0e3660 <unknown>
+#7 0x562ede0bd433 <unknown>
+#8 0x562ede089ea3 <unknown>
+#9 0x562ede08ab01 <unknown>
+#10 0x562ede55ab3b <unknown>
+#11 0x562ede55ea21 <unknown>
+#12 0x562ede541c32 <unknown>
+#13 0x562ede55f594 <unknown>
+#14 0x562ede525eef <unknown>
+#15 0x562ede583d98 <unknown>
+#16 0x562ede583f76 <unknown>
+#17 0x562ede594b36 <unknown>
+#18 0x7f0001a9caa4 <unknown>
+#19 0x7f0001b29c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"figcaption"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x562ede595cea <unknown>
+#1 0x562ede0465f0 <unknown>
+#2 0x562ede097a33 <unknown>
+#3 0x562ede097c21 <unknown>
+#4 0x562ede0e6274 <unknown>
+#5 0x562ede0bd68d <unknown>
+#6 0x562ede0e3660 <unknown>
+#7 0x562ede0bd433 <unknown>
+#8 0x562ede089ea3 <unknown>
+#9 0x562ede08ab01 <unknown>
+#10 0x562ede55ab3b <unknown>
+#11 0x562ede55ea21 <unknown>
+#12 0x562ede541c32 <unknown>
+#13 0x562ede55f594 <unknown>
+#14 0x562ede525eef <unknown>
+#15 0x562ede583d98 <unknown>
+#16 0x562ede583f76 <unknown>
+#17 0x562ede594b36 <unknown>
+#18 0x7f0001a9caa4 <unknown>
+#19 0x7f0001b29c3c <unknown>
+
+Timestamp: 2025-04-30 01:42:23.798359

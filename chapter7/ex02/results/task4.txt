@@ -1,0 +1,28 @@
+
+Status: FAILED!
+Check: 1
+Test: The first figure element contains an img element with the blind-deer image.
+Reason: Assertion failed: There are not at least 12 figure elements in main.
+Error : AssertionError - There are not at least 12 figure elements in main.
+Timestamp: 2025-04-30 01:42:20.595601
+
+Status: FAILED!
+Check: 2
+Test: The first figure element contains a figcaption element with the text 'Russ is a blind deer. He was brought to us by a hunter who found him wandering in circles.'.
+Reason: Assertion failed: There are not at least 12 figure elements in main.
+Error : AssertionError - There are not at least 12 figure elements in main.
+Timestamp: 2025-04-30 01:42:20.596918
+
+Status: FAILED!
+Check: 3
+Test: The second figure element contains an img element with the baby-squirrel image.
+Reason: Assertion failed: There are not at least 12 figure elements in main.
+Error : AssertionError - There are not at least 12 figure elements in main.
+Timestamp: 2025-04-30 01:42:20.598369
+
+Status: FAILED!
+Check: 4
+Test: The second figure element contains a figcaption element with the text 'Meet Nugget. He is learning how to climb trees and will be released in a few more weeks.'.
+Reason: Assertion failed: There are not at least 12 figure elements in main.
+Error : AssertionError - There are not at least 12 figure elements in main.
+Timestamp: 2025-04-30 01:42:20.599672
