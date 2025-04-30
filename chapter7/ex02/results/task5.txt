@@ -4,39 +4,39 @@ Check: 1
 Test: The third figure element contains an img element with the cow image.
 Reason: Assertion failed: The third figure element does not contain an img element with the cow image.
 Error : AssertionError - The third figure element does not contain an img element with the cow image.
-Timestamp: 2025-04-30 01:52:26.902018
+Timestamp: 2025-04-30 01:53:46.182675
 
 Status: FAILED!
 Check: 2
 Test: The third figure element contains a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
 Reason: Assertion failed: The third figure element does not contain a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
 Error : AssertionError - The third figure element does not contain a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
-Timestamp: 2025-04-30 01:52:26.903965
+Timestamp: 2025-04-30 01:53:46.184548
 
 Status: FAILED!
 Check: 3
 Test: The fourth figure element contains an img element with the goat image.
 Reason: Assertion failed: The fourth figure element does not contain an img element with the goat image.
 Error : AssertionError - The fourth figure element does not contain an img element with the goat image.
-Timestamp: 2025-04-30 01:52:26.905795
+Timestamp: 2025-04-30 01:53:46.186429
 
 Status: FAILED!
 Check: 4
 Test: The fourth figure element contains a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
 Reason: Assertion failed: The fourth figure element does not contain a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
 Error : AssertionError - The fourth figure element does not contain a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
-Timestamp: 2025-04-30 01:52:26.907721
+Timestamp: 2025-04-30 01:53:46.188325
 
 Status: FAILED!
 Check: 5
 Test: The fifth figure element contains an img element with the pig image.
 Reason: Assertion failed: The fifth figure element does not contain an img element with the pig image.
 Error : AssertionError - The fifth figure element does not contain an img element with the pig image.
-Timestamp: 2025-04-30 01:52:26.909794
+Timestamp: 2025-04-30 01:53:46.190116
 
 Status: FAILED!
 Check: 6
 Test: The fifth figure element contains a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
 Reason: Assertion failed: The fifth figure element does not contain a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
 Error : AssertionError - The fifth figure element does not contain a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
-Timestamp: 2025-04-30 01:52:26.911815
+Timestamp: 2025-04-30 01:53:46.192000

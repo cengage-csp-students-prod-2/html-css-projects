@@ -5,63 +5,63 @@ Test: Add a declaration to the `nav li a:hover` style rule that sets the `opacit
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
   (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5572630ca75a <unknown>
-#1 0x557262b7d4b0 <unknown>
-#2 0x557262bce9b3 <unknown>
-#3 0x557262bceba1 <unknown>
-#4 0x557262c1d1f4 <unknown>
-#5 0x557262bf45bd <unknown>
-#6 0x557262c1a5e0 <unknown>
-#7 0x557262bf4363 <unknown>
-#8 0x557262bc0d63 <unknown>
-#9 0x557262bc19c1 <unknown>
-#10 0x55726308fa6b <unknown>
-#11 0x557263093951 <unknown>
-#12 0x557263077b62 <unknown>
-#13 0x5572630944c4 <unknown>
-#14 0x55726305c13f <unknown>
-#15 0x5572630b86f8 <unknown>
-#16 0x5572630b88d6 <unknown>
-#17 0x5572630c95a6 <unknown>
-#18 0x7f92f769caa4 <unknown>
-#19 0x7f92f7729c3c <unknown>
+#0 0x55ad8b02375a <unknown>
+#1 0x55ad8aad64b0 <unknown>
+#2 0x55ad8ab279b3 <unknown>
+#3 0x55ad8ab27ba1 <unknown>
+#4 0x55ad8ab761f4 <unknown>
+#5 0x55ad8ab4d5bd <unknown>
+#6 0x55ad8ab735e0 <unknown>
+#7 0x55ad8ab4d363 <unknown>
+#8 0x55ad8ab19d63 <unknown>
+#9 0x55ad8ab1a9c1 <unknown>
+#10 0x55ad8afe8a6b <unknown>
+#11 0x55ad8afec951 <unknown>
+#12 0x55ad8afd0b62 <unknown>
+#13 0x55ad8afed4c4 <unknown>
+#14 0x55ad8afb513f <unknown>
+#15 0x55ad8b0116f8 <unknown>
+#16 0x55ad8b0118d6 <unknown>
+#17 0x55ad8b0225a6 <unknown>
+#18 0x7fbe86c9caa4 <unknown>
+#19 0x7fbe86d29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
   (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x5572630ca75a <unknown>
-#1 0x557262b7d4b0 <unknown>
-#2 0x557262bce9b3 <unknown>
-#3 0x557262bceba1 <unknown>
-#4 0x557262c1d1f4 <unknown>
-#5 0x557262bf45bd <unknown>
-#6 0x557262c1a5e0 <unknown>
-#7 0x557262bf4363 <unknown>
-#8 0x557262bc0d63 <unknown>
-#9 0x557262bc19c1 <unknown>
-#10 0x55726308fa6b <unknown>
-#11 0x557263093951 <unknown>
-#12 0x557263077b62 <unknown>
-#13 0x5572630944c4 <unknown>
-#14 0x55726305c13f <unknown>
-#15 0x5572630b86f8 <unknown>
-#16 0x5572630b88d6 <unknown>
-#17 0x5572630c95a6 <unknown>
-#18 0x7f92f769caa4 <unknown>
-#19 0x7f92f7729c3c <unknown>
+#0 0x55ad8b02375a <unknown>
+#1 0x55ad8aad64b0 <unknown>
+#2 0x55ad8ab279b3 <unknown>
+#3 0x55ad8ab27ba1 <unknown>
+#4 0x55ad8ab761f4 <unknown>
+#5 0x55ad8ab4d5bd <unknown>
+#6 0x55ad8ab735e0 <unknown>
+#7 0x55ad8ab4d363 <unknown>
+#8 0x55ad8ab19d63 <unknown>
+#9 0x55ad8ab1a9c1 <unknown>
+#10 0x55ad8afe8a6b <unknown>
+#11 0x55ad8afec951 <unknown>
+#12 0x55ad8afd0b62 <unknown>
+#13 0x55ad8afed4c4 <unknown>
+#14 0x55ad8afb513f <unknown>
+#15 0x55ad8b0116f8 <unknown>
+#16 0x55ad8b0118d6 <unknown>
+#17 0x55ad8b0225a6 <unknown>
+#18 0x7fbe86c9caa4 <unknown>
+#19 0x7fbe86d29c3c <unknown>
 
-Timestamp: 2025-04-30 01:52:26.662201
+Timestamp: 2025-04-30 01:53:46.018968
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `grid` class selector that sets the grid template columns to a **three column** layout, and sets the grid gap to **30px**.
 Reason: Assertion failed: The 'grid-template-columns' value of the 'grid' class selector is not set to 'auto auto auto' in the desktop media query.
 Error : AssertionError - The 'grid-template-columns' value of the 'grid' class selector is not set to 'auto auto auto' in the desktop media query.
-Timestamp: 2025-04-30 01:52:26.761961
+Timestamp: 2025-04-30 01:53:46.043916
 
 Status: FAILED!
 Check: 3
 Test: Add a style rule for the `aside` element that sets the grid column value to  **1 / span 3**,   and set the font size to **2em**.
 Reason: Assertion failed: The 'grid-column' value of the 'aside' element is not set to '1 / span 3' in the desktop media query.
 Error : AssertionError - The 'grid-column' value of the 'aside' element is not set to '1 / span 3' in the desktop media query.
-Timestamp: 2025-04-30 01:52:26.785696
+Timestamp: 2025-04-30 01:53:46.065604

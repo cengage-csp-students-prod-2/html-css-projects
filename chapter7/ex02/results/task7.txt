@@ -4,53 +4,53 @@ Check: 1
 Test: The ninth figure element contains an img element with the bearded-dragon image.
 Reason: Assertion failed: The ninth figure element does not contain an img element with the bearded-dragon image.
 Error : AssertionError - The ninth figure element does not contain an img element with the bearded-dragon image.
-Timestamp: 2025-04-30 01:52:26.925073
+Timestamp: 2025-04-30 01:53:46.206023
 
 Status: FAILED!
 Check: 2
 Test: The ninth figure element contains a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
 Reason: Assertion failed: The ninth figure element does not contain a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
 Error : AssertionError - The ninth figure element does not contain a figcaption element with the text 'Gizmo was abandoned by his owner and is available for adoption.'.
-Timestamp: 2025-04-30 01:52:26.927070
+Timestamp: 2025-04-30 01:53:46.208024
 
 Status: FAILED!
 Check: 3
 Test: The tenth figure element contains an img element with the bird image.
 Reason: Assertion failed: The tenth figure element does not contain an img element with the bird image.
 Error : AssertionError - The tenth figure element does not contain an img element with the bird image.
-Timestamp: 2025-04-30 01:52:26.928992
+Timestamp: 2025-04-30 01:53:46.209949
 
 Status: FAILED!
 Check: 4
 Test: The tenth figure element contains a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
 Reason: Assertion failed: The tenth figure element does not contain a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
 Error : AssertionError - The tenth figure element does not contain a figcaption element with the text 'Peaches was also abandoned by his owner. He loves to talk.'.
-Timestamp: 2025-04-30 01:52:26.930915
+Timestamp: 2025-04-30 01:53:46.211890
 
 Status: FAILED!
 Check: 5
 Test: The eleventh figure element contains an img element with the hedgehog image.
 Reason: Assertion failed: The eleventh figure element does not contain an img element with the hedgehog image.
 Error : AssertionError - The eleventh figure element does not contain an img element with the hedgehog image.
-Timestamp: 2025-04-30 01:52:26.932780
+Timestamp: 2025-04-30 01:53:46.213742
 
 Status: FAILED!
 Check: 6
 Test: The eleventh figure element contains a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
 Reason: Assertion failed: The eleventh figure element does not contain a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
 Error : AssertionError - The eleventh figure element does not contain a figcaption element with the text 'Sonny was just a baby when he was brought to us for rehabilitation.'.
-Timestamp: 2025-04-30 01:52:26.934690
+Timestamp: 2025-04-30 01:53:46.216486
 
 Status: FAILED!
 Check: 7
 Test: The twelfth figure element contains an img element with the tortoise-pyramid image.
 Reason: Assertion failed: The twelfth figure element does not contain an img element with the tortoise-pyramid image.
 Error : AssertionError - The twelfth figure element does not contain an img element with the tortoise-pyramid image.
-Timestamp: 2025-04-30 01:52:26.936622
+Timestamp: 2025-04-30 01:53:46.218572
 
 Status: FAILED!
 Check: 8
 Test: The twelfth figure element contains a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
 Reason: Assertion failed: The twelfth figure element does not contain a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
 Error : AssertionError - The twelfth figure element does not contain a figcaption element with the text 'Poor Victor has 'shell pyramiding,' a form of bone disease.'.
-Timestamp: 2025-04-30 01:52:26.938505
+Timestamp: 2025-04-30 01:53:46.220436
