@@ -4,39 +4,39 @@ Check: 1
 Test: The third figure element contains an img element with the cow image.
 Reason: Assertion failed: There are not at least 12 figure elements in main.
 Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:42:20.601023
+Timestamp: 2025-04-30 01:45:26.453229
 
 Status: FAILED!
 Check: 2
 Test: The third figure element contains a figcaption element with the text 'This is Ellie. She was neglected by her owner and malnourished when she was rescued.'.
 Reason: Assertion failed: There are not at least 12 figure elements in main.
 Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:42:20.602517
+Timestamp: 2025-04-30 01:45:26.454717
 
 Status: FAILED!
 Check: 3
 Test: The fourth figure element contains an img element with the goat image.
 Reason: Assertion failed: There are not at least 12 figure elements in main.
 Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:42:20.603802
+Timestamp: 2025-04-30 01:45:26.456022
 
 Status: FAILED!
 Check: 4
 Test: The fourth figure element contains a figcaption element with the text 'Say hi to Vinny. His back legs were injured, making it difficult for him to get around.'.
 Reason: Assertion failed: There are not at least 12 figure elements in main.
 Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:42:20.606135
+Timestamp: 2025-04-30 01:45:26.458389
 
 Status: FAILED!
 Check: 5
 Test: The fifth figure element contains an img element with the pig image.
 Reason: Assertion failed: There are not at least 12 figure elements in main.
 Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:42:20.607500
+Timestamp: 2025-04-30 01:45:26.459782
 
 Status: FAILED!
 Check: 6
 Test: The fifth figure element contains a figcaption element with the text 'Rosie was just a baby when she arrived. Now she has babies.'.
 Reason: Assertion failed: There are not at least 12 figure elements in main.
 Error : AssertionError - There are not at least 12 figure elements in main.
-Timestamp: 2025-04-30 01:42:20.608790
+Timestamp: 2025-04-30 01:45:26.461102
