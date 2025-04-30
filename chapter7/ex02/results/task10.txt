@@ -3,64 +3,64 @@ Status: FAILED!
 Check: 1
 Test: Add a declaration to the `nav li a:hover` style rule that sets the `opacity` to **0.5**.
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x555a89d05cea <unknown>
-#1 0x555a897b65f0 <unknown>
-#2 0x555a89807a33 <unknown>
-#3 0x555a89807c21 <unknown>
-#4 0x555a89856274 <unknown>
-#5 0x555a8982d68d <unknown>
-#6 0x555a89853660 <unknown>
-#7 0x555a8982d433 <unknown>
-#8 0x555a897f9ea3 <unknown>
-#9 0x555a897fab01 <unknown>
-#10 0x555a89ccab3b <unknown>
-#11 0x555a89ccea21 <unknown>
-#12 0x555a89cb1c32 <unknown>
-#13 0x555a89ccf594 <unknown>
-#14 0x555a89c95eef <unknown>
-#15 0x555a89cf3d98 <unknown>
-#16 0x555a89cf3f76 <unknown>
-#17 0x555a89d04b36 <unknown>
-#18 0x7ff9f329caa4 <unknown>
-#19 0x7ff9f3329c3c <unknown>
+#0 0x56417de8575a <unknown>
+#1 0x56417d9384b0 <unknown>
+#2 0x56417d9899b3 <unknown>
+#3 0x56417d989ba1 <unknown>
+#4 0x56417d9d81f4 <unknown>
+#5 0x56417d9af5bd <unknown>
+#6 0x56417d9d55e0 <unknown>
+#7 0x56417d9af363 <unknown>
+#8 0x56417d97bd63 <unknown>
+#9 0x56417d97c9c1 <unknown>
+#10 0x56417de4aa6b <unknown>
+#11 0x56417de4e951 <unknown>
+#12 0x56417de32b62 <unknown>
+#13 0x56417de4f4c4 <unknown>
+#14 0x56417de1713f <unknown>
+#15 0x56417de736f8 <unknown>
+#16 0x56417de738d6 <unknown>
+#17 0x56417de845a6 <unknown>
+#18 0x7f6fdcc9caa4 <unknown>
+#19 0x7f6fdcd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x555a89d05cea <unknown>
-#1 0x555a897b65f0 <unknown>
-#2 0x555a89807a33 <unknown>
-#3 0x555a89807c21 <unknown>
-#4 0x555a89856274 <unknown>
-#5 0x555a8982d68d <unknown>
-#6 0x555a89853660 <unknown>
-#7 0x555a8982d433 <unknown>
-#8 0x555a897f9ea3 <unknown>
-#9 0x555a897fab01 <unknown>
-#10 0x555a89ccab3b <unknown>
-#11 0x555a89ccea21 <unknown>
-#12 0x555a89cb1c32 <unknown>
-#13 0x555a89ccf594 <unknown>
-#14 0x555a89c95eef <unknown>
-#15 0x555a89cf3d98 <unknown>
-#16 0x555a89cf3f76 <unknown>
-#17 0x555a89d04b36 <unknown>
-#18 0x7ff9f329caa4 <unknown>
-#19 0x7ff9f3329c3c <unknown>
+#0 0x56417de8575a <unknown>
+#1 0x56417d9384b0 <unknown>
+#2 0x56417d9899b3 <unknown>
+#3 0x56417d989ba1 <unknown>
+#4 0x56417d9d81f4 <unknown>
+#5 0x56417d9af5bd <unknown>
+#6 0x56417d9d55e0 <unknown>
+#7 0x56417d9af363 <unknown>
+#8 0x56417d97bd63 <unknown>
+#9 0x56417d97c9c1 <unknown>
+#10 0x56417de4aa6b <unknown>
+#11 0x56417de4e951 <unknown>
+#12 0x56417de32b62 <unknown>
+#13 0x56417de4f4c4 <unknown>
+#14 0x56417de1713f <unknown>
+#15 0x56417de736f8 <unknown>
+#16 0x56417de738d6 <unknown>
+#17 0x56417de845a6 <unknown>
+#18 0x7f6fdcc9caa4 <unknown>
+#19 0x7f6fdcd29c3c <unknown>
 
-Timestamp: 2025-04-30 02:28:31.166540
+Timestamp: 2025-04-30 02:32:22.802360
 
 Status: FAILED!
 Check: 2
 Test: Add a style rule for the `grid` class selector that sets the grid template columns to a **three column** layout, and sets the grid gap to **30px**.
 Reason: Assertion failed: The 'grid-template-columns' value of the 'grid' class selector is not set to 'auto auto auto' in the desktop media query.
 Error : AssertionError - The 'grid-template-columns' value of the 'grid' class selector is not set to 'auto auto auto' in the desktop media query.
-Timestamp: 2025-04-30 02:28:31.191113
+Timestamp: 2025-04-30 02:32:22.904759
 
 Status: PASSED!
 Check: 3
 Test: Add a style rule for the `aside` element that sets the grid column value to  **1 / span 3**,   and set the font size to **2em**.
 Reason: None
-Timestamp: 2025-04-30 02:28:31.212377
+Timestamp: 2025-04-30 02:32:22.926170
