@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Move the image files from the /resources folder to your rescue/images folder.
-Reason: Assertion failed: The resources folder should be moved to the rescue/images.
-Error : AssertionError - The resources folder should be moved to the rescue/images.
-Timestamp: 2025-04-30 02:11:37.798256
+Reason: None
+Timestamp: 2025-04-30 02:14:59.815205
