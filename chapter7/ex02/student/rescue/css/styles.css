@@ -160,6 +160,19 @@ main ul {
     border-radius: 6px;
 }
 
+aside {
+    background-color: #feab6d;
+    padding: 2%;
+    margin-top: 1%;
+    color: #9d4502;
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    border-radius: 15px;
+    text-shadow: 4px 4px 8px #fc7307;
+    box-shadow: 4px 4px 10px #183440; 
+}
 /* New style rule for #info ul */
 #info ul {
     margin-left: 10%;
@@ -226,6 +239,16 @@ footer a {
     nav li a {
         padding: 0.5em;  /* Adds padding to the link */
     }
+
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+        grid-gap: 10px; 
+    }
+
+    aside {
+        grid-column: 1 / span 2; 
+    }    
 }
 
 /* Media Query for Large Desktop Viewports */
