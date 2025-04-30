@@ -84,6 +84,11 @@ footer {
 	text-align: center;
 }
 
+.grid {
+    display: grid; /* Set the display to grid */
+    grid-template-columns: repeat(3, 1fr); /* Create three equal columns */
+    grid-gap: 20px; /* Set the gap between grid items */
+}
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 700px), print {
     
