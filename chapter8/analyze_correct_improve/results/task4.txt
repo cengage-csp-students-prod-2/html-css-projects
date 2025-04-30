@@ -1,13 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The first fieldset element has a legend element with the text 'Customer Information'
-Reason: Assertion failed: The legend element in the first fieldset element should have the text 'Customer Information'
-Error : AssertionError - The legend element in the first fieldset element should have the text 'Customer Information'
-Timestamp: 2025-04-30 03:38:05.090632
+Reason: None
+Timestamp: 2025-04-30 03:39:43.409727
 
 Status: PASSED!
 Check: 2
 Test: The second fieldset element has a legend element with the text 'Payment Information'
 Reason: None
-Timestamp: 2025-04-30 03:38:05.092215
+Timestamp: 2025-04-30 03:39:43.411089

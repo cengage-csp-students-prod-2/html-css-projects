@@ -4,71 +4,71 @@ Check: 1
 Test: Create a style rule for the `fieldset` and `input` elements that sets the bottom margin to **2%**
 Reason: Assertion failed: The bottom margin of the fieldset element should be set to 2%
 Error : AssertionError - The bottom margin of the fieldset element should be set to 2%
-Timestamp: 2025-04-30 03:38:06.787652
+Timestamp: 2025-04-30 03:39:46.124697
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the `fieldset` `legend` that sets the `font-size` to **1.25em** and makes the font **bold**
 Reason: Assertion failed: The font size of the legend element should be set to 1.25em found
 Error : AssertionError - The font size of the legend element should be set to 1.25em found
-Timestamp: 2025-04-30 03:38:06.829391
+Timestamp: 2025-04-30 03:39:46.152876
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for the `label` that sets the `display` to **block** and sets `padding-top` to **3%**
 Reason: Assertion failed: The display of the label element should be set to block
 Error : AssertionError - The display of the label element should be set to block
-Timestamp: 2025-04-30 03:38:06.846204
+Timestamp: 2025-04-30 03:39:46.179014
 
 Status: FAILED!
 Check: 4
 Test: Create a style rule for the `btn` class selector that removes the `border`, sets the top and bottom margin to **zero** and the left and right margin to **auto**, sets the `display` to a **block**, sets the `padding` to **5%**, sets the `background-color` to **003399**, sets the `font-size` to **1.25em**, sets the `border-radius` to **10px**, and sets the `color` to **white** (fff)
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56285182ccea <unknown>
-#1 0x5628512dd5f0 <unknown>
-#2 0x56285132ea33 <unknown>
-#3 0x56285132ec21 <unknown>
-#4 0x56285137d274 <unknown>
-#5 0x56285135468d <unknown>
-#6 0x56285137a660 <unknown>
-#7 0x562851354433 <unknown>
-#8 0x562851320ea3 <unknown>
-#9 0x562851321b01 <unknown>
-#10 0x5628517f1b3b <unknown>
-#11 0x5628517f5a21 <unknown>
-#12 0x5628517d8c32 <unknown>
-#13 0x5628517f6594 <unknown>
-#14 0x5628517bceef <unknown>
-#15 0x56285181ad98 <unknown>
-#16 0x56285181af76 <unknown>
-#17 0x56285182bb36 <unknown>
-#18 0x7f038ce9caa4 <unknown>
-#19 0x7f038cf29c3c <unknown>
+#0 0x560c6fc0b75a <unknown>
+#1 0x560c6f6be4b0 <unknown>
+#2 0x560c6f70f9b3 <unknown>
+#3 0x560c6f70fba1 <unknown>
+#4 0x560c6f75e1f4 <unknown>
+#5 0x560c6f7355bd <unknown>
+#6 0x560c6f75b5e0 <unknown>
+#7 0x560c6f735363 <unknown>
+#8 0x560c6f701d63 <unknown>
+#9 0x560c6f7029c1 <unknown>
+#10 0x560c6fbd0a6b <unknown>
+#11 0x560c6fbd4951 <unknown>
+#12 0x560c6fbb8b62 <unknown>
+#13 0x560c6fbd54c4 <unknown>
+#14 0x560c6fb9d13f <unknown>
+#15 0x560c6fbf96f8 <unknown>
+#16 0x560c6fbf98d6 <unknown>
+#17 0x560c6fc0a5a6 <unknown>
+#18 0x7f16dca9caa4 <unknown>
+#19 0x7f16dcb29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
-  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x56285182ccea <unknown>
-#1 0x5628512dd5f0 <unknown>
-#2 0x56285132ea33 <unknown>
-#3 0x56285132ec21 <unknown>
-#4 0x56285137d274 <unknown>
-#5 0x56285135468d <unknown>
-#6 0x56285137a660 <unknown>
-#7 0x562851354433 <unknown>
-#8 0x562851320ea3 <unknown>
-#9 0x562851321b01 <unknown>
-#10 0x5628517f1b3b <unknown>
-#11 0x5628517f5a21 <unknown>
-#12 0x5628517d8c32 <unknown>
-#13 0x5628517f6594 <unknown>
-#14 0x5628517bceef <unknown>
-#15 0x56285181ad98 <unknown>
-#16 0x56285181af76 <unknown>
-#17 0x56285182bb36 <unknown>
-#18 0x7f038ce9caa4 <unknown>
-#19 0x7f038cf29c3c <unknown>
+#0 0x560c6fc0b75a <unknown>
+#1 0x560c6f6be4b0 <unknown>
+#2 0x560c6f70f9b3 <unknown>
+#3 0x560c6f70fba1 <unknown>
+#4 0x560c6f75e1f4 <unknown>
+#5 0x560c6f7355bd <unknown>
+#6 0x560c6f75b5e0 <unknown>
+#7 0x560c6f735363 <unknown>
+#8 0x560c6f701d63 <unknown>
+#9 0x560c6f7029c1 <unknown>
+#10 0x560c6fbd0a6b <unknown>
+#11 0x560c6fbd4951 <unknown>
+#12 0x560c6fbb8b62 <unknown>
+#13 0x560c6fbd54c4 <unknown>
+#14 0x560c6fb9d13f <unknown>
+#15 0x560c6fbf96f8 <unknown>
+#16 0x560c6fbf98d6 <unknown>
+#17 0x560c6fc0a5a6 <unknown>
+#18 0x7f16dca9caa4 <unknown>
+#19 0x7f16dcb29c3c <unknown>
 
-Timestamp: 2025-04-30 03:38:07.883434
+Timestamp: 2025-04-30 03:39:47.209172
