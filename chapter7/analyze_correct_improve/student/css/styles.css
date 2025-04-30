@@ -93,5 +93,4 @@ footer {
 @media screen and (min-width: 700px), print {
     aside {
         grid-column: span 3;
-    } 
-}
+    }
