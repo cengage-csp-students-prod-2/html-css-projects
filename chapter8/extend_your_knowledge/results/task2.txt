@@ -1,21 +1,19 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Table head row 1 is set correctly
-Reason: Assertion failed: Table head not found
-Error : AssertionError - Table head not found
-Timestamp: 2025-04-30 07:58:19.857701
+Reason: None
+Timestamp: 2025-04-30 08:01:19.628076
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
-Reason: Assertion failed: Table head not found
-Error : AssertionError - Table head not found
-Timestamp: 2025-04-30 07:58:19.860467
+Reason: Assertion failed: First th element in second row is incorrect
+Error : AssertionError - First th element in second row is incorrect
+Timestamp: 2025-04-30 08:01:19.629520
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Table body rows are set correctly
-Reason: Assertion failed: Table body not found
-Error : AssertionError - Table body not found
-Timestamp: 2025-04-30 07:58:19.862836
+Reason: None
+Timestamp: 2025-04-30 08:01:19.630886
