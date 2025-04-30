@@ -219,50 +219,50 @@ footer a {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 620px), print {
+.tab-desk {
+    display: block; /* Display tab-desk class */
+}
 
-    /* Tablet Viewport: Show tab-desk class, hide mobile class */
-    .tab-desk {
-        display: block; /* Display tab-desk class */
-    }
-
-    .mobile {
-        display: none; /* Hide mobile class */
-    }
+.mobile {
+    display: none; /* Hide mobile class */
+}
 
     /* Tablet Viewport: Style rules for nav area */
-    nav li {
-        border-top: none;  /* Removes the top border */
-        display: inline-block;  /* Changes from block to inline-block */
-        font-size: 1.25em;  /* Adjusts font size */
-    }
+nav li {
+    border-top: none;  /* Removes the top border */
+    display: inline-block;  /* Changes from block to inline-block */
+    font-size: 1.25em;  /* Adjusts font size */
+}
 
-    nav li a {
-        padding: 0.5em;  /* Adds padding to the link */
-    }
+nav li a {
+    padding: 0.5em;  /* Adds padding to the link */
+}
 
-    .grid {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr); 
-        grid-gap: 10px; 
-    }
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-gap: 10px; 
+}
 
-    aside {
-        grid-column: 1 / span 2; 
+aside {
+    grid-column: 1 / span 2; 
     }    
 }
 
-/* Media Query for Large Desktop Viewports */
-@media screen and (min-width: 1921px), print {
-    body {
-        background: linear-gradient(to right, #f6eee4, #78593a);
-    }
+/* Media Query for Desktop Viewport */
+@media screen and (min-width: 1000px) {
 
-    #wrapper {
-        width: 1920px;
-        margin: 0 auto;
-    }
-
-    main {
-        background-color: #f6eee4;
+nav li a:hover {
+    opacity: 0.5; 
+}
+    
+.grid {
+    grid-template-columns: repeat(3, 1fr); 
+    grid-gap: 30px; 
+}
+   
+aside {
+    grid-column: 1 / span 3;
+    font-size: 2em;
     }
 }
