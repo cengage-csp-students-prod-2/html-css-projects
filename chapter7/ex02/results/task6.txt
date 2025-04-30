@@ -3,34 +3,34 @@ Status: PASSED!
 Check: 1
 Test: The sixth figure element contains an img element with the baby-pig image.
 Reason: None
-Timestamp: 2025-04-30 02:25:58.186398
+Timestamp: 2025-04-30 02:27:12.517840
 
 Status: PASSED!
 Check: 2
 Test: The sixth figure element contains a figcaption element with the text 'Squirt is one of Rosie’s babies.'.
 Reason: None
-Timestamp: 2025-04-30 02:25:58.189225
+Timestamp: 2025-04-30 02:27:12.520606
 
 Status: PASSED!
 Check: 3
 Test: The seventh figure element contains an img element with the horse image.
 Reason: None
-Timestamp: 2025-04-30 02:25:58.192034
+Timestamp: 2025-04-30 02:27:12.523375
 
 Status: PASSED!
 Check: 4
 Test: The seventh figure element contains a figcaption element with the text 'Muffin has come a long way. She was very thin when she was rescued.'.
 Reason: None
-Timestamp: 2025-04-30 02:25:58.194866
+Timestamp: 2025-04-30 02:27:12.526161
 
 Status: PASSED!
 Check: 5
 Test: The eighth figure element contains an img element with the hawk image.
 Reason: None
-Timestamp: 2025-04-30 02:25:58.198551
+Timestamp: 2025-04-30 02:27:12.529794
 
 Status: PASSED!
 Check: 6
 Test: The eighth figure element contains a figcaption element with the text 'Poor Harley was rescued when he was just three weeks old. He is getting big and will be released in about a month.'.
 Reason: None
-Timestamp: 2025-04-30 02:25:58.201177
+Timestamp: 2025-04-30 02:27:12.532391
