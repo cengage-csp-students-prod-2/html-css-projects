@@ -236,7 +236,7 @@ footer a {
 /* Large Desktop Media Query */
 @media screen and (min-width: 1400px) {
     .grid {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: auto auto auto auto;
         grid-gap: 30px;
     }
 
