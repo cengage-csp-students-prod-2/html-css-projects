@@ -4,32 +4,32 @@ Check: 1
 Test: Add the link elements to the head element in index.html.
 Reason: Assertion failed: The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the index.html file.
 Error : AssertionError - The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the index.html file.
-Timestamp: 2025-04-30 02:07:33.923018
+Timestamp: 2025-04-30 02:11:37.789537
 
 Status: FAILED!
 Check: 2
 Test: Add the link elements to the head element in gallery.html.
 Reason: Assertion failed: The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the gallery.html file.
 Error : AssertionError - The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the gallery.html file.
-Timestamp: 2025-04-30 02:07:33.927202
+Timestamp: 2025-04-30 02:11:37.792727
 
 Status: FAILED!
 Check: 3
 Test: Add the link elements to the head element in template.html.
 Reason: Assertion failed: The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the template.html file.
 Error : AssertionError - The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the template.html file.
-Timestamp: 2025-04-30 02:07:33.928857
+Timestamp: 2025-04-30 02:11:37.794158
 
 Status: FAILED!
 Check: 4
 Test: Add the link elements to the head element in about.html.
 Reason: Assertion failed: The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the about.html file.
 Error : AssertionError - The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the about.html file.
-Timestamp: 2025-04-30 02:07:33.931453
+Timestamp: 2025-04-30 02:11:37.796396
 
 Status: FAILED!
 Check: 5
 Test: Add the link elements to the head element in contact.html.
 Reason: Assertion failed: The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the contact.html file.
 Error : AssertionError - The 'link' element with the 'rel' attribute set to 'shortcut icon' is not found in the contact.html file.
-Timestamp: 2025-04-30 02:07:33.933125
+Timestamp: 2025-04-30 02:11:37.798088
