@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Author: Lawrence OLadimeji
+Date: 04/28/2025
+File Name: styles.css
 */
 
 /* CSS Reset */
@@ -38,4 +38,14 @@ aside {
 footer {
 	font-size: .70em;
 	text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    gap: 2%;
+    padding: 1em;
+}
+
+.flex-container section {
+    flex: 1;
 }
