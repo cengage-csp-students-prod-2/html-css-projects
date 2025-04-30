@@ -22,8 +22,6 @@ table {
 /* Style for the td (table data) element */
 td {
     border: 1px solid #a22c02; 
-    padding: 8px;
-    text-align: center; /* Center the content */
 }
 
 /* Style for the odd table rows */
