@@ -1,218 +1,35 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: **ffe5dc** (`body` `background-color`), 
-Reason: None
-Timestamp: 2025-04-30 07:56:09.915468
+Reason: Assertion failed: body background-color is not correct
+Error : AssertionError - body background-color is not correct
+Timestamp: 2025-04-30 07:58:21.116749
 
 Status: FAILED!
 Check: 2
 Test: **fd4d0c** (table border color)
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Timestamp: 2025-04-30 07:56:10.954481
+Reason: Assertion failed: table border-color is not correct
+Error : AssertionError - table border-color is not correct
+Timestamp: 2025-04-30 07:58:21.134113
 
 Status: FAILED!
 Check: 3
 Test: **792101** (box shadow color)
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Timestamp: 2025-04-30 07:56:11.981158
+Reason: Assertion failed: table box-shadow is not correct
+Error : AssertionError - table box-shadow is not correct
+Timestamp: 2025-04-30 07:58:21.147515
 
 Status: FAILED!
 Check: 4
 Test: **a22c02** (table data border color)
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Timestamp: 2025-04-30 07:56:13.008245
+Reason: Assertion failed: table data border-color is not correct
+Error : AssertionError - table data border-color is not correct
+Timestamp: 2025-04-30 07:58:21.161319
 
 Status: FAILED!
 Check: 5
 Test: **fe9772** (odd rows background color)
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
-  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55594e9bb75a <unknown>
-#1 0x55594e46e4b0 <unknown>
-#2 0x55594e4bf9b3 <unknown>
-#3 0x55594e4bfba1 <unknown>
-#4 0x55594e50e1f4 <unknown>
-#5 0x55594e4e55bd <unknown>
-#6 0x55594e50b5e0 <unknown>
-#7 0x55594e4e5363 <unknown>
-#8 0x55594e4b1d63 <unknown>
-#9 0x55594e4b29c1 <unknown>
-#10 0x55594e980a6b <unknown>
-#11 0x55594e984951 <unknown>
-#12 0x55594e968b62 <unknown>
-#13 0x55594e9854c4 <unknown>
-#14 0x55594e94d13f <unknown>
-#15 0x55594e9a96f8 <unknown>
-#16 0x55594e9a98d6 <unknown>
-#17 0x55594e9ba5a6 <unknown>
-#18 0x7f1d0289caa4 <unknown>
-#19 0x7f1d02929c3c <unknown>
-
-Timestamp: 2025-04-30 07:56:14.031110
+Reason: Assertion failed: odd rows background-color is not correct
+Error : AssertionError - odd rows background-color is not correct
+Timestamp: 2025-04-30 07:58:21.183535
