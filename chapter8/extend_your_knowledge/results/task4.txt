@@ -1,35 +1,30 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: **ffe5dc** (`body` `background-color`), 
-Reason: Assertion failed: body background-color is not correct
-Error : AssertionError - body background-color is not correct
-Timestamp: 2025-04-30 06:37:02.807067
+Reason: None
+Timestamp: 2025-04-30 06:43:03.295801
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: **fd4d0c** (table border color)
-Reason: Assertion failed: table border-color is not correct
-Error : AssertionError - table border-color is not correct
-Timestamp: 2025-04-30 06:37:02.831097
+Reason: None
+Timestamp: 2025-04-30 06:43:03.312750
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: **792101** (box shadow color)
-Reason: Assertion failed: table box-shadow is not correct
-Error : AssertionError - table box-shadow is not correct
-Timestamp: 2025-04-30 06:37:02.843491
+Reason: None
+Timestamp: 2025-04-30 06:43:03.326058
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: **a22c02** (table data border color)
-Reason: Assertion failed: table data border-color is not correct
-Error : AssertionError - table data border-color is not correct
-Timestamp: 2025-04-30 06:37:02.858958
+Reason: None
+Timestamp: 2025-04-30 06:43:03.341198
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: **fe9772** (odd rows background color)
-Reason: Assertion failed: odd rows background-color is not correct
-Error : AssertionError - odd rows background-color is not correct
-Timestamp: 2025-04-30 06:37:02.944605
+Reason: None
+Timestamp: 2025-04-30 06:43:03.378145
