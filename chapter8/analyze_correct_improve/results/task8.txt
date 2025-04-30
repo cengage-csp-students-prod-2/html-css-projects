@@ -1,0 +1,67 @@
+
+Status: FAILED!
+Check: 1
+Test: Create a style rule for the `form` element that sets the `width` to **80%**,   sets the top and bottom margins to **zero**, and the left and right margins to   **auto**
+Reason: Assertion failed: The width of the form element should be set to 80%
+Error : AssertionError - The width of the form element should be set to 80%
+Timestamp: 2025-04-30 03:32:39.257667
+
+Status: FAILED!
+Check: 2
+Test: Create a style rule for the `grid` class that sets the `display` to a **grid**, sets the grid template columns value to **auto auto**, and sets the grid gap to   **20px**
+Reason: Assertion failed: The display property of the grid class should be set to grid
+Error : AssertionError - The display property of the grid class should be set to grid
+Timestamp: 2025-04-30 03:32:39.271102
+
+Status: FAILED!
+Check: 3
+Test: Create a style rule for the `btn` class that sets the grid column value to **1 / span 2** and `padding` to **3%**
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55614267175a <unknown>
+#1 0x5561421244b0 <unknown>
+#2 0x5561421759b3 <unknown>
+#3 0x556142175ba1 <unknown>
+#4 0x5561421c41f4 <unknown>
+#5 0x55614219b5bd <unknown>
+#6 0x5561421c15e0 <unknown>
+#7 0x55614219b363 <unknown>
+#8 0x556142167d63 <unknown>
+#9 0x5561421689c1 <unknown>
+#10 0x556142636a6b <unknown>
+#11 0x55614263a951 <unknown>
+#12 0x55614261eb62 <unknown>
+#13 0x55614263b4c4 <unknown>
+#14 0x55614260313f <unknown>
+#15 0x55614265f6f8 <unknown>
+#16 0x55614265f8d6 <unknown>
+#17 0x5561426705a6 <unknown>
+#18 0x7f602b49caa4 <unknown>
+#19 0x7f602b529c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".btn"}
+  (Session info: chrome=135.0.7049.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55614267175a <unknown>
+#1 0x5561421244b0 <unknown>
+#2 0x5561421759b3 <unknown>
+#3 0x556142175ba1 <unknown>
+#4 0x5561421c41f4 <unknown>
+#5 0x55614219b5bd <unknown>
+#6 0x5561421c15e0 <unknown>
+#7 0x55614219b363 <unknown>
+#8 0x556142167d63 <unknown>
+#9 0x5561421689c1 <unknown>
+#10 0x556142636a6b <unknown>
+#11 0x55614263a951 <unknown>
+#12 0x55614261eb62 <unknown>
+#13 0x55614263b4c4 <unknown>
+#14 0x55614260313f <unknown>
+#15 0x55614265f6f8 <unknown>
+#16 0x55614265f8d6 <unknown>
+#17 0x5561426705a6 <unknown>
+#18 0x7f602b49caa4 <unknown>
+#19 0x7f602b529c3c <unknown>
+
+Timestamp: 2025-04-30 03:32:40.299071
