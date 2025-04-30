@@ -2,19 +2,20 @@
 Status: FAILED!
 Check: 1
 Test: Table head row 1 is set correctly
-Reason: Assertion failed: `th` element count incorrect in first row, found: 3, expected: 2 (Hint: Use colspan & rowspan attributes)
-Error : AssertionError - `th` element count incorrect in first row, found: 3, expected: 2 (Hint: Use colspan & rowspan attributes)
-Timestamp: 2025-04-30 07:51:43.390126
+Reason: Assertion failed: Table not found
+Error : AssertionError - Table not found
+Timestamp: 2025-04-30 07:54:34.801970
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
-Reason: Assertion failed: th element count incorrect in second row, found: 2, expected: 3
-Error : AssertionError - th element count incorrect in second row, found: 2, expected: 3
-Timestamp: 2025-04-30 07:51:43.391529
+Reason: Assertion failed: Table not found
+Error : AssertionError - Table not found
+Timestamp: 2025-04-30 07:54:34.804397
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Table body rows are set correctly
-Reason: None
-Timestamp: 2025-04-30 07:51:43.392957
+Reason: Assertion failed: Table not found
+Error : AssertionError - Table not found
+Timestamp: 2025-04-30 07:54:34.806853

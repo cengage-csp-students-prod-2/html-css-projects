@@ -3,28 +3,216 @@ Status: PASSED!
 Check: 1
 Test: **ffe5dc** (`body` `background-color`), 
 Reason: None
-Timestamp: 2025-04-30 07:51:51.373802
+Timestamp: 2025-04-30 07:54:36.612982
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: **fd4d0c** (table border color)
-Reason: None
-Timestamp: 2025-04-30 07:51:51.397550
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
 
-Status: PASSED!
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
+
+Timestamp: 2025-04-30 07:54:37.651224
+
+Status: FAILED!
 Check: 3
 Test: **792101** (box shadow color)
-Reason: None
-Timestamp: 2025-04-30 07:51:51.413946
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
 
-Status: PASSED!
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
+
+Timestamp: 2025-04-30 07:54:38.686583
+
+Status: FAILED!
 Check: 4
 Test: **a22c02** (table data border color)
-Reason: None
-Timestamp: 2025-04-30 07:51:51.427638
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
 
-Status: PASSED!
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"td"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
+
+Timestamp: 2025-04-30 07:54:39.724240
+
+Status: FAILED!
 Check: 5
 Test: **fe9772** (odd rows background color)
-Reason: None
-Timestamp: 2025-04-30 07:51:51.489579
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"table"}
+  (Session info: chrome=135.0.7049.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5625b63c0cea <unknown>
+#1 0x5625b5e715f0 <unknown>
+#2 0x5625b5ec2a33 <unknown>
+#3 0x5625b5ec2c21 <unknown>
+#4 0x5625b5f11274 <unknown>
+#5 0x5625b5ee868d <unknown>
+#6 0x5625b5f0e660 <unknown>
+#7 0x5625b5ee8433 <unknown>
+#8 0x5625b5eb4ea3 <unknown>
+#9 0x5625b5eb5b01 <unknown>
+#10 0x5625b6385b3b <unknown>
+#11 0x5625b6389a21 <unknown>
+#12 0x5625b636cc32 <unknown>
+#13 0x5625b638a594 <unknown>
+#14 0x5625b6350eef <unknown>
+#15 0x5625b63aed98 <unknown>
+#16 0x5625b63aef76 <unknown>
+#17 0x5625b63bfb36 <unknown>
+#18 0x7fafa249caa4 <unknown>
+#19 0x7fafa2529c3c <unknown>
+
+Timestamp: 2025-04-30 07:54:40.757339
