@@ -4,17 +4,17 @@ Check: 1
 Test: Table head row 1 is set correctly
 Reason: Assertion failed: `th` element count incorrect in first row, found: 4, expected: 2 (Hint: Use colspan & rowspan attributes)
 Error : AssertionError - `th` element count incorrect in first row, found: 4, expected: 2 (Hint: Use colspan & rowspan attributes)
-Timestamp: 2025-04-30 07:33:59.626239
+Timestamp: 2025-04-30 07:38:22.117384
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
-Reason: Assertion failed: th element count incorrect in second row, found: 0, expected: 3
-Error : AssertionError - th element count incorrect in second row, found: 0, expected: 3
-Timestamp: 2025-04-30 07:33:59.628619
+Reason: Assertion failed: th element count incorrect in second row, found: 4, expected: 3
+Error : AssertionError - th element count incorrect in second row, found: 4, expected: 3
+Timestamp: 2025-04-30 07:38:22.118974
 
 Status: PASSED!
 Check: 3
 Test: Table body rows are set correctly
 Reason: None
-Timestamp: 2025-04-30 07:33:59.631095
+Timestamp: 2025-04-30 07:38:22.120372
