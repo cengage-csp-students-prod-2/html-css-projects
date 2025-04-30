@@ -4,11 +4,11 @@ Check: 1
 Test: The first fieldset element has a legend element with the text 'Customer Information'
 Reason: Assertion failed: There should be 2 fieldset elements within the form in the index.html file
 Error : AssertionError - There should be 2 fieldset elements within the form in the index.html file
-Timestamp: 2025-04-30 03:32:21.773667
+Timestamp: 2025-04-30 03:33:50.274663
 
 Status: FAILED!
 Check: 2
 Test: The second fieldset element has a legend element with the text 'Payment Information'
 Reason: Assertion failed: There should be 2 fieldset elements within the form in the index.html file
 Error : AssertionError - There should be 2 fieldset elements within the form in the index.html file
-Timestamp: 2025-04-30 03:32:21.774973
+Timestamp: 2025-04-30 03:33:50.275958
