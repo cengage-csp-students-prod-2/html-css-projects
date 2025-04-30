@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: The first figure element contains an img element with the blind-deer image.
 Reason: None
-Timestamp: 2025-04-30 02:14:59.831099
+Timestamp: 2025-04-30 02:17:33.827481
 
 Status: PASSED!
 Check: 2
 Test: The first figure element contains a figcaption element with the text 'Russ is a blind deer. He was brought to us by a hunter who found him wandering in circles.'.
 Reason: None
-Timestamp: 2025-04-30 02:14:59.833829
+Timestamp: 2025-04-30 02:17:33.830321
 
 Status: PASSED!
 Check: 3
 Test: The second figure element contains an img element with the baby-squirrel image.
 Reason: None
-Timestamp: 2025-04-30 02:14:59.838009
+Timestamp: 2025-04-30 02:17:33.833071
 
 Status: PASSED!
 Check: 4
 Test: The second figure element contains a figcaption element with the text 'Meet Nugget. He is learning how to climb trees and will be released in a few more weeks.'.
 Reason: None
-Timestamp: 2025-04-30 02:14:59.841820
+Timestamp: 2025-04-30 02:17:33.835735
