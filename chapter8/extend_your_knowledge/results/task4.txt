@@ -3,29 +3,29 @@ Status: PASSED!
 Check: 1
 Test: **ffe5dc** (`body` `background-color`), 
 Reason: None
-Timestamp: 2025-04-30 06:57:28.167195
+Timestamp: 2025-04-30 06:59:18.541657
 
 Status: PASSED!
 Check: 2
 Test: **fd4d0c** (table border color)
 Reason: None
-Timestamp: 2025-04-30 06:57:28.184199
+Timestamp: 2025-04-30 06:59:18.558819
 
 Status: PASSED!
 Check: 3
 Test: **792101** (box shadow color)
 Reason: None
-Timestamp: 2025-04-30 06:57:28.197109
+Timestamp: 2025-04-30 06:59:18.572012
 
 Status: PASSED!
 Check: 4
 Test: **a22c02** (table data border color)
 Reason: None
-Timestamp: 2025-04-30 06:57:28.210878
+Timestamp: 2025-04-30 06:59:18.585527
 
 Status: FAILED!
 Check: 5
 Test: **fe9772** (odd rows background color)
 Reason: Assertion failed: odd rows background-color is not correct
 Error : AssertionError - odd rows background-color is not correct
-Timestamp: 2025-04-30 06:57:28.234494
+Timestamp: 2025-04-30 06:59:18.606408
