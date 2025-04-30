@@ -27,6 +27,6 @@ td {
 }
 
 /* Style for odd table rows */
-tr:nth-child(odd) {
+tbody tr:nth-child(odd) {
     background-color: #fe9772;
 }
