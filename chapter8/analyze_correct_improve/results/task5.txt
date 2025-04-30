@@ -1,7 +1,0 @@
-
-Status: FAILED!
-Check: 1
-Test: The form contains a submit button with a class attribute value of 'btn'
-Reason: Assertion failed: No button element found in the form element
-Error : AssertionError - No button element found in the form element
-Timestamp: 2025-04-30 03:04:45.762697
