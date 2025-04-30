@@ -4,18 +4,18 @@ Check: 1
 Test: Add a declaration for the `position` property with a value of **fixed**
 Reason: Assertion failed: The `position` property does not have a value of fixed.
 Error : AssertionError - The `position` property does not have a value of fixed.
-Timestamp: 2025-04-30 09:53:42.855227
+Timestamp: 2025-04-30 09:56:55.194479
 
 Status: FAILED!
 Check: 2
 Test: Add a declaration for the `top` property and specify a value of 90px
 Reason: Assertion failed: The `top` property does not have a value of 90px.
 Error : AssertionError - The `top` property does not have a value of 90px.
-Timestamp: 2025-04-30 09:53:42.865546
+Timestamp: 2025-04-30 09:56:55.206560
 
 Status: FAILED!
 Check: 3
 Test: Add a declaration for the `right` property with a value of 10px
 Reason: Assertion failed: The `right` property does not have a value of 10px.
 Error : AssertionError - The `right` property does not have a value of 10px.
-Timestamp: 2025-04-30 09:53:42.877718
+Timestamp: 2025-04-30 09:56:55.219503
