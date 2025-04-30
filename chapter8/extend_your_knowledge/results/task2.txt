@@ -4,17 +4,17 @@ Check: 1
 Test: Table head row 1 is set correctly
 Reason: Assertion failed: Table head row count is incorrect, found: 1, expected: 2
 Error : AssertionError - Table head row count is incorrect, found: 1, expected: 2
-Timestamp: 2025-04-30 07:20:24.137980
+Timestamp: 2025-04-30 07:21:20.615231
 
 Status: FAILED!
 Check: 2
 Test: Table head row 2 is set correctly
 Reason: Assertion failed: Table head row count is incorrect, found: 1, expected: 2
 Error : AssertionError - Table head row count is incorrect, found: 1, expected: 2
-Timestamp: 2025-04-30 07:20:24.139335
+Timestamp: 2025-04-30 07:21:20.617685
 
 Status: PASSED!
 Check: 3
 Test: Table body rows are set correctly
 Reason: None
-Timestamp: 2025-04-30 07:20:24.140781
+Timestamp: 2025-04-30 07:21:20.619886
