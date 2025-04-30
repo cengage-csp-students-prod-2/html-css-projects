@@ -37,14 +37,14 @@ body {
 
 /* fixed */
 .fixed {
-    position:fixed;
+    position: fixed;
     top: 90px;
     right: 10px;
 }
 
 /* absolute */
 .absolute {
-    position:absolute;
+    position: absolute;
     bottom: 0px;
     right: 0px;
 }
