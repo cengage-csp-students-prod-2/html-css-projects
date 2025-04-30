@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-30 07:21:20.611956
+Timestamp: 2025-04-30 07:22:53.255365
 
 Status: PASSED!
 Check: 2
 Test: Update the comment with todays date (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-30 07:21:20.612307
+Timestamp: 2025-04-30 07:22:53.255738
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with the **file name**
 Reason: 'File Name: index.html' was found in the program output.None
-Timestamp: 2025-04-30 07:21:20.612573
+Timestamp: 2025-04-30 07:22:53.255991

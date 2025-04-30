@@ -3,23 +3,23 @@ Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Author: firstname lastname' was found in the program output.None
-Timestamp: 2025-04-30 07:21:20.620066
+Timestamp: 2025-04-30 07:22:53.264421
 
 Status: PASSED!
 Check: 2
 Test: Update the comment with todays date (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-04-30 07:21:20.620238
+Timestamp: 2025-04-30 07:22:53.264615
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with the **file name**
 Reason: 'File Name: styles.css' was found in the program output.None
-Timestamp: 2025-04-30 07:21:20.620460
+Timestamp: 2025-04-30 07:22:53.264879
 
 Status: FAILED!
 Check: 4
 Test: Link index.html to the styles.css file
 Reason: Assertion failed: Link href attribute is incorrect
 Error : AssertionError - Link href attribute is incorrect
-Timestamp: 2025-04-30 07:21:20.622345
+Timestamp: 2025-04-30 07:22:53.267101
