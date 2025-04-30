@@ -4,25 +4,25 @@ Check: 1
 Test: Add the `aside`, `figure`, and `figcaption` elements to the CSS reset
 Reason: Assertion failed: The 'aside', 'figure', and 'figcaption' elements are not included in the CSS reset.
 Error : AssertionError - The 'aside', 'figure', and 'figcaption' elements are not included in the CSS reset.
-Timestamp: 2025-04-30 02:17:33.959712
+Timestamp: 2025-04-30 02:25:58.287164
 
 Status: FAILED!
 Check: 2
 Test: Add a new style rule for the `aside` element
 Reason: Assertion failed: The 'aside' element should have a font-size value of '1.5em'., found: 48px
 Error : AssertionError - The 'aside' element should have a font-size value of '1.5em'., found: 48px
-Timestamp: 2025-04-30 02:17:34.011692
+Timestamp: 2025-04-30 02:25:58.334097
 
 Status: FAILED!
 Check: 3
 Test: Add a new style rule for the `figure` element
 Reason: Assertion failed: The 'figure' element should have a border value of '4px solid #2a1f14'.
 Error : AssertionError - The 'figure' element should have a border value of '4px solid #2a1f14'.
-Timestamp: 2025-04-30 02:17:34.049781
+Timestamp: 2025-04-30 02:25:58.368357
 
 Status: FAILED!
 Check: 4
 Test: Add a new style rule for the `figcaption` element
 Reason: Assertion failed: The 'figcaption' element should have a padding value of '2%'., found: 0px
 Error : AssertionError - The 'figcaption' element should have a padding value of '2%'., found: 0px
-Timestamp: 2025-04-30 02:17:34.072697
+Timestamp: 2025-04-30 02:25:58.390285
