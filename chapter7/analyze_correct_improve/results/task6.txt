@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a declaration to the `aside` style rule that specifies a text shadow with the values 4px 4px 8px #fc7307. 
-Reason: Assertion failed: Text shadow not set to 4px 4px 8px #fc7307
-Error : AssertionError - Text shadow not set to 4px 4px 8px #fc7307
-Timestamp: 2025-04-30 00:47:35.218265
+Reason: None
+Timestamp: 2025-04-30 00:52:17.012594
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a declaration to the `aside` style rule that specifies a box shadow with the values 4px 4px 10px #183440
-Reason: Assertion failed: Box shadow not set to 4px 4px 10px #183440
-Error : AssertionError - Box shadow not set to 4px 4px 10px #183440
-Timestamp: 2025-04-30 00:47:35.258616
+Reason: None
+Timestamp: 2025-04-30 00:52:17.031231

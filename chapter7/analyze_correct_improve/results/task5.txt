@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a declaration to the `section` style rule that sets the background color to #9d4502
-Reason: Assertion failed: Background color not set to #9d4502
-Error : AssertionError - Background color not set to #9d4502
-Timestamp: 2025-04-30 00:47:35.137941
+Reason: None
+Timestamp: 2025-04-30 00:52:16.955368
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a declaration to the `section` style rule that sets the top and bottom margin to 1% and the left and right margin to 0
-Reason: Assertion failed: Margin not set to 1% 0px
-Error : AssertionError - Margin not set to 1% 0px
-Timestamp: 2025-04-30 00:47:35.169131
+Reason: None
+Timestamp: 2025-04-30 00:52:16.970708
