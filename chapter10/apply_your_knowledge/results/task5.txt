@@ -1,35 +1,30 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Animation name property with -webkit- prefix added to the square class selector
-Reason: Unable to find 'Add the -webkit-animation-name property to the square class selector' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-06 04:23:59.859626
+Reason: 'Add the -webkit-animation-name property to the square class selector' was found in the program output.None
+Timestamp: 2025-05-06 04:30:32.789519
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Animation name property added to the square class selector
-Reason: Unable to find 'Add the animation-name property to the square class selector' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-06 04:23:59.860078
+Reason: 'Add the animation-name property to the square class selector' was found in the program output.None
+Timestamp: 2025-05-06 04:30:32.789882
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Animation duration property added to the square class selector
-Reason: Unable to find 'Add the -webkit-animation-duration property to the square class selector with the proper value' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-06 04:23:59.860391
+Reason: 'Add the -webkit-animation-duration property to the square class selector with the proper value' was found in the program output.None
+Timestamp: 2025-05-06 04:30:32.790412
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Animation duration property added to the square class selector
-Reason: Unable to find 'Add the animation-duration property to the square class selector with the proper value' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-06 04:23:59.860669
+Reason: 'Add the animation-duration property to the square class selector with the proper value' was found in the program output.None
+Timestamp: 2025-05-06 04:30:32.790968
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Square element is animating
-Reason: Assertion failed: The square element is not animating
-Error : AssertionError - The square element is not animating
-Timestamp: 2025-05-06 04:23:59.905871
+Reason: None
+Timestamp: 2025-05-06 04:30:32.837704

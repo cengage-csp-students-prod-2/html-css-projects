@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: CSS link updated to use the styles.css file
-Reason: Assertion failed: The href attribute is not set to css/styles.css
-Error : AssertionError - The href attribute is not set to css/styles.css
-Timestamp: 2025-05-06 04:23:59.816525
+Reason: None
+Timestamp: 2025-05-06 04:30:32.738264
