@@ -3,52 +3,52 @@ Status: PASSED!
 Check: 1
 Test: div element has class attribute mobile-tablet
 Reason: None
-Timestamp: 2025-05-06 03:55:31.375302
+Timestamp: 2025-05-06 03:58:48.688636
 
 Status: PASSED!
 Check: 2
 Test: h3 element with text Sponsorship Levels
 Reason: None
-Timestamp: 2025-05-06 03:55:31.378973
+Timestamp: 2025-05-06 03:58:48.691628
 
 Status: PASSED!
 Check: 3
 Test: paragraph elements with text Green: $200
 Reason: None
-Timestamp: 2025-05-06 03:55:31.381663
+Timestamp: 2025-05-06 03:58:48.695557
 
 Status: PASSED!
 Check: 4
 Test: Paragraph element with the text **Blue: $400**.
 Reason: None
-Timestamp: 2025-05-06 03:55:31.384343
+Timestamp: 2025-05-06 03:58:48.699723
 
 Status: PASSED!
 Check: 5
 Test: Paragraph element with the text **Red: $600**.
 Reason: None
-Timestamp: 2025-05-06 03:55:31.387018
+Timestamp: 2025-05-06 03:58:48.702622
 
 Status: PASSED!
 Check: 6
 Test: Paragraph element with the text **Purple: $800**.
 Reason: None
-Timestamp: 2025-05-06 03:55:31.389667
+Timestamp: 2025-05-06 03:58:48.705390
 
 Status: PASSED!
 Check: 7
 Test: Paragraph element with the text **Silver: $1,000**.
 Reason: None
-Timestamp: 2025-05-06 03:55:31.393420
+Timestamp: 2025-05-06 03:58:48.709106
 
 Status: PASSED!
 Check: 8
 Test: Paragraph element with the text **Gold: $1,500**.
 Reason: None
-Timestamp: 2025-05-06 03:55:31.397143
+Timestamp: 2025-05-06 03:58:48.711842
 
 Status: PASSED!
 Check: 9
 Test: Paragraph element with the text **Each sponsorship supports our animals and operations. Business recognition is given at every sponsorship level. Contact us today to become a sponsor.**
 Reason: None
-Timestamp: 2025-05-06 03:55:31.400916
+Timestamp: 2025-05-06 03:58:48.714562
