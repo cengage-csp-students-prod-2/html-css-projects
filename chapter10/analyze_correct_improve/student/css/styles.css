@@ -13,6 +13,16 @@ body {
 	margin: 0 auto;
 }
 
+/* Center the figure element */
+figure {
+    text-align: center;
+}
+
+/* Add padding to all img elements */
+img {
+    padding: 1em;
+}
+
 header {
 	margin-top: 0.2em;
 	text-align: center;
