@@ -3,17 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Audio element added to the file index.html
 Reason: None
-Timestamp: 2025-05-06 00:07:02.780714
+Timestamp: 2025-05-06 00:10:06.255018
 
 Status: PASSED!
 Check: 2
 Test: Audio element has controls attribute
 Reason: None
-Timestamp: 2025-05-06 00:07:02.783218
+Timestamp: 2025-05-06 00:10:06.257705
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Two source elements added to the audio element with the correct audio files
-Reason: Assertion failed: Source element 2 is missing the type attribute or it is not set to audio/ogg
-Error : AssertionError - Source element 2 is missing the type attribute or it is not set to audio/ogg
-Timestamp: 2025-05-06 00:07:02.785560
+Reason: None
+Timestamp: 2025-05-06 00:10:06.260216
