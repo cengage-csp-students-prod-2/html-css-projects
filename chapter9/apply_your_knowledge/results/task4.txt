@@ -1,21 +1,19 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Audio element added to the file index.html
-Reason: Assertion failed: Could not find the audio element below the h3 element
-Error : AssertionError - Could not find the audio element below the h3 element
-Timestamp: 2025-05-05 23:59:34.628344
+Reason: None
+Timestamp: 2025-05-06 00:07:02.780714
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Audio element has controls attribute
-Reason: Assertion failed: Could not find the audio element below the h3 element
-Error : AssertionError - Could not find the audio element below the h3 element
-Timestamp: 2025-05-05 23:59:34.629676
+Reason: None
+Timestamp: 2025-05-06 00:07:02.783218
 
 Status: FAILED!
 Check: 3
 Test: Two source elements added to the audio element with the correct audio files
-Reason: Assertion failed: Could not find the audio element below the h3 element
-Error : AssertionError - Could not find the audio element below the h3 element
-Timestamp: 2025-05-05 23:59:34.631086
+Reason: Assertion failed: Source element 2 is missing the type attribute or it is not set to audio/ogg
+Error : AssertionError - Source element 2 is missing the type attribute or it is not set to audio/ogg
+Timestamp: 2025-05-06 00:07:02.785560
