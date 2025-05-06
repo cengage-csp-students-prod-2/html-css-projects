@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The hide button hides the content nested inside the article
-Reason: Assertion failed: Expected the paragraph elements within the article elements to be hidden
-Error : AssertionError - Expected the paragraph elements within the article elements to be hidden
-Timestamp: 2025-05-06 05:00:18.292563
+Reason: None
+Timestamp: 2025-05-06 05:04:44.758415
