@@ -1,0 +1,53 @@
+
+Status: FAILED!
+Check: 1
+Test: Correct Syntax errors in pic3() function
+Reason: JavascriptException occurred: Message: javascript error: pic3 is not defined
+  (Session info: chrome=135.0.7049.114)
+Stacktrace:
+#0 0x56040b70875a <unknown>
+#1 0x56040b1bb4b0 <unknown>
+#2 0x56040b1c20b6 <unknown>
+#3 0x56040b1c4c07 <unknown>
+#4 0x56040b25961e <unknown>
+#5 0x56040b232592 <unknown>
+#6 0x56040b2585e0 <unknown>
+#7 0x56040b232363 <unknown>
+#8 0x56040b1fed63 <unknown>
+#9 0x56040b1ff9c1 <unknown>
+#10 0x56040b6cda6b <unknown>
+#11 0x56040b6d1951 <unknown>
+#12 0x56040b6b5b62 <unknown>
+#13 0x56040b6d24c4 <unknown>
+#14 0x56040b69a13f <unknown>
+#15 0x56040b6f66f8 <unknown>
+#16 0x56040b6f68d6 <unknown>
+#17 0x56040b7075a6 <unknown>
+#18 0x7f490fa9caa4 <unknown>
+#19 0x7f490fb29c3c <unknown>
+
+Error : JavascriptException - Message: javascript error: pic3 is not defined
+  (Session info: chrome=135.0.7049.114)
+Stacktrace:
+#0 0x56040b70875a <unknown>
+#1 0x56040b1bb4b0 <unknown>
+#2 0x56040b1c20b6 <unknown>
+#3 0x56040b1c4c07 <unknown>
+#4 0x56040b25961e <unknown>
+#5 0x56040b232592 <unknown>
+#6 0x56040b2585e0 <unknown>
+#7 0x56040b232363 <unknown>
+#8 0x56040b1fed63 <unknown>
+#9 0x56040b1ff9c1 <unknown>
+#10 0x56040b6cda6b <unknown>
+#11 0x56040b6d1951 <unknown>
+#12 0x56040b6b5b62 <unknown>
+#13 0x56040b6d24c4 <unknown>
+#14 0x56040b69a13f <unknown>
+#15 0x56040b6f66f8 <unknown>
+#16 0x56040b6f68d6 <unknown>
+#17 0x56040b7075a6 <unknown>
+#18 0x7f490fa9caa4 <unknown>
+#19 0x7f490fb29c3c <unknown>
+
+Timestamp: 2025-05-06 06:40:21.429726
