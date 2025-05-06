@@ -4,30 +4,30 @@ Check: 1
 Test: Create a style rule for the `table` selector that specifies a `border` with values of **1px solid #2a1f14**, collapses the border, and sets top and bottom margins to **zero** and left and right margins to   **auto**.
 Reason: Assertion failed: The margin style rule for the table selector is not as specified
 Error : AssertionError - The margin style rule for the table selector is not as specified
-Timestamp: 2025-05-06 03:23:26.726075
+Timestamp: 2025-05-06 03:27:56.503346
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the `caption` selector that specifies a `font-size` of **1.5em**, `font-weight` of **bold**, and sets the `padding` to **1%**.
 Reason: Assertion failed: The padding style rule for the caption selector is not as specified
 Error : AssertionError - The padding style rule for the caption selector is not as specified
-Timestamp: 2025-05-06 03:23:26.756778
+Timestamp: 2025-05-06 03:27:56.532805
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for `th` and `td` selectors that specifies a `border` with values of **1px solid #2a1f14**, and sets the `padding` to **1%**.
 Reason: Assertion failed: The padding style rule for the th selector is not as specified
 Error : AssertionError - The padding style rule for the th selector is not as specified
-Timestamp: 2025-05-06 03:23:26.774793
+Timestamp: 2025-05-06 03:27:56.550825
 
 Status: PASSED!
 Check: 4
 Test: Create a style rule for the `th` selector that sets the `background-color` to **2a1f14**, the `color` to **white** (fff), and the `font-size` to **1.15em**.
 Reason: None
-Timestamp: 2025-05-06 03:23:26.798960
+Timestamp: 2025-05-06 03:27:56.574506
 
 Status: PASSED!
 Check: 5
 Test: Create a style rule for the `tr` selector that sets the `background-color` to **#deccba** for odd rows.
 Reason: None
-Timestamp: 2025-05-06 03:23:26.812397
+Timestamp: 2025-05-06 03:27:56.587659
