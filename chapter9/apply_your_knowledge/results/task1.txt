@@ -1,25 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Title added to the file index.html
-Reason: Assertion failed: The title element is empty
-Error : AssertionError - The title element is empty
-Timestamp: 2025-05-06 00:10:06.232181
+Reason: None
+Timestamp: 2025-05-06 00:12:28.918737
 
 Status: PASSED!
 Check: 2
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-05-06 00:10:06.232814
+Timestamp: 2025-05-06 00:12:28.919151
 
 Status: PASSED!
 Check: 3
 Test: "Date" added to comment section of the file index.html
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-06 00:10:06.233087
+Timestamp: 2025-05-06 00:12:28.919463
 
 Status: PASSED!
 Check: 4
 Test: Student name added to the paragraph element within the footer element
 Reason: None
-Timestamp: 2025-05-06 00:10:06.235810
+Timestamp: 2025-05-06 00:12:28.922479
