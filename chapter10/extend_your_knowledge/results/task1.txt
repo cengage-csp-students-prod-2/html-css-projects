@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-05-06 05:04:41.594092
+Timestamp: 2025-05-06 05:06:25.935002
 
 Status: PASSED!
 Check: 2
 Test: "Filename" added to comment section of the file index.html
 Reason: 'File Name: index.html' was found in the program output.None
-Timestamp: 2025-05-06 05:04:41.594344
+Timestamp: 2025-05-06 05:06:25.935211
 
 Status: PASSED!
 Check: 3
 Test: Add **your name** to the paragraph element located within the `footer` element near the bottom of the page
 Reason: None
-Timestamp: 2025-05-06 05:04:41.595626
+Timestamp: 2025-05-06 05:06:25.936341
 
 Status: PASSED!
 Check: 4
 Test: Add a `script` element referring to the *script.js* file above the closing `body` tag
 Reason: None
-Timestamp: 2025-05-06 05:04:41.596560
+Timestamp: 2025-05-06 05:06:25.937232

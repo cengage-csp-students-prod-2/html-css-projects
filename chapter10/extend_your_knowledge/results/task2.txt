@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file script.js
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-05-06 05:04:41.596699
+Timestamp: 2025-05-06 05:06:25.937361
 
 Status: PASSED!
 Check: 2
 Test: "Filename" added to comment section of the file script.js
 Reason: 'File Name: script.js' was found in the program output.None
-Timestamp: 2025-05-06 05:04:41.596899
+Timestamp: 2025-05-06 05:06:25.937589
 
 Status: PASSED!
 Check: 3
 Test: "Date" added to comment section of the file script.js
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-06 05:04:41.597078
+Timestamp: 2025-05-06 05:06:25.937757
