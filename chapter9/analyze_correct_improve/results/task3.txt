@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Poster attribute added to the video element
-Reason: Assertion failed: Video element is missing the poster attribute
-Error : AssertionError - Video element is missing the poster attribute
-Timestamp: 2025-05-06 00:27:02.655825
+Reason: None
+Timestamp: 2025-05-06 00:59:09.276420
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Controls attribute added to the video element
-Reason: Assertion failed: Video element is missing the controls attribute
-Error : AssertionError - Video element is missing the controls attribute
-Timestamp: 2025-05-06 00:27:02.657519
+Reason: None
+Timestamp: 2025-05-06 00:59:09.278410

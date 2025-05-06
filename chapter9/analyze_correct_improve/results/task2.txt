@@ -1,13 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Two video source files added to the video element
-Reason: Assertion failed: Could not find any source elements within the video element
-Error : AssertionError - Could not find any source elements within the video element
-Timestamp: 2025-05-06 00:27:02.651904
+Reason: None
+Timestamp: 2025-05-06 00:59:09.272340
 
 Status: PASSED!
 Check: 2
 Test: Paragraph element added for legacy browser users
 Reason: None
-Timestamp: 2025-05-06 00:27:02.653975
+Timestamp: 2025-05-06 00:59:09.274514
