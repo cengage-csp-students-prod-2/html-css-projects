@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: New media folder created in the music folder
+Reason: Assertion failed: The media folder does not exist in the music folder
+Error : AssertionError - The media folder does not exist in the music folder
+Timestamp: 2025-05-06 01:16:34.020694
+
+Status: FAILED!
+Check: 2
+Test: Media files moved and unzipped into the media folder
+Reason: Assertion failed: The wildrescues.mp4 file or the wildrescues.webm file does not exist in the media folder
+Error : AssertionError - The wildrescues.mp4 file or the wildrescues.webm file does not exist in the media folder
+Timestamp: 2025-05-06 01:16:34.020949
