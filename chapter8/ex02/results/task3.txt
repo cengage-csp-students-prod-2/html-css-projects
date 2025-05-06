@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Insert a new `div` element below the `mobile-tablet` `div` element with `id` attribute with a value of **partner** and a class attribute with a value of **desktop**
-Reason: None
-Timestamp: 2025-05-06 02:43:07.675682
+Reason: Assertion failed: The class attribute value of the div element is not desktop
+Error : AssertionError - The class attribute value of the div element is not desktop
+Timestamp: 2025-05-06 02:47:04.900210
