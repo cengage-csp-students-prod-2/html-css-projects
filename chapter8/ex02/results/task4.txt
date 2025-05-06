@@ -1,12 +1,14 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Nest a `table` within the `partner` `div` element with the caption text "Sponsorship Opportunities" inside the table
-Reason: None
-Timestamp: 2025-05-06 01:50:53.739443
+Reason: Assertion failed: The table element does not exist within the div element with id attribute value of partner
+Error : AssertionError - The table element does not exist within the div element with id attribute value of partner
+Timestamp: 2025-05-06 02:43:07.678379
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Insert seven rows within the table
-Reason: None
-Timestamp: 2025-05-06 01:50:53.742613
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_all'
+Error : AttributeError - 'NoneType' object has no attribute 'find_all'
+Timestamp: 2025-05-06 02:43:07.681153
