@@ -1,0 +1,24 @@
+
+Status: PASSED!
+Check: 1
+Test: "Name" added to comment section of the file index.html
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2025-05-06 04:57:52.765313
+
+Status: PASSED!
+Check: 2
+Test: "Filename" added to comment section of the file index.html
+Reason: 'File Name: index.html' was found in the program output.None
+Timestamp: 2025-05-06 04:57:52.765635
+
+Status: PASSED!
+Check: 3
+Test: Add **your name** to the paragraph element located within the `footer` element near the bottom of the page
+Reason: None
+Timestamp: 2025-05-06 04:57:52.767817
+
+Status: PASSED!
+Check: 4
+Test: Add a `script` element referring to the *script.js* file above the closing `body` tag
+Reason: None
+Timestamp: 2025-05-06 04:57:52.769485
