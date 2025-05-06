@@ -3,10 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Poster attribute added to the video element
 Reason: None
-Timestamp: 2025-05-06 01:01:42.202861
+Timestamp: 2025-05-06 01:05:43.636331
 
 Status: PASSED!
 Check: 2
 Test: Controls attribute added to the video element
 Reason: None
-Timestamp: 2025-05-06 01:01:42.204584
+Timestamp: 2025-05-06 01:05:43.638212
