@@ -4,11 +4,11 @@ Check: 1
 Test: create a style rule for the `figure` element to align it center.
 Reason: Assertion failed: The figure element is not set text-align center
 Error : AssertionError - The figure element is not set text-align center
-Timestamp: 2025-05-06 06:40:21.516445
+Timestamp: 2025-05-06 06:45:08.902435
 
 Status: FAILED!
 Check: 2
 Test: create a style rule for the `img` element and specify 1em of padding.
 Reason: Assertion failed: The img element is not set padding 1em
 Error : AssertionError - The img element is not set padding 1em
-Timestamp: 2025-05-06 06:40:21.538614
+Timestamp: 2025-05-06 06:45:08.919383
