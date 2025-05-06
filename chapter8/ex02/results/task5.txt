@@ -4,4 +4,4 @@ Check: 1
 Test: create a new style rule for the `.mobile-tablet` class selector that sets the `display` to **none** for Desktop Viewports
 Reason: Assertion failed: The display value of the .mobile-tablet class selector is not set to none
 Error : AssertionError - The display value of the .mobile-tablet class selector is not set to none
-Timestamp: 2025-05-06 02:50:06.571028
+Timestamp: 2025-05-06 02:54:46.844614
