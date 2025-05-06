@@ -4,10 +4,10 @@ Check: 1
 Test: Two video source files added to the video element
 Reason: Assertion failed: Could not find any source elements within the video element
 Error : AssertionError - Could not find any source elements within the video element
-Timestamp: 2025-05-06 00:25:13.067884
+Timestamp: 2025-05-06 00:27:02.651904
 
 Status: PASSED!
 Check: 2
 Test: Paragraph element added for legacy browser users
 Reason: None
-Timestamp: 2025-05-06 00:25:13.069131
+Timestamp: 2025-05-06 00:27:02.653975
