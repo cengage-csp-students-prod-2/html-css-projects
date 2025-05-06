@@ -3,28 +3,28 @@ Status: PASSED!
 Check: 1
 Test: Animation name property with -webkit- prefix added to the square class selector
 Reason: 'Add the -webkit-animation-name property to the square class selector' was found in the program output.None
-Timestamp: 2025-05-06 04:37:36.561198
+Timestamp: 2025-05-06 04:42:37.183180
 
 Status: PASSED!
 Check: 2
 Test: Animation name property added to the square class selector
 Reason: 'Add the animation-name property to the square class selector' was found in the program output.None
-Timestamp: 2025-05-06 04:37:36.561506
+Timestamp: 2025-05-06 04:42:37.183577
 
 Status: PASSED!
 Check: 3
 Test: Animation duration property added to the square class selector
 Reason: 'Add the -webkit-animation-duration property to the square class selector with the proper value' was found in the program output.None
-Timestamp: 2025-05-06 04:37:36.561725
+Timestamp: 2025-05-06 04:42:37.183874
 
 Status: PASSED!
 Check: 4
 Test: Animation duration property added to the square class selector
 Reason: 'Add the animation-duration property to the square class selector with the proper value' was found in the program output.None
-Timestamp: 2025-05-06 04:37:36.561977
+Timestamp: 2025-05-06 04:42:37.184174
 
 Status: PASSED!
 Check: 5
 Test: Square element is animating
 Reason: None
-Timestamp: 2025-05-06 04:37:36.607533
+Timestamp: 2025-05-06 04:42:37.231785
