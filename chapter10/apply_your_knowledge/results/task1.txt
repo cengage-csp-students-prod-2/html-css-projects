@@ -3,22 +3,22 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-05-06 04:42:33.663936
+Timestamp: 2025-05-06 04:45:25.598460
 
 Status: PASSED!
 Check: 2
 Test: "Filename" added to comment section of the file index.html
 Reason: 'File Name: index.html' was found in the program output.None
-Timestamp: 2025-05-06 04:42:33.664186
+Timestamp: 2025-05-06 04:45:25.598795
 
 Status: PASSED!
 Check: 3
 Test: "Date" added to comment section of the file index.html
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-06 04:42:33.664375
+Timestamp: 2025-05-06 04:45:25.599067
 
 Status: PASSED!
 Check: 4
 Test: Student name added to the paragraph element within the footer element
 Reason: None
-Timestamp: 2025-05-06 04:42:33.665603
+Timestamp: 2025-05-06 04:45:25.601068
