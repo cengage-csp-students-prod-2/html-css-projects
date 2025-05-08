@@ -24,87 +24,76 @@ Date: 03/17/2025
             background-color: #fff;
             color: #333;
         }
-
+    
         #wrapper {
             max-width: 1200px;
             margin: 0 auto;
         }
-
+    
         header img {
             max-width: 100%;
         }
-
+    
         nav {
             background-color: #e0e0e0;
             padding: 10px;
             text-align: center;
         }
-
+    
         nav p {
             display: inline;
             margin: 0 10px;
         }
-
+    
         /* Hide .desktop by default, show .mobile-tablet */
         .desktop {
             display: none;
         }
-
+    
         .mobile-tablet {
             display: block;
         }
-
+    
         /* Media Query for Desktop */
         @media screen and (min-width: 769px) {
             /* Desktop Viewport: Show desktop class, hide mobile-tablet class */
             .desktop {
                 display: block;
             }
-
+    
             .mobile-tablet {
                 display: none;
             }
-
+    
             /* Style rules for table */
             table {
                 border: 1px solid #2a1f14;
                 border-collapse: collapse;
-                margin: 0 auto;
+                margin: 0 auto; /* Ensure this is correct! */
             }
-
+    
             caption {
                 font-size: 1.5em;
                 font-weight: bold;
-                padding: 1em;
+                padding: 1%;
             }
-
+    
             th, td {
                 border: 1px solid #2a1f14;
                 padding: 1%;
             }
-
+    
             th {
                 background-color: #2a1f14;
                 color: #fff;
                 font-size: 1.15em;
-                padding: 1%;
             }
-
+    
             tr:nth-child(odd) {
                 background-color: #deccba;
             }
         }
-
-        /* Center the figure element */
-        figure {
-            text-align: center;
-        }
-
-        /* Add padding to all image elements */
-        img {
-            padding: 1em;
-        }
-
+    
         /* Additional optional styles */
         footer {
             background-color: #f1f1f1;
@@ -114,6 +103,7 @@ Date: 03/17/2025
             font-size: 0.9em;
         }
     </style>
+        
 </head>
 <body>
     <div id="wrapper">
