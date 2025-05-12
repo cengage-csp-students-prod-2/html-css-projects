@@ -3,55 +3,55 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
 Reason: None
-Timestamp: 2025-05-12 23:15:27.681585
+Timestamp: 2025-05-12 23:21:17.617360
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
 Reason: None
-Timestamp: 2025-05-12 23:15:27.685979
+Timestamp: 2025-05-12 23:21:17.621688
 
 Status: PASSED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
 Reason: None
-Timestamp: 2025-05-12 23:15:27.690584
+Timestamp: 2025-05-12 23:21:17.625320
 
 Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
 Reason: None
-Timestamp: 2025-05-12 23:15:27.695852
+Timestamp: 2025-05-12 23:21:17.628355
 
 Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
 Reason: None
-Timestamp: 2025-05-12 23:15:27.700731
+Timestamp: 2025-05-12 23:21:17.631088
 
 Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
 Reason: None
-Timestamp: 2025-05-12 23:15:27.705229
+Timestamp: 2025-05-12 23:21:17.633426
 
 Status: FAILED!
 Check: 2
 Test: "Name" added to comment section of the file music/scripts/script.js
 Reason: Unable to find 'Student Name: firstname lastname' in the program.
 Error : str - AssertionError
-Timestamp: 2025-05-12 23:15:33.683352
+Timestamp: 2025-05-12 23:21:24.360338
 
 Status: FAILED!
 Check: 3
 Test: "Filename" added to comment section of the file music/scripts/script.js
 Reason: Unable to find 'File Name: script.js' in the program.
 Error : str - AssertionError
-Timestamp: 2025-05-12 23:15:33.683640
+Timestamp: 2025-05-12 23:21:24.360556
 
 Status: FAILED!
 Check: 4
 Test: "Date" added to comment section of the file music/scripts/script.js
 Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
 Error : str - AssertionError
-Timestamp: 2025-05-12 23:15:33.683907
+Timestamp: 2025-05-12 23:21:24.360735
