@@ -3,34 +3,53 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
 Reason: None
-Timestamp: 2025-05-12 22:21:02.635009
+Timestamp: 2025-05-12 22:22:49.163341
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
 Reason: None
-Timestamp: 2025-05-12 22:21:02.637465
+Timestamp: 2025-05-12 22:22:49.167696
 
 Status: PASSED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
 Reason: None
-Timestamp: 2025-05-12 22:21:02.640010
+Timestamp: 2025-05-12 22:22:49.172021
 
 Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
 Reason: None
-Timestamp: 2025-05-12 22:21:02.643050
+Timestamp: 2025-05-12 22:22:49.177276
 
 Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
 Reason: None
-Timestamp: 2025-05-12 22:21:02.645805
+Timestamp: 2025-05-12 22:22:49.182055
 
 Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
 Reason: None
-Timestamp: 2025-05-12 22:21:02.648153
+Timestamp: 2025-05-12 22:22:49.185863
+
+Status: FAILED!
+Check: 2
+Test: "Name" added to comment section of the file music/scripts/script.js
+Reason: Unable to find 'Student Name: firstname lastname' in the program.
+Error : str - AssertionError
+Timestamp: 2025-05-12 22:23:03.786262
+
+Status: PASSED!
+Check: 3
+Test: "Filename" added to comment section of the file music/scripts/script.js
+Reason: 'File Name: script.js' was found in the program output.None
+Timestamp: 2025-05-12 22:23:03.786515
+
+Status: PASSED!
+Check: 4
+Test: "Date" added to comment section of the file music/scripts/script.js
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2025-05-12 22:23:03.786692

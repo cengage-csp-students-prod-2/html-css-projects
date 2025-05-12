@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Add the global variables above the comment for the menu function
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/scripts/script.js'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/scripts/script.js'
-Timestamp: 2025-05-12 22:21:04.974371
+Reason: Assertion failed: Global variables not found
+Error : AssertionError - Global variables not found
+Timestamp: 2025-05-12 22:22:59.117093
