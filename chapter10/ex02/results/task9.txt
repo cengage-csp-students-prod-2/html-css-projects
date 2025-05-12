@@ -3,29 +3,28 @@ Status: PASSED!
 Check: 1
 Test: Create a new webpage faqs.html using template.html
 Reason: None
-Timestamp: 2025-05-12 22:44:16.566175
+Timestamp: 2025-05-12 22:47:14.380548
 
 Status: PASSED!
 Check: 2
 Test: "Name" added to comment section of the file rescue/faqs.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-05-12 22:44:16.566355
+Timestamp: 2025-05-12 22:47:14.380704
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: "Filename" added to comment section of the file rescue/faqs.html
-Reason: Unable to find 'File Name: faqs.html' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-12 22:44:16.566642
+Reason: 'File Name: faqs.html' was found in the program output.None
+Timestamp: 2025-05-12 22:47:14.380879
 
 Status: PASSED!
 Check: 4
 Test: "Date" added to comment section of the file rescue/faqs.html
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-12 22:44:16.566806
+Timestamp: 2025-05-12 22:47:14.380986
 
 Status: PASSED!
 Check: 5
 Test: Update the title in faqs.html to display Wild Rescues: FAQs
 Reason: None
-Timestamp: 2025-05-12 22:44:16.569123
+Timestamp: 2025-05-12 22:47:14.383263
