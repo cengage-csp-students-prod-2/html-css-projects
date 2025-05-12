@@ -4,39 +4,39 @@ Check: 1
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in about.html
 Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
 Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-12 21:59:08.861389
+Timestamp: 2025-05-12 22:10:41.669637
 
 Status: FAILED!
 Check: 2
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in contact.html
 Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
 Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-12 21:59:08.864102
+Timestamp: 2025-05-12 22:10:41.672842
 
 Status: FAILED!
 Check: 3
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in index.html
 Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
 Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-12 21:59:08.865959
+Timestamp: 2025-05-12 22:10:41.674739
 
 Status: FAILED!
 Check: 4
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in gallery.html
 Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
 Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-12 21:59:08.869442
+Timestamp: 2025-05-12 22:10:41.677805
 
 Status: FAILED!
 Check: 5
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in partnership.html
 Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
 Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-12 21:59:08.872269
+Timestamp: 2025-05-12 22:10:41.680511
 
 Status: FAILED!
 Check: 6
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in template.html
 Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
 Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-12 21:59:08.874606
+Timestamp: 2025-05-12 22:10:41.682906
