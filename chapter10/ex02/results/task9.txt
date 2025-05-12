@@ -4,11 +4,11 @@ Check: 1
 Test: Create a new webpage faqs.html using template.html
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/faqs.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/faqs.html'
-Timestamp: 2025-05-12 22:32:40.457516
+Timestamp: 2025-05-12 22:36:40.281826
 
 Status: FAILED!
 Check: 5
 Test: Update the title in faqs.html to display Wild Rescues: FAQs
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/faqs.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/faqs.html'
-Timestamp: 2025-05-12 22:32:40.458012
+Timestamp: 2025-05-12 22:36:40.282216

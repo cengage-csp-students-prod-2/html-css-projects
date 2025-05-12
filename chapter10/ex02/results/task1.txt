@@ -3,54 +3,52 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
 Reason: None
-Timestamp: 2025-05-12 22:32:20.180244
+Timestamp: 2025-05-12 22:36:33.306825
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
 Reason: None
-Timestamp: 2025-05-12 22:32:20.182649
+Timestamp: 2025-05-12 22:36:33.309219
 
 Status: PASSED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
 Reason: None
-Timestamp: 2025-05-12 22:32:20.185107
+Timestamp: 2025-05-12 22:36:33.311660
 
 Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
 Reason: None
-Timestamp: 2025-05-12 22:32:20.188053
+Timestamp: 2025-05-12 22:36:33.314599
 
 Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
 Reason: None
-Timestamp: 2025-05-12 22:32:20.190684
+Timestamp: 2025-05-12 22:36:33.317278
 
 Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
 Reason: None
-Timestamp: 2025-05-12 22:32:20.192966
+Timestamp: 2025-05-12 22:36:33.319561
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: "Name" added to comment section of the file music/scripts/script.js
-Reason: Unable to find 'Student Name: firstname lastname' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-12 22:32:40.439765
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2025-05-12 22:36:40.264832
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: "Filename" added to comment section of the file music/scripts/script.js
-Reason: Unable to find 'File Name: script.js' in the program.
-Error : str - AssertionError
-Timestamp: 2025-05-12 22:32:40.440048
+Reason: 'File Name: script.js' was found in the program output.None
+Timestamp: 2025-05-12 22:36:40.265024
 
 Status: PASSED!
 Check: 4
 Test: "Date" added to comment section of the file music/scripts/script.js
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-12 22:32:40.440287
+Timestamp: 2025-05-12 22:36:40.265201
