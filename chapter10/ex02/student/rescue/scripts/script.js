@@ -21,26 +21,20 @@ function menu() {
 		}
 }
 
-// Function to answer question 1
+// script.js
+
 function ans1() {
-    document.getElementById("answer").innerHTML = 
-        "<p>Not all alone animals are orphans. Observe from a distance. If you don’t see a parent for several hours, call a licensed wildlife rehabilitator before intervening.</p>";
+    document.getElementById("answer").innerHTML = "<p>If you see a baby animal alone, observe from a distance. The parent may be nearby. If the animal is injured or in danger, contact a licensed wildlife rehabilitator.</p>";
 }
 
-// Function to answer question 2
 function ans2() {
-    document.getElementById("answer").innerHTML = 
-        "<p>Rabid animals may show unusual aggression, confusion, excessive drooling, or paralysis. Keep your distance and contact animal control immediately.</p>";
+    document.getElementById("answer").innerHTML = "<p>Signs of rabies in animals may include unusual aggression, confusion, or drooling. Never approach a potentially rabid animal—contact animal control immediately.</p>";
 }
 
-// Function to answer question 3
 function ans3() {
-    document.getElementById("answer").innerHTML = 
-        "<p>No, birds have a limited sense of smell and will not reject their baby if touched by humans. Gently return the bird to its nest if safe.</p>";
+    document.getElementById("answer").innerHTML = "<p>No, birds have a poor sense of smell and will not abandon their baby if touched. It’s safe to return the baby bird to its nest if it’s uninjured.</p>";
 }
 
-// Function to answer question 4
 function ans4() {
-    document.getElementById("answer").innerHTML = 
-        "<p>You can volunteer by filling out the application form on our Contact Us page or emailing us at volunteer@wildrescues.net.</p>";
+    document.getElementById("answer").innerHTML = "<p>You can volunteer by visiting our contact page and submitting a volunteer form. We will reach out with available opportunities and training requirements.</p>";
 }
