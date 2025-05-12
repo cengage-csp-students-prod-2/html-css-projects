@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
 Reason: None
-Timestamp: 2025-05-12 21:36:51.605840
+Timestamp: 2025-05-12 21:44:08.311874
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
 Reason: None
-Timestamp: 2025-05-12 21:36:51.609316
+Timestamp: 2025-05-12 21:44:08.315497
 
 Status: PASSED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
 Reason: None
-Timestamp: 2025-05-12 21:36:51.613390
+Timestamp: 2025-05-12 21:44:08.319653
 
 Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
 Reason: None
-Timestamp: 2025-05-12 21:36:51.618111
+Timestamp: 2025-05-12 21:44:08.324625
 
 Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
 Reason: None
-Timestamp: 2025-05-12 21:36:51.622560
+Timestamp: 2025-05-12 21:44:08.328844
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
-Timestamp: 2025-05-12 21:36:51.622695
+Reason: None
+Timestamp: 2025-05-12 21:44:08.332228
