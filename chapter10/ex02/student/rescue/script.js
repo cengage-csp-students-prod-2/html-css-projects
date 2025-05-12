@@ -1,0 +1,18 @@
+/*
+Author: Lawrence Oladimeji
+File Name: styles.css
+Date: 05/09/2025
+*/
+
+//Hamburger menu function
+function menu() {
+    var navlinks = document.getElementById("nav-links");
+		var menuicon = document.getElementById("icon");
+		if (navlinks.style.display === "block") {
+		    navlinks.style.display = "none";
+				menuicon.style.color = "#2a1f14";
+		} else {
+		    navlinks.style.display = "block";
+				menuicon.style.color = "#f6eee4";
+		}
+}
