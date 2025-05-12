@@ -1,0 +1,42 @@
+
+Status: FAILED!
+Check: 1
+Test: Add a script element with the src attribute pointing to script.js above the closing body tag in about.html
+Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
+Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
+Timestamp: 2025-05-12 21:36:58.466930
+
+Status: FAILED!
+Check: 2
+Test: Add a script element with the src attribute pointing to script.js above the closing body tag in contact.html
+Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
+Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
+Timestamp: 2025-05-12 21:36:58.469309
+
+Status: FAILED!
+Check: 3
+Test: Add a script element with the src attribute pointing to script.js above the closing body tag in index.html
+Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
+Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
+Timestamp: 2025-05-12 21:36:58.471144
+
+Status: FAILED!
+Check: 4
+Test: Add a script element with the src attribute pointing to script.js above the closing body tag in gallery.html
+Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
+Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
+Timestamp: 2025-05-12 21:36:58.474428
+
+Status: FAILED!
+Check: 5
+Test: Add a script element with the src attribute pointing to script.js above the closing body tag in partnership.html
+Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
+Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
+Timestamp: 2025-05-12 21:36:58.477100
+
+Status: FAILED!
+Check: 6
+Test: Add a script element with the src attribute pointing to script.js above the closing body tag in template.html
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
+Timestamp: 2025-05-12 21:36:58.477247

@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add .mobile-nav to the .mobile style rule in styles.css
+Reason: Assertion failed: mobile-nav display property is not set to none
+Error : AssertionError - mobile-nav display property is not set to none
+Timestamp: 2025-05-12 21:36:58.463874
