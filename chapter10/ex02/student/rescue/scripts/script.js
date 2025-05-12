@@ -1,6 +1,6 @@
 /*
 Author: Lawrence Oladimeji
-File Name: script.js
+Name: script.js
 Date: 05/09/2025
 */
 
