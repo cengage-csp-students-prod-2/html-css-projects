@@ -58,22 +58,8 @@ Date: 05/12/2025
 
         <!-- Use the main area to add the main content to the webpage -->
         <main>
-            <div id="info">
-                <h2>Frequently Asked Questions</h2>
-
-                <!-- Questions Section -->
-                <div id="questions">
-                    <h3 onclick="displayAnswer1()">What is Wild Rescues?</h3>
-                    <h3 onclick="displayAnswer2()">What animals do you help?</h3>
-                    <h3 onclick="displayAnswer3()">How can I report an injured or orphaned animal?</h3>
-                    <h3 onclick="displayAnswer4()">Are you a member of any wildlife organizations?</h3>
-                </div>
-
-                <!-- Answer Section (will be populated by JavaScript) -->
-                <div id="answer">
-                    <!-- Answer will be displayed here when a question is clicked -->
-                </div>
-            </div>
+            <h2>Frequently Asked Questions</h2>
+            <div id="questions"></div> <!-- Added id="questions" to this empty div -->
         </main>
 
         <footer>
@@ -81,7 +67,7 @@ Date: 05/12/2025
             <p><a href="mailto:@wildrescues.net">@wildrescues.net</a></p>
         </footer>
     </div>
-    
+
     <script src="script.js"></script>
 </body>
 </html>
