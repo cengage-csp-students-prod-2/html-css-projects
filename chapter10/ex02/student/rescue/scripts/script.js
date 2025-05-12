@@ -4,6 +4,10 @@ File Name: script.js
 Date: 05/09/2025
 */
 
+//Global variables
+var answer = document.querySelector("#answer p");
+var heading = document.querySelector("#answer h2");
+
 //Hamburger menu function
 function menu() {
     var navlinks = document.getElementById("nav-links");
