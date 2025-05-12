@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Add the global variables above the comment for the menu function
 Reason: None
-Timestamp: 2025-05-12 23:04:49.610023
+Timestamp: 2025-05-12 23:09:45.518603

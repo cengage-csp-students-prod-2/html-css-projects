@@ -1,14 +1,13 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a div element below the questions div with an id attribute of answer
-Reason: Assertion failed: div element with id attribute answer not found
-Error : AssertionError - div element with id attribute answer not found
-Timestamp: 2025-05-12 23:04:49.604236
+Reason: None
+Timestamp: 2025-05-12 23:09:45.516093
 
 Status: FAILED!
 Check: 2
 Test: Nest the h2 and p elements within the answer div
-Reason: Assertion failed: div element with id attribute answer not found
-Error : AssertionError - div element with id attribute answer not found
-Timestamp: 2025-05-12 23:04:49.609355
+Reason: Assertion failed: h2 element not found
+Error : AssertionError - h2 element not found
+Timestamp: 2025-05-12 23:09:45.518271
