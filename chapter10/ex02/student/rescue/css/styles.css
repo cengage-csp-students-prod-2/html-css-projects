@@ -1,7 +1,7 @@
-/*  
+/*
 Author: Lawrence Oladimeji
 File Name: styles.css
-Date: 03/28/2025
+Date: 05/09/2025
 */
 
 /* CSS Reset */
@@ -21,14 +21,13 @@ img {
     display: block;
 }
 
-/* Style rules to show mobile class and hide tab-desk class */
+/* Style rules to show mobile class and hide tab-desk, desktop, and #nav-links */
 .mobile h1, .mobile h3 {
     padding: 2%;
     text-align: center;
 }
 
-.tab-desk,
-#nav-links {
+.tab-desk, .desktop, #nav-links {
     display: none;
 }
 
@@ -201,12 +200,7 @@ footer a {
         display: block;
     }
 
-    #nav-links {
-        display: block;
-    }
-
-    .mobile,
-    .mobile-nav {
+    .mobile, .mobile-nav {
         display: none;
     }
 
