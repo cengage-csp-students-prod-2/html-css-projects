@@ -4,4 +4,4 @@ Check: 1
 Test: Add the global variables above the comment for the menu function
 Reason: Assertion failed: Global variables not found
 Error : AssertionError - Global variables not found
-Timestamp: 2025-05-12 23:21:19.860919
+Timestamp: 2025-05-12 23:26:06.854779
