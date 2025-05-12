@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add the global variables above the comment for the menu function
-Reason: None
-Timestamp: 2025-05-12 23:09:45.518603
+Reason: Assertion failed: Global variables not found
+Error : AssertionError - Global variables not found
+Timestamp: 2025-05-12 23:15:29.105222

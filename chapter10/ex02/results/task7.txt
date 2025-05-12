@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Create the function menu in script.js
-Reason: None
-Timestamp: 2025-05-12 23:09:50.111616
+Reason: Assertion failed: menu function is not defined correctly in script.js
+Error : AssertionError - menu function is not defined correctly in script.js
+Timestamp: 2025-05-12 23:15:33.684607
