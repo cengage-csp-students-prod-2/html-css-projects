@@ -197,29 +197,37 @@ footer a {
 
 /* Tablet Media Query */
 @media screen and (min-width: 620px), print {
-.tab-desk {
-    display: block;
-}
+    .tab-desk {
+        display: block;
+    }
 
-.mobile {
-    display: none;
-}
+    #nav-links {
+        display: block;
+    }
 
-nav li {
-    border-top: none;
-    display: inline-block;
-    font-size: 1.25em;
-}
+    .mobile {
+        display: none;
+    }
 
-nav li a {
-    padding: 0.5em;
-}
+    .mobile-nav {
+        display: none;
+    }
 
-.grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
-}
+    nav li {
+        border-top: none;
+        display: inline-block;
+        font-size: 1.25em;
+    }
+
+    nav li a {
+        padding: 0.5em;
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+    }
 
     aside {
         grid-column: 1 / span 2;
@@ -228,49 +236,49 @@ nav li a {
 
 /* Desktop Media Query */
 @media screen and (min-width: 1000px) {
-nav li {
-    font-size: 1.5em;
-}
+    nav li {
+        font-size: 1.5em;
+    }
 
-nav li a {
-    padding: 0.5em 1.5em;
-}
+    nav li a {
+        padding: 0.5em 1.5em;
+    }
 
-nav li a:hover {
-    color: #2a1f14;
-    background-color: #f6eee4;
-    opacity: 0.5;
-}
+    nav li a:hover {
+        color: #2a1f14;
+        background-color: #f6eee4;
+        opacity: 0.5;
+    }
 
-#info ul {
-    margin-left: 5%;
-}
+    #info ul {
+        margin-left: 5%;
+    }
 
-.grid {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    grid-gap: 30px;
-}
+    .grid {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 30px;
+    }
 
-aside {
-    grid-column: 1 / span 3;
-    font-size: 2em;
+    aside {
+        grid-column: 1 / span 3;
+        font-size: 2em;
     }
 }
 
 /* Large Desktop Media Query */
 @media screen and (min-width: 1400px) {
-.grid {
-    grid-template-columns: auto auto auto auto;
-    grid-gap: 30px;
-}
+    .grid {
+        grid-template-columns: auto auto auto auto;
+        grid-gap: 30px;
+    }
 
-aside {
-    grid-column: 1 / span 4;
-    font-size: 3em;
-}
+    aside {
+        grid-column: 1 / span 4;
+        font-size: 3em;
+    }
 
-nav li a:hover {
-    opacity: 0.5;
+    nav li a:hover {
+        opacity: 0.5;
     }
 }
