@@ -5,52 +5,52 @@ Test: ans1 on click functions properly
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
-Timestamp: 2025-05-12 21:51:39.770765
+Timestamp: 2025-05-12 21:59:05.326382
 
 Status: FAILED!
 Check: 2
@@ -58,52 +58,52 @@ Test: ans2 on click functions properly
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
-Timestamp: 2025-05-12 21:51:40.800058
+Timestamp: 2025-05-12 21:59:06.359134
 
 Status: FAILED!
 Check: 3
@@ -111,52 +111,52 @@ Test: ans3 on click functions properly
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
-Timestamp: 2025-05-12 21:51:41.830871
+Timestamp: 2025-05-12 21:59:07.389981
 
 Status: FAILED!
 Check: 4
@@ -164,49 +164,49 @@ Test: ans4 on click functions properly
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="answer"]"}
   (Session info: chrome=136.0.7103.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55f065b8d7fa <unknown>
-#1 0x55f065631e90 <unknown>
-#2 0x55f065683870 <unknown>
-#3 0x55f065683a61 <unknown>
-#4 0x55f0656d1cb4 <unknown>
-#5 0x55f0656a926d <unknown>
-#6 0x55f0656cf135 <unknown>
-#7 0x55f0656a9013 <unknown>
-#8 0x55f065675b3b <unknown>
-#9 0x55f0656767a1 <unknown>
-#10 0x55f065b52b9b <unknown>
-#11 0x55f065b56a8a <unknown>
-#12 0x55f065b3a912 <unknown>
-#13 0x55f065b57604 <unknown>
-#14 0x55f065b1f74f <unknown>
-#15 0x55f065b7b678 <unknown>
-#16 0x55f065b7b856 <unknown>
-#17 0x55f065b8c666 <unknown>
-#18 0x7f799fa9caa4 <unknown>
-#19 0x7f799fb29c3c <unknown>
+#0 0x55f55609a7fa <unknown>
+#1 0x55f555b3ee90 <unknown>
+#2 0x55f555b90870 <unknown>
+#3 0x55f555b90a61 <unknown>
+#4 0x55f555bdecb4 <unknown>
+#5 0x55f555bb626d <unknown>
+#6 0x55f555bdc135 <unknown>
+#7 0x55f555bb6013 <unknown>
+#8 0x55f555b82b3b <unknown>
+#9 0x55f555b837a1 <unknown>
+#10 0x55f55605fb9b <unknown>
+#11 0x55f556063a8a <unknown>
+#12 0x55f556047912 <unknown>
+#13 0x55f556064604 <unknown>
+#14 0x55f55602c74f <unknown>
+#15 0x55f556088678 <unknown>
+#16 0x55f556088856 <unknown>
+#17 0x55f556099666 <unknown>
+#18 0x7f634dc9caa4 <unknown>
+#19 0x7f634dd29c3c <unknown>
 
-Timestamp: 2025-05-12 21:51:42.856848
+Timestamp: 2025-05-12 21:59:08.417902
