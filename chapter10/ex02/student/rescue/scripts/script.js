@@ -1,6 +1,6 @@
 /*
-Author: Lawrence Oladimeji
-Name: script.js
+Student Name: Lawrence Oladimeji
+File Name: script.js
 Date: 05/09/2025
 */
 
