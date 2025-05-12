@@ -27,7 +27,8 @@ img {
     text-align: center;
 }
 
-.tab-desk {
+.tab-desk,
+#nav-links {
     display: none;
 }
 
