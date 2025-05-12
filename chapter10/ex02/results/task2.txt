@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in index.html.
-Reason: Assertion failed: Could not find the nav element with class tab-desk in index.html
-Error : AssertionError - Could not find the nav element with class tab-desk in index.html
-Timestamp: 2025-05-12 21:44:15.140266
+Reason: None
+Timestamp: 2025-05-12 21:51:42.858907
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in about.html.
-Reason: Assertion failed: Could not find the nav element with class tab-desk in about.html
-Error : AssertionError - Could not find the nav element with class tab-desk in about.html
-Timestamp: 2025-05-12 21:44:15.142343
+Reason: None
+Timestamp: 2025-05-12 21:51:42.861287
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in contact.html.
-Reason: Assertion failed: Could not find the nav element with class tab-desk in contact.html
-Error : AssertionError - Could not find the nav element with class tab-desk in contact.html
-Timestamp: 2025-05-12 21:44:15.144642
+Reason: None
+Timestamp: 2025-05-12 21:51:42.864794
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in gallery.html.
-Reason: Assertion failed: Could not find the nav element with class tab-desk in gallery.html
-Error : AssertionError - Could not find the nav element with class tab-desk in gallery.html
-Timestamp: 2025-05-12 21:44:15.148409
+Reason: None
+Timestamp: 2025-05-12 21:51:42.867578
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in partnership.html.
-Reason: Assertion failed: Could not find the nav element with class tab-desk in partnership.html
-Error : AssertionError - Could not find the nav element with class tab-desk in partnership.html
-Timestamp: 2025-05-12 21:44:15.151029
+Reason: None
+Timestamp: 2025-05-12 21:51:42.870072
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in template.html.
-Reason: Assertion failed: Could not find the nav element with class tab-desk in template.html
-Error : AssertionError - Could not find the nav element with class tab-desk in template.html
-Timestamp: 2025-05-12 21:44:15.153010
+Reason: None
+Timestamp: 2025-05-12 21:51:42.872282
