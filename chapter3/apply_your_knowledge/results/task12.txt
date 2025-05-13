@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Changed the first paragraph element within the `div` with the **semantic** `id` to an **h3** element
-Reason: Assertion failed: No `h3` element found within the `div` element
-Error : AssertionError - No `h3` element found within the `div` element
-Timestamp: 2025-05-13 01:04:13.819463
+Reason: Assertion failed: The `h3` element does not contain the correct text
+Error : AssertionError - The `h3` element does not contain the correct text
+Timestamp: 2025-05-13 01:06:54.719478
