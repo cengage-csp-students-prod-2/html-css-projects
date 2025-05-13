@@ -21,7 +21,6 @@ body {
     height: 170px;
 }
 
-/* sticky */
 .sticky {
     position: -webkit-sticky;
     position: sticky;
