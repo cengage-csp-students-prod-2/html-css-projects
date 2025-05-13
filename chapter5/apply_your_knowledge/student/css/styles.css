@@ -43,9 +43,9 @@ nav {
     padding: 1%;
     margin-bottom: 1%;
     background-color: #67afcb;
-    
-    position: -webkit-sticky; /* For Safari */
-    position: sticky;          /* Standard */
+
+    position: -webkit-sticky; /* Safari support */
+    position: sticky;         /* Standard */
     top: 0px;
 }
 
