@@ -51,8 +51,8 @@ nav {
 }
 
 nav ul {
-    text-align: center;
     list-style-type: none;
+    text-align: center;
 }
 
 nav li {
