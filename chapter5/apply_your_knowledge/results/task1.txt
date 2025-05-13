@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Enter your name Firstname Lastname into the `Author:` field of index.html file. (e.g. Author: Firstname Lastname)
 Reason: 'Author: Firstname Lastname' was found in the program output.None
-Timestamp: 2025-05-13 02:08:41.516375
+Timestamp: 2025-05-13 02:14:04.305459
 
 Status: PASSED!
 Check: 2
 Test: Enter the file name into the `File Name:` field of index.html file. (e.g. File Name: index.html)
 Reason: 'File Name: index.html' was found in the program output.None
-Timestamp: 2025-05-13 02:08:41.516672
+Timestamp: 2025-05-13 02:14:04.305748
 
 Status: PASSED!
 Check: 3
 Test: Enter today's date MM/DD/YYYY into the `Date:` field of index.html file. (e.g. Date: MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-13 02:08:41.516931
+Timestamp: 2025-05-13 02:14:04.305999
