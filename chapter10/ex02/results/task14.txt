@@ -4,25 +4,25 @@ Check: 1
 Test: ans1 on click functions properly
 Reason: Assertion failed: ans1 did not change the text in the p element of the answer div
 Error : AssertionError - ans1 did not change the text in the p element of the answer div
-Timestamp: 2025-05-13 00:09:12.277421
+Timestamp: 2025-05-13 00:15:59.877041
 
 Status: FAILED!
 Check: 2
 Test: ans2 on click functions properly
 Reason: Assertion failed: ans2 did not change the text in the p element of the answer div
 Error : AssertionError - ans2 did not change the text in the p element of the answer div
-Timestamp: 2025-05-13 00:09:12.349779
+Timestamp: 2025-05-13 00:15:59.949002
 
 Status: FAILED!
 Check: 3
 Test: ans3 on click functions properly
 Reason: Assertion failed: ans3 did not change the text in the p element of the answer div
 Error : AssertionError - ans3 did not change the text in the p element of the answer div
-Timestamp: 2025-05-13 00:09:12.425538
+Timestamp: 2025-05-13 00:16:00.020946
 
 Status: FAILED!
 Check: 4
 Test: ans4 on click functions properly
 Reason: Assertion failed: ans4 did not change the text in the p element of the answer div
 Error : AssertionError - ans4 did not change the text in the p element of the answer div
-Timestamp: 2025-05-13 00:09:12.502219
+Timestamp: 2025-05-13 00:16:00.095268
