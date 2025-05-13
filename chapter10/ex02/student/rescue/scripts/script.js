@@ -22,21 +22,33 @@ function menu() {
 }
 
 function ans1() {
-  document.querySelector("#answer p").textContent =
-    "If the baby is warm, has a full belly, and is not crying, the mother is likely nearby. Observe from a distance before interfering.";
+    const answerBox = document.querySelector("#answer p");
+    if (answerBox) {
+        answerBox.textContent =
+            "If the baby is warm, has a full belly, and is not crying, the mother is likely nearby. Observe from a distance before interfering.";
+    }
 }
 
 function ans2() {
-  document.querySelector("#answer p").textContent =
-    "Common signs of rabies include excessive drooling, aggression, and strange behavior. Do not approach and call animal control.";
+    const answerBox = document.querySelector("#answer p");
+    if (answerBox) {
+        answerBox.textContent =
+            "Common signs of rabies include excessive drooling, aggression, and strange behavior. Do not approach and call animal control.";
+    }
 }
 
 function ans3() {
-  document.querySelector("#answer p").textContent =
-    "No, birds do not abandon their babies due to human scent. Gently return the baby to the nest if it is safe to do so.";
+    const answerBox = document.querySelector("#answer p");
+    if (answerBox) {
+        answerBox.textContent =
+            "No, birds do not abandon their babies due to human scent. Gently return the baby to the nest if it is safe to do so.";
+    }
 }
 
 function ans4() {
-  document.querySelector("#answer p").textContent =
-    "Visit our Contact Us page to fill out a volunteer form. We’ll be in touch with opportunities.";
+    const answerBox = document.querySelector("#answer p");
+    if (answerBox) {
+        answerBox.textContent =
+            "Visit our Contact Us page to fill out a volunteer form. We’ll be in touch with opportunities.";
+    }
 }
