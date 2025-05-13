@@ -1,7 +1,7 @@
 /*  
 Student Name: Lawrence Oladimeji
 File name: styles.css
-Date: 
+Date: 05/12/2025
 */
 body {
     background-color: #dde3fd;
@@ -22,10 +22,18 @@ body {
 }
 
 /* sticky */
-
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
 
 /* relative */
-
+.relative {
+    position: relative;
+    top: 90px;
+    left: 30px;
+}
 
 /* fixed */
 
