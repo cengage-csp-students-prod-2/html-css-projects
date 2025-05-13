@@ -3,10 +3,11 @@ Status: PASSED!
 Check: 1
 Test: Create a div element below the questions div with an id attribute of answer
 Reason: None
-Timestamp: 2025-05-13 00:04:28.199773
+Timestamp: 2025-05-13 00:09:11.827752
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Nest the h2 and p elements within the answer div
-Reason: None
-Timestamp: 2025-05-13 00:04:28.202795
+Reason: Assertion failed: h2 element not found
+Error : AssertionError - h2 element not found
+Timestamp: 2025-05-13 00:09:11.830244
