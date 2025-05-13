@@ -43,11 +43,10 @@ nav {
     padding: 1%;
     margin-bottom: 1%;
     background-color: #67afcb;
-
-    /* Sticky position compatible with modern browsers */
-    position: -webkit-sticky; 
-    position: sticky;
-    top: 0px; 
+    
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;          /* Standard */
+    top: 0px;
 }
 
 nav ul {
@@ -56,16 +55,17 @@ nav ul {
 }
 
 nav li {
+    display: inline-block;
     font-size: 1.5em;
     padding: 4%;
-    display: inline-block;
     font-family: 'B612', sans-serif;
 }
 
-nav li a {
-    display: block;
-    color: #092834;
-    text-decoration: none;
+nav li {
+    display: inline-block;
+    font-size: 1.5em;
+    padding: 4%;
+    font-family: 'B612', sans-serif;
 }
 
 /* Style rules for main content  */
