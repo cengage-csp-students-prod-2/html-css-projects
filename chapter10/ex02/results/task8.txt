@@ -3,35 +3,34 @@ Status: PASSED!
 Check: 1
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in about.html
 Reason: None
-Timestamp: 2025-05-13 00:41:49.362950
+Timestamp: 2025-05-13 00:44:26.980270
 
 Status: PASSED!
 Check: 2
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in contact.html
 Reason: None
-Timestamp: 2025-05-13 00:41:49.365609
+Timestamp: 2025-05-13 00:44:26.983173
 
 Status: PASSED!
 Check: 3
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in index.html
 Reason: None
-Timestamp: 2025-05-13 00:41:49.367488
+Timestamp: 2025-05-13 00:44:26.985459
 
 Status: PASSED!
 Check: 4
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in gallery.html
 Reason: None
-Timestamp: 2025-05-13 00:41:49.370508
+Timestamp: 2025-05-13 00:44:26.988549
 
 Status: PASSED!
 Check: 5
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in partnership.html
 Reason: None
-Timestamp: 2025-05-13 00:41:49.373981
+Timestamp: 2025-05-13 00:44:26.991230
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Add a script element with the src attribute pointing to script.js above the closing body tag in template.html
-Reason: Assertion failed: script element with src attribute pointing to script.js not found above closing body tag
-Error : AssertionError - script element with src attribute pointing to script.js not found above closing body tag
-Timestamp: 2025-05-13 00:41:49.376317
+Reason: None
+Timestamp: 2025-05-13 00:44:26.993601

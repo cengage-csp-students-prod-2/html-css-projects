@@ -3,52 +3,52 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
 Reason: None
-Timestamp: 2025-05-13 00:41:47.260096
+Timestamp: 2025-05-13 00:44:23.867110
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
 Reason: None
-Timestamp: 2025-05-13 00:41:47.262481
+Timestamp: 2025-05-13 00:44:23.871309
 
 Status: PASSED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
 Reason: None
-Timestamp: 2025-05-13 00:41:47.265000
+Timestamp: 2025-05-13 00:44:23.875680
 
 Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
 Reason: None
-Timestamp: 2025-05-13 00:41:47.267992
+Timestamp: 2025-05-13 00:44:23.880972
 
 Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
 Reason: None
-Timestamp: 2025-05-13 00:41:47.270670
+Timestamp: 2025-05-13 00:44:23.885578
 
 Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
 Reason: None
-Timestamp: 2025-05-13 00:41:47.273051
+Timestamp: 2025-05-13 00:44:23.889654
 
 Status: PASSED!
 Check: 2
 Test: "Name" added to comment section of the file music/scripts/script.js
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2025-05-13 00:41:49.356209
+Timestamp: 2025-05-13 00:44:26.976708
 
 Status: PASSED!
 Check: 3
 Test: "Filename" added to comment section of the file music/scripts/script.js
 Reason: 'File Name: script.js' was found in the program output.None
-Timestamp: 2025-05-13 00:41:49.356451
+Timestamp: 2025-05-13 00:44:26.976906
 
 Status: PASSED!
 Check: 4
 Test: "Date" added to comment section of the file music/scripts/script.js
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2025-05-13 00:41:49.357744
+Timestamp: 2025-05-13 00:44:26.977127
