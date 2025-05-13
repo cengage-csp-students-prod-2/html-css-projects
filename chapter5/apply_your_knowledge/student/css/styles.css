@@ -16,19 +16,18 @@ body {
     background-color: #e4f1f6;
 }
 
-/* Style rule for images */
-img {
+mg {
     max-width: 100%;
     display: block;
 }
 
-/*Style rules for mobile viewport*/
 
-
-/*Style rule to hide tablet-desk class*/
 .tablet-desk {
     display: none;
 }
+/* Style rules for mobile viewport */ 
+
+/* Style rule to hide tablet-desk class */
 
 /* Style rule for header */
 header {
