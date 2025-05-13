@@ -21,20 +21,22 @@ function menu() {
 		}
 }
 
-// script.js
-
 function ans1() {
-    document.getElementById("answer").innerHTML = "<p>If you see a baby animal alone, observe from a distance. The parent may be nearby. If the animal is injured or in danger, contact a licensed wildlife rehabilitator.</p>";
+    document.querySelector("#answer p").textContent = 
+        "If the baby is warm, has a full belly, and is not crying, the mother is likely nearby. Observe from a distance before interfering.";
 }
 
 function ans2() {
-    document.getElementById("answer").innerHTML = "<p>Signs of rabies in animals may include unusual aggression, confusion, or drooling. Never approach a potentially rabid animal—contact animal control immediately.</p>";
+    document.querySelector("#answer p").textContent = 
+        "Common signs of rabies include excessive drooling, aggression, and strange behavior. Do not approach and call animal control.";
 }
 
 function ans3() {
-    document.getElementById("answer").innerHTML = "<p>No, birds have a poor sense of smell and will not abandon their baby if touched. It’s safe to return the baby bird to its nest if it’s uninjured.</p>";
+    document.querySelector("#answer p").textContent = 
+        "No, birds do not abandon their babies due to human scent. Gently return the baby to the nest if it is safe to do so.";
 }
 
 function ans4() {
-    document.getElementById("answer").innerHTML = "<p>You can volunteer by visiting our contact page and submitting a volunteer form. We will reach out with available opportunities and training requirements.</p>";
+    document.querySelector("#answer p").textContent = 
+        "Visit our Contact Us page to fill out a volunteer form. We’ll be in touch with opportunities.";
 }
