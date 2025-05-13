@@ -1,21 +1,20 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a declaration for the `position` property with a value of -webkit-sticky
-Reason: Assertion failed: The declaration for the `position` property with a value of -webkit-sticky is missing.
-Error : AssertionError - The declaration for the `position` property with a value of -webkit-sticky is missing.
-Timestamp: 2025-05-13 02:41:40.441085
+Reason: None
+Timestamp: 2025-05-13 02:43:46.102025
 
 Status: FAILED!
 Check: 2
 Test: Add a declaration for the `position` property with a value of sticky
 Reason: Assertion failed: The `position` property does not have a value of sticky. found static
 Error : AssertionError - The `position` property does not have a value of sticky. found static
-Timestamp: 2025-05-13 02:41:40.686330
+Timestamp: 2025-05-13 02:43:46.147999
 
 Status: FAILED!
 Check: 3
 Test: Add a declaration for the `top` property and specify a 0 value
 Reason: Assertion failed: The `top` property does not have a value of 0.
 Error : AssertionError - The `top` property does not have a value of 0.
-Timestamp: 2025-05-13 02:41:40.700270
+Timestamp: 2025-05-13 02:43:46.161091
