@@ -1,2 +1,4 @@
 ## Task 10
-Create the tablet styles rules for the `form` selector setting width to **70%**, top and bottom margin to **0px**, left and right margin to **auto**
+In _styles.css_, create the following style rules for the `form` selector for the tablet viewport: 
+ * set the `width` to **70%**
+ * set the top and bottom margin to **0px** and left and right margin to **auto**

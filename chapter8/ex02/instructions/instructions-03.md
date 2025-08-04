@@ -1,1 +1,1 @@
-**Task #03:** Insert the the `partner` and `desktop` selectors
+**Task #03:** Add a new `div`, then add the `partner` and `desktop` selectors to it.

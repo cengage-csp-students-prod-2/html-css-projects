@@ -1,1 +1,1 @@
-**Task #02:** Nest an `h2` element with the `rental` `id` with the provided text
+**Task #02:** Add an `h2` element within the `rental` `div` containing the provided text

@@ -1,2 +1,2 @@
 ## Task 11
-Create the desktop style rules for the `form` selector setting the width to **auto**.
+In _styles.css_, create the desktop viewport style rules for the `form` selector, setting the `width` to **auto**.

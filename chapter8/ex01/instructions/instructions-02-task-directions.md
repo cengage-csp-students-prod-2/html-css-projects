@@ -1,2 +1,4 @@
 ## Task 02
-Insert an `h2` element within the `rental` `div` that contains the following text: **We rent many different kinds of musical equipment. See our rental rates below**. 
+Add an `h2` element within the `div` with `id` *rental* that you created in Task 01. 
+
+Add the following text inside the `h2`: **We rent many different kinds of musical equipment. See our rental rates below**. 

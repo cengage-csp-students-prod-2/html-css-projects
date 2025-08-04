@@ -1,5 +1,5 @@
 ## Task 05
-In the *styles.css* file, below the mobile style rule for `.map`, add the following comment:
+In the _styles.css_ file, below the mobile style rule for `.map`, add the following comment:
 ```css
 /* Style rules for table elements */
 ```

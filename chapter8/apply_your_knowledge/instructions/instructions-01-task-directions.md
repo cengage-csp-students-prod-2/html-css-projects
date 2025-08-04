@@ -1,4 +1,12 @@
 ## Task 01
-Open the *index.html* file. Review the page, add a `title` and modify the comment at the top of the page to include **your name** (firstname lastname) and **today’s date** (MM/DD/YYYY), and replace “Student’s Name” with **your name** in the `footer` element.
+Open the file _index.html_ file. 
 
-Open the *styles.css* file from the *css* folder. Modify the comment at the top of the style sheet to include **your name** (firstname lastname) and **today’s date** (MM/DD/YYYY). 
+Review the contents of the HTML in the page. Add an appropriate `title` to the HTML. 
+
+Modify the comments at the top of the code to include **your name** using the format (Firstname Lastname) and **today’s date** in the format (MM/DD/YYYY). 
+
+Replace “Student’s Name” with **your name** in the `footer` element.
+
+Open the _styles.css_ file from the _/css_ folder. 
+
+Modify the comments at the top of the document to include **your name** using the format (Firstname Lastname) and **today’s date** in the format (DD/MM/YYYY). 

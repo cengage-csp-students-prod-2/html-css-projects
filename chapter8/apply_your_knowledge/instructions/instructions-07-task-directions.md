@@ -1,6 +1,9 @@
 ## Task 07
-Create a style rule for `th` and `td` selectors that sets a `border` with the values **1px solid #7188bb**.
 
-Create a style rule for `td` that center-aligns its text.
+In the file _styles.css_, add the following style rules for the table elements.
 
-Create a style rule for `tr` that sets the background color to **#d3e788** for odd rows.
+Create style rules for `th` and `td` selectors that sets a `border` to the values **1px solid #7188bb**.
+
+Create a style rule for `td` that sets the `text-align` value to **center**.
+
+Create a style rule for `tr` that sets the `background-color` to **#d3e788** for only the odd rows.

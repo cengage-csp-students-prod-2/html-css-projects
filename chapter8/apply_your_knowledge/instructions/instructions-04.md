@@ -1,1 +1,1 @@
-**Task #04:** The table is contains the correct content and is styled correctly.
+**Task #04:** Create the columns, rows and data within the table.

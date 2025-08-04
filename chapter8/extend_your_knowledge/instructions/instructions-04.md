@@ -1,1 +1,1 @@
-**Task #04:** Style the `table`
+**Task #04:** Style the HTML page and `table`

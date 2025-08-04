@@ -1,1 +1,1 @@
-**Task #01:** Link the HTML and CSS files
+**Task #01:** Open _index.html_ and _styles.css_. Update the comments and formatting. Link the HTML and CSS files

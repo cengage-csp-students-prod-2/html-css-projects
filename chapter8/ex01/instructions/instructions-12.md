@@ -1,1 +1,1 @@
-**Task #12:** Create the tablet style rules for the `form` element
+**Task #12:** Create the mobile style rules for the `form` element

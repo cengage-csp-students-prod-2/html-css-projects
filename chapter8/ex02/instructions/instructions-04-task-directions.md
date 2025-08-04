@@ -1,5 +1,9 @@
 ## Task 04
-Nest a `table` within the `partner` `div` element. Include a `caption` with the text **Sponsorship Opportunities**.   Insert seven rows within the table and include a comment for each row to note the row number. Follow the example below:
+Add an html `table` within the `partner` `div` element. 
+
+Include a `caption` with the text **Sponsorship Opportunities**.   
+
+Add seven rows within the table and include a comment for each row to note the row number. Follow the example below:
 ```html
 <tr><!-- Row 1 -->  
 ...

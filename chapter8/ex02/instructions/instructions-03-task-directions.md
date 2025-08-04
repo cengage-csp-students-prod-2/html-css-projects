@@ -1,2 +1,6 @@
 ## Task 03
-Insert a new `div` element below the `mobile-tablet` `div` element. Add an `id` attribute with a value of **partner** to the empty `div` element nested within the `main` element. Then, add a class attribute with a value of **desktop** to the `div` element. 
+Add a new `div` element below the `mobile-tablet` `div` element that you added in Task 02. 
+
+Add an `id` attribute with a value of **partner** to this new `div` element. 
+
+Add a class attribute with a value of **desktop** to the `div` element. 

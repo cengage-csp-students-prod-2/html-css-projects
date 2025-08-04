@@ -1,5 +1,7 @@
 ## Task 02
-Add a class attribute with the value **mobile-tablet** to the empty `div` element. Nest the following elements within this `div` element:
+In the html of _template.html_, add a class attribute with the value **mobile-tablet** to the empty `div` element. 
+
+Add the following elements within this `div` element:
 * An `h3` element with the text **Sponsorship Levels**.
 * Paragraph element with the text **Green: $200**.
 * Paragraph element with the text **Blue: $400**.

@@ -1,1 +1,1 @@
-**Task #04:** Update the styles for the `rental h2` and `form h2` selector
+**Task #04:** Update the styles for the `rental` and `form` selectors

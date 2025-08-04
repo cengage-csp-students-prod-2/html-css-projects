@@ -1,1 +1,1 @@
-**Task #15:** Create the mobile styles for the `form`element
+**Task #15:** Create the tablet styles for the `form`element

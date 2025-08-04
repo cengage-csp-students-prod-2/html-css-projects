@@ -1,7 +1,7 @@
 ## Task 02
-In the *index.html* file, add a `table` element within the `main`   element.
+In the _index.html_ file, add the opening and closing tags of a `table` element within the `main` element.
 
-Nest the following `caption` element within the `table` element:
+Add a `caption` element within the `table` element using the following code as a model:
 ```html
 <caption>2025 Sales by Quarter</caption> 
 ```

@@ -1,5 +1,11 @@
 ## Task 04
-Use the following data to populate the rows for the table. In the table, create tr elements for each row, within each row use **th** elements for column or row label and **td** elements for the data cell.
+Between the opening and closing `table` tags, create the opening and closing tags for five **tr** elements, one for each row. 
+
+In the first table row, create five **th** elements for the column headings.  
+
+In each of the remaining table rows, create five **td** elements for the data cells.
+
+Use the following data to populate the rows for the table. 
 
 <table>
   <thead>
